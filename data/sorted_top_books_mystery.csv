@@ -1,0 +1,501 @@
+id,title,author,ISBN,series,avg_rating,pages,rating_count,review_count,book_format,published_year,publisher
+1,Blindsighted,Karin Slaughter,0380820889,(Grant County #1),4.10,418,58824,2663,Paperback,October 1st 2002,Harper
+2,Sworn to Silence,Linda Castillo,0312374976,(Kate Burkholder #1),4.00,321,25904,2930,Hardcover,June 23rd 2009,Minotaur Books
+3,The Pale Horse,Agatha Christie,0312981716,(Ariadne Oliver #5),3.77,288,11791,722,Mass Market Paperback,December 15th 2002,Minotaur Books
+4,Judgment in Death,J.D. Robb,0425176304,(In Death #11),4.34,356,29575,777,Mass Market Paperback,September 1st 2000,Berkley Books
+5,The Talented Mr. Ripley,Patricia Highsmith,0393332144,(Ripley #1),3.94,320,47302,2768,Paperback,June 17th 2008,W. W. Norton
+6,The Life We Bury,Allen Eskens,1616149981,(Joe Talbert #1),3.96,303,73123,8142,Paperback,October 14th 2014,Seventh Street Books
+7,"The Snake, the Crocodile and the Dog",Elizabeth Peters,,(Amelia Peabody   #7),4.21,432,10865,396,Mass Market Paperback,February 1st 1994,Grand Central Publishing
+8,One Good Turn,Kate Atkinson,0316012823,(Jackson Brodie #2),3.80,448,26861,2548,Paperback,September 10th 2007,Back Bay Books
+9,Bare Bones,Kathy Reichs,074345300X,(Temperance Brennan #6),3.97,416,32163,898,Paperback,June 1st 2004,Pocket Star
+10,Grave Secrets,Kathy Reichs,0684859734,(Temperance Brennan #5),3.98,315,27251,822,Hardcover,July 9th 2002,Scribner Book Company
+11,The Widow,Fiona Barton,1101990260,(Kate Waters #1),3.49,324,73545,7787,Hardcover,February 16th 2016,NAL
+12,The God of the Hive,Laurie R. King,0553805541,(Mary Russell and Sherlock Holmes #10),4.18,368,11117,982,Hardcover,2010,Bantam Books
+13,When You Reach Me,Rebecca Stead,0385737424,,4.09,199,78236,10944,Hardcover,July 14th 2009,Wendy Lamb Books
+14,Well-Schooled in Murder,Elizabeth  George,0553384813,(Inspector Lynley #3),4.12,432,20607,553,Paperback,May 1st 2007,Bantam
+15,Death of a Gossip,M.C. Beaton,0446607134,(Hamish Macbeth  #1),3.72,179,11037,902,Paperback,February 1999,Warner Books
+16,The Apprentice,Tess Gerritsen,0345447867,(Rizzoli & Isles #2),4.14,376,44884,1960,Paperback,2008,Ballantine Books
+17,The Kind Worth Killing,Peter  Swanson,0062267523,,4.03,311,67655,8039,Hardcover,February 3rd 2015,William Morrow
+18,Point of Origin,Patricia Cornwell,0751530484,(Kay Scarpetta #9),4.03,440,55134,640,Paperback,2000,Time Warner
+19,Harry Potter and the Sorcerer's Stone,J.K. Rowling,0439554934,(Harry Potter #1),4.47,320,5983440,96245,Hardcover,June 26th 1997,Scholastic Inc
+20,"Crooked Letter, Crooked Letter",Tom Franklin,0060594667,,3.83,274,36576,4624,Hardcover,October 5th 2010,William Morrow
+21,Payment in Blood,Elizabeth  George,,(Inspector Lynley #2),4.01,432,16640,626,Paperback,June 1st 1990,Bantam Books
+22,Unnatural Exposure,Patricia Cornwell,0751530492,(Kay Scarpetta #8),4.06,370,50006,619,Paperback,2000,Time Warner
+23,Portrait in Death,J.D. Robb,0425189031,(In Death #16),4.38,347,30034,760,Mass Market Paperback,February 25th 2003,Berkley
+24,Death Masks,Jim Butcher,0451459407,(The Dresden Files #5),4.32,432,103942,2941,Mass Market Paperback,August 5th 2003,Roc
+25,Tricky Twenty-Two,Janet Evanovich,0345542967,(Stephanie Plum #22),3.94,282,42195,4183,Hardcover,November 17th 2015,Bantam
+26,Two Can Keep a Secret,Karen M. McManus,1524714720,,3.99,336,18334,3390,Hardcover,January 8th 2019,Delacorte Press
+27,The Brass Verdict,Michael Connelly,0316166294,(Mickey Haller #2),4.12,422,50994,3104,Hardcover,October 14th 2008,"Little, Brown & Company"
+28,Bones to Ashes,Kathy Reichs,0743294378,(Temperance Brennan #10),3.93,310,24388,1178,Hardcover,August 28th 2007,Scribner Book Company
+29,Catering to Nobody,Diane Mott Davidson,0553584707,(A Goldy Bear Culinary Mystery #1),3.83,301,18433,813,Paperback,February 26th 2002,Bantam
+30,A Drink Before the War,Dennis Lehane,0156029022,(Kenzie & Gennaro #1),3.95,282,33401,1866,Paperback,September 15th 2003,Mariner Books
+31,The Case of the Missing Marquess,Nancy Springer,0399243046,(Enola Holmes #1),3.85,224,8033,948,Hardcover,February 16th 2006,Philomel
+32,Dirk Gently's Holistic Detective Agency,Douglas Adams,,(Dirk Gently #1),3.98,306,108635,3094,Mass Market Paperback,January 1st 2002,Pocket Books
+33,Break No Bones,Kathy Reichs,0743233492,(Temperance Brennan #9),3.96,337,24021,945,Hardcover,July 11th 2006,Scribner Book Company
+34,The Julius House,Charlaine Harris,0373262175,(Aurora Teagarden #4),3.84,256,15229,624,Mass Market Paperback,August 23rd 1996,Worldwide Library
+35,Jack & Jill,James Patterson,0446692654,(Alex Cross #3),3.96,466,62760,1485,Paperback,August 1st 2003,Grand Central Publishing
+36,The 6th Target,James Patterson,0316014796,(Women's Murder Club #6),4.03,390,51556,1693,Hardcover,May 8th 2007,Little Brown and Company
+37,Flying Too High,Kerry Greenwood,1590582373,(Phryne Fisher #2),3.86,156,8857,771,Hardcover,2006,Poisoned Pen Press
+38,Dead in the Family,Charlaine Harris,0441018645,(Sookie Stackhouse #10),3.89,311,145100,5449,Hardcover,May 4th 2010,Ace Books
+39,Murder on Astor Place,Victoria Thompson,0425168964,(Gaslight Mystery #1),3.89,278,9193,924,Mass Market Paperback,May 1st 1999,Berkley Prime Crime
+40,Rules of Prey,John Sandford,0425205819,(Lucas Davenport #1),4.12,479,65965,1947,Paperback,August 2nd 2005,G.P. Putnam's Sons
+41,The Club Dumas,Arturo Pérez-Reverte,,,3.81,362,31436,1797,Paperback,May 1st 2006,Mariner Books
+42,The Casual Vacancy,J.K. Rowling,0316228532,,3.29,503,282811,30443,Hardcover,September 27th 2012,"Little, Brown and Company"
+43,Blood Rites,Jim Butcher,0451459873,(The Dresden Files #6),4.34,452,98484,2682,Paperback,August 3rd 2004,Roc
+44,The Hippopotamus Pool,Elizabeth Peters,0446603988,(Amelia Peabody   #8),4.17,430,9603,316,Mass Market Paperback,June 1st 1997,Grand Central Publishing
+45,Devil in a Blue Dress,Walter Mosley,,(Easy Rawlins #1),3.90,263,16812,1163,Paperback,September 17th 2002,Washington Square Press
+46,Blueberry Muffin Murder,Joanne Fluke,1575667223,(Hannah Swensen #3),3.87,310,15285,818,Paperback,February 1st 2003,Kensington
+47,Cross Bones,Kathy Reichs,0743453026,(Temperance Brennan #8),3.87,453,22433,975,Paperback,June 1st 2006,Pocket Star
+48,The Last Coyote,Michael Connelly,075280944X,(Harry Bosch #4),4.23,400,52963,1722,Paperback,October 6th 1997,Orion
+49,The Mysterious Mr. Quin,Agatha Christie,0007154844,(Harley Quin #1),3.72,396,9778,625,Paperback,2003,Harper Collins
+50,Holes,Louis Sachar,0439244196,(Holes #1),3.95,233,868227,18547,Paperback,September 2nd 2000,Scholastic
+51,The Eyre Affair,Jasper Fforde,0142001805,(Thursday Next #1),3.91,374,105481,9574,Paperback,February 25th 2003,Penguin Books
+52,Eleven on Top,Janet Evanovich,0312985347,(Stephanie Plum #11),4.16,321,95660,1941,Paperback,June 20th 2006,St. Martin's Press
+53,A Rule Against Murder,Louise Penny,0312377029,(Chief Inspector Armand Gamache #4),4.20,322,42557,3354,Hardcover,January 20th 2009,Minotaur
+54,Twelve Sharp,Janet Evanovich,0312349486,(Stephanie Plum #12),4.14,310,85695,2148,Hardcover,June 20th 2006,St. Martin's Press
+55,The Memoirs of Sherlock Holmes,Arthur Conan Doyle,0192123092,(Sherlock Holmes #4),4.32,378,74897,1763,Hardcover,October 28th 1993,Oxford University Press
+56,"In a Dark, Dark Wood",Ruth Ware,1501112333,,3.68,308,162925,15026,Paperback,April 19th 2016,Gallery/Scout Press
+57,Night Film,Marisha Pessl,0812979788,,3.78,640,66795,9532,Paperback,July 1st 2014,Random House Trade Paperbacks
+58,Cards on the Table,Agatha Christie,0425205959,(Hercule Poirot #15),3.92,324,29369,1497,Paperback,July 5th 2005,Berkley
+59,Speaking from Among the Bones,Alan Bradley,0385344031,(Flavia de Luce  #5),4.16,378,30029,3477,Hardcover,February 5th 2013,Delacorte Press
+60,Killing Floor,Lee Child,0515141429,(Jack Reacher #1),4.05,424,217589,9554,Mass Market Paperback,April 25th 2006,Jove
+61,Lean Mean Thirteen,Janet Evanovich,0312349491,(Stephanie Plum #13),4.09,310,83716,2372,Hardcover,June 19th 2007,St. Martin's Press
+62,The Mystery of the Blue Train,Agatha Christie,1579126952,(Hercule Poirot #6),3.80,317,28741,1607,Hardcover,March 30th 2007,Black Dog & Leventhal Publishers
+63,Her Royal Spyness,Rhys Bowen,0425215679,(Royal Spyness #1),3.78,324,24969,2642,Paperback,July 3rd 2007,Berkley Publishing Group
+64,C is for Corpse,Sue Grafton,0312939019,(Kinsey Millhone #3),3.90,305,38306,1192,Paperback,November 29th 2005,St. Martin's Press
+65,B is for Burglar,Sue Grafton,0312939000,(Kinsey Millhone #2),3.84,310,42447,1646,Paperback,November 29th 2005,St. Martin's Paperbacks
+66,Hercule Poirot's Christmas,Agatha Christie,0007120699,(Hercule Poirot #20),3.93,335,31582,2187,Paperback,September 1st 2001,HarperCollins Publishers
+67,Hallowe'en Party,Agatha Christie,0007120680,(Hercule Poirot #39),3.66,336,25055,1704,Paperback,September 3rd 2001,Harper
+68,The Brutal Telling,Louise Penny,,(Chief Inspector Armand Gamache #5),4.23,372,37735,3436,Hardcover,September 22nd 2009,Minotaur Books
+69,Fearless Fourteen,Janet Evanovich,0312349513,(Stephanie Plum #14),4.03,310,80811,3349,Hardcover,June 17th 2008,St. Martin's Press
+70,The Beautiful Mystery,Louise Penny,1250031125,(Chief Inspector Armand Gamache #8),4.19,390,38379,4353,Paperback,July 2nd 2013,Minotaur Books
+71,The Secret Place,Tana French,0143127519,(Dublin Murder Squad #5),3.85,480,52325,5973,Paperback,August 4th 2015,Penguin Books
+72,Bury Your Dead,Louise Penny,0312377045,(Chief Inspector Armand Gamache #6),4.35,371,39817,3994,Hardcover,September 28th 2010,Minotaur Books
+73,Murder in Mesopotamia,Agatha Christie,0007113803,(Hercule Poirot #14),3.89,264,31056,1362,Paperback,December 2001,Harper
+74,The Moving Finger,Agatha Christie,0007120842,(Miss Marple #4),3.85,299,23898,1558,Paperback,2012,Harper Collins
+75,The Mirror Crack'd from Side to Side,Agatha Christie,0007120982,(Miss Marple #9),3.91,351,27744,1101,Paperback,2002,HarperCollins
+76,The Dead in Their Vaulted Arches,Alan Bradley,,(Flavia de Luce  #6),4.17,338,24581,3434,Kindle Edition,January 14th 2014,Delacorte Press
+77,Finger Lickin' Fifteen,Janet Evanovich,0312383282,(Stephanie Plum #15),4.00,308,76496,4040,Hardcover,June 23rd 2009,St. Martin's Press
+78,Appointment with Death,Agatha Christie,0007119356,(Hercule Poirot #19),3.86,303,29984,1392,Paperback,2001,HarperCollins
+79,Truly Devious,Maureen Johnson,,(Truly Devious #1),4.05,416,22108,4804,Hardcover,January 16th 2018,HarperCollins
+80,Five Little Pigs,Agatha Christie,0425093255,(Hercule Poirot #25),3.98,224,33325,1919,Paperback,December 15th 1985,Berkley
+81,Heat Wave,Richard Castle,1401323820,(Nikki Heat #1),3.55,198,58047,4706,Hardcover,September 29th 2009,Hyperion
+82,Gaudy Night,Dorothy L. Sayers,0061043494,(Lord Peter Wimsey #12),4.24,501,21078,1499,Paperback,March 16th 1995,HarperTorch
+83,The Big Four,Agatha Christie,0007120818,(Hercule Poirot #5),3.59,272,28224,1934,Paperback,2002,HarperCollinsPublishers
+84,How the Light Gets In,Louise Penny,0312655479,(Chief Inspector Armand Gamache #9),4.43,405,42516,4639,Hardcover,August 27th 2013,Minotaur Books
+85,Crooked House,Agatha Christie,031298166X,,4.02,276,31985,2433,Paperback,August 19th 2002,Minotaur Books
+86,A Trick of the Light,Louise Penny,0312655452,(Chief Inspector Armand Gamache #7),4.30,339,36424,3072,Hardcover,August 30th 2011,Minotaur Books
+87,A Pocket Full of Rye,Agatha Christie,0451199863,(Miss Marple #7),3.85,220,24661,1077,Paperback,January 1st 2000,Signet
+88,Cocaine Blues,Kerry Greenwood,,(Phryne Fisher #1),3.80,185,17120,2230,Kindle Edition,January 10th 2012,Poisoned Pen Press
+89,Strong Poison,Dorothy L. Sayers,0060809086,(Lord Peter Wimsey #6),4.14,240,23907,1175,Paperback,October 1st 1987,HarperCollins Publishers
+90,The Black Echo,Michael Connelly,0446612731,(Harry Bosch #1),4.10,482,135017,3885,Paperback,December 1st 2002,Grand Central Publishing
+91,The Death of Mrs. Westaway,Ruth Ware,1501156217,,3.82,368,62500,8266,Hardcover,May 29th 2018,Gallery/Scout Press
+92,Curtain,Agatha Christie,0425173747,(Hercule Poirot #42),4.08,215,26454,1434,Mass Market Paperback,September 1st 2000,Berkley
+93,Silent in the Grave,Deanna Raybourn,0778324109,(Lady Julia Grey #1),3.91,509,18599,2128,Hardcover,March 1st 2007,Mira
+94,Paper Towns,John Green,014241493X,,3.84,305,783201,46378,Paperback,September 22nd 2009,Speak
+95,Death in the Clouds,Agatha Christie,000711933X,(Hercule Poirot #12),3.80,333,26972,1309,Paperback,2001,HarperCollins
+96,Birds of a Feather,Jacqueline Winspear,0143035304,(Maisie Dobbs #2),3.96,320,27150,2492,Paperback,2005,Penguin
+97,Sleeping Murder,Agatha Christie,0002317850,(Miss Marple #13),3.94,242,24274,1356,Hardcover,August 4th 2003,Dodd Mead; 1st edition (September 1976)
+98,A Morbid Taste for Bones,Ellis Peters,0446400157,(Chronicles of Brother Cadfael #1),3.98,197,28928,1339,Mass Market Paperback,1994,Grand Central Publishing
+99,The Man in the Brown Suit,Agatha Christie,0007151667,(Colonel Race #1),3.96,381,71081,1448,Paperback,2002,HarperCollinspublishers
+100,Lord Edgware Dies,Agatha Christie,0002314576,(Hercule Poirot #9),3.90,260,24688,1292,Paperback,1977,Collins for the Crime Club
+101,Cover Her Face,P.D. James,0743219570,(Adam Dalgliesh #1),3.94,250,28362,1108,Paperback,May 8th 2001,Scribner
+102,A Caribbean Mystery,Agatha Christie,0451199928,(Miss Marple #10),3.80,224,22342,1148,Paperback,March 1st 2000,Signet
+103,K is for Killer,Sue Grafton,0449000664,(Kinsey Millhone #11),3.98,292,35832,692,Paperback,June 23rd 1997,Ballantine Books
+104,The Last Policeman,Ben H. Winters,1594745765,(The Last Policeman #1),3.76,316,22675,3001,Paperback,July 10th 2012,Quirk Books
+105,Dark Matter,Blake Crouch,1101904224,,4.10,342,176627,23913,Hardcover,July 26th 2016,Crown
+106,A Lesson in Secrets,Jacqueline Winspear,0061727679,(Maisie Dobbs #8),4.03,321,15511,1411,Hardcover,March 22nd 2011,Harper
+107,G is for Gumshoe,Sue Grafton,0449000621,(Kinsey Millhone #7),3.92,261,28538,798,Paperback,June 23rd 1997,Ballantine Books
+108,Immortal in Death,J.D. Robb,0749934085,(In Death #3),4.28,345,40705,1589,Paperback,September 25th 2003,Piatkus
+109,The Nature of the Beast,Louise Penny,1250022088,(Chief Inspector Armand Gamache #11),4.23,376,29235,3236,Hardcover,August 25th 2015,Minotaur Books
+110,Joyland,Stephen King,1781162646,,3.91,283,98376,10756,Paperback,June 4th 2013,Hard Case Crime
+111,The Husband's Secret,Liane Moriarty,0399159347,,3.94,396,458661,32893,Hardcover,July 30th 2013,Berkley
+112,The Clocks,Agatha Christie,1572703938,(Hercule Poirot #37),3.72,8,19561,927,Audio Cassette,June 9th 2004,Audio Partners
+113,Body of Evidence,Patricia Cornwell,0743493915,(Kay Scarpetta #2),4.02,403,59254,1098,Paperback,November 30th 2004,Pocket Books
+114,Pretty Little Liars,Sara Shepard,0060887303,(Pretty Little Liars #1),3.88,286,177574,8754,Hardcover,October 1st 2006,HarperCollins Publishers
+115,Faceless Killers,Henning Mankell,1400031575,(Kurt Wallander #1),3.77,280,58781,3040,Paperback,January 14th 2003,Vintage Crime/Black Lizard
+116,A Letter of Mary,Laurie R. King,000651085X,(Mary Russell and Sherlock Holmes #3),3.99,339,16067,985,Paperback,2001,HarperCollins
+117,A Study in Scarlet Women,Sherry Thomas,042528140X,(Lady Sherlock #1),3.85,323,12382,2317,Paperback,October 18th 2016,Berkley Books
+118,A Great Reckoning,Louise Penny,1250022134,(Chief Inspector Armand Gamache #12),4.42,389,35256,4154,Hardcover,August 30th 2016,Minotaur Books
+119,Sadie,Courtney Summers,1250105714,,4.21,308,29302,8034,Hardcover,September 4th 2018,Wednesday Books
+120,The Good Girl,Mary Kubica,0778316556,,3.81,352,168055,13895,Hardcover,July 29th 2014,Harlequin MIRA
+121,The Thirteen Problems,Agatha Christie,0007120869,(Miss Marple #2),3.89,315,17878,1141,Paperback,2002,Harper
+122,Dumb Witness,Agatha Christie,0007120796,(Hercule Poirot #16),3.83,411,18340,1025,Paperback,2002,HarperCollins
+123,The Mummy Case,Elizabeth Peters,0446601934,(Amelia Peabody   #3),4.04,327,14495,778,Mass Market Paperback,June 1st 1995,Warner Books (NY)
+124,Tell No One,Harlan Coben,0440236703,,4.11,370,101800,4607,Mass Market Paperback,August 25th 2009,Dell Publishing Company
+125,Pardonable Lies,Jacqueline Winspear,0312426216,(Maisie Dobbs #3),4.09,359,24086,1788,Paperback,June 27th 2006,Picador USA
+126,Flaggermusmannen,Jo Nesbø,8203180728,(Harry Hole #1),3.54,339,69726,5352,Paperback,July 2nd 2005,Aschehoug
+127,The Thin Man,Dashiell Hammett,0679722637,,3.96,201,24638,1830,Paperback,July 17th 1989,Vintage Crime/Black Lizard
+128,The Keeper of Lost Causes,Jussi Adler-Olsen,0525952489,(Afdeling Q #1),3.99,400,55718,4644,Hardcover,August 23rd 2011,Dutton Adult
+129,Death du Jour,Kathy Reichs,0671011375,(Temperance Brennan #2),3.96,451,35021,1340,Paperback,May 2006,Pocket Star
+130,The Cold Dish,Craig Johnson,0143036424,(Walt Longmire #1),4.13,354,24493,3114,Paperback,March 28th 2006,Penguin Books
+131,Unnatural Death,Dorothy L. Sayers,0061043583,(Lord Peter Wimsey #3),4.10,264,22550,747,Paperback,July 11th 1995,HarperTorch
+132,H is for Homicide,Sue Grafton,044900063X,(Kinsey Millhone #8),3.90,305,27846,783,Paperback,June 23rd 1997,Ballantine Books
+133,Three Act Tragedy,Agatha Christie,0425205975,(Hercule Poirot #11),3.82,336,17539,1020,Paperback,July 5th 2005,Berkley
+134,Notorious Nineteen,Janet Evanovich,,(Stephanie Plum #19),3.92,302,58395,5210,Hardcover,November 20th 2012,Headline Book Publishing
+135,Red Dragon,Thomas  Harris,0525945563,(Hannibal Lecter #1),4.03,348,240353,4232,Hardcover,May 22nd 2000,Dutton
+136,J is for Judgment,Sue Grafton,0449000656,(Kinsey Millhone #10),4.02,360,47112,688,Paperback,December 16th 1997,Ballantine Books
+137,The Diviners,Libba Bray,031612611X,(The Diviners #1),3.98,578,61420,9431,Hardcover,September 18th 2012,"Little, Brown Books for Young Readers"
+138,I is for Innocent,Sue Grafton,0449221512,(Kinsey Millhone #9),3.93,352,27466,690,Paperback,March 22nd 1993,Fawcett Books
+139,2nd Chance,James Patterson,0446696633,(Women's Murder Club #2),4.03,400,84594,2464,Paperback,May 20th 2005,Grand Central Publishing
+140,And Only to Deceive,Tasha Alexander,006114844X,(Lady Emily #1),3.73,321,15130,1887,Paperback,October 10th 2006,William Morrow Paperbacks
+141,The Crossing Places,Elly Griffiths,0547229895,(Ruth Galloway #1),3.88,320,22480,2566,Hardcover,January 5th 2010,Houghton Mifflin Harcourt
+142,Murder Must Advertise,Dorothy L. Sayers,0061043559,(Lord Peter Wimsey #10),4.21,356,17622,813,Paperback,May 10th 1995,HarperTorch
+143,The Nine Tailors,Dorothy L. Sayers,0151658978,(Lord Peter Wimsey #11),4.06,397,13698,1034,Hardcover,October 1st 1989,Houghton Mifflin Harcourt P
+144,The Valley of Fear,Arthur Conan Doyle,9626344245,(Sherlock Holmes #7),3.98,,27118,1490,Audio CD,April 3rd 2007,Naxos Audiobooks
+145,All the Missing Girls,Megan Miranda,,,3.78,384,96959,9067,Kindle Edition,June 28th 2016,Simon & Schuster
+146,Club Dead,Charlaine Harris,1841493015,(Sookie Stackhouse #3),4.03,274,206647,5326,Mass Market Paperback,May 6th 2006,Orbit
+147,Visions of Sugar Plums,Janet Evanovich,0312986343,(Stephanie Plum #8.5),3.69,230,69332,1775,Paperback,November 17th 2003,St Martins Pr
+148,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,0451528956,,3.80,144,322619,10589,Paperback,September 2nd 2003,Signet Classics
+149,Reconstructing Amelia,Kimberly McCreight,006222543X,,3.83,382,113395,11112,Hardcover,April 2nd 2013,HarperCollins
+150,Glass Houses,Louise Penny,1250066190,(Chief Inspector Armand Gamache #13),4.31,391,30915,4052,Hardcover,August 29th 2017,Minotaur Books
+151,Origin,Dan Brown,0385514239,(Robert Langdon #5),3.85,461,197610,20560,Hardcover,October 3rd 2017,Doubleday Books
+152,"One, Two, Buckle My Shoe",Agatha Christie,1572703857,(Hercule Poirot #23),3.75,0,19212,942,Audio CD,March 16th 2004,HarperCollins Publishers
+153,The Cat Who Could Read Backwards,Lilian Jackson Braun,0425195201,(Cat Who... #1),3.85,256,26953,1152,Paperback,August 5th 2003,Berkley Trade
+154,The Hollow,Agatha Christie,0007121024,(Hercule Poirot #26),3.79,384,17222,976,Paperback,2002,HarperCollins
+155,M is for Malice,Sue Grafton,0449223604,(Kinsey Millhone #13),4.09,352,62574,742,Mass Market Paperback,November 26th 1997,Fawcett
+156,The Curse of the Pharaohs,Elizabeth Peters,,(Amelia Peabody   #2),4.01,307,17603,1163,Kindle Edition,March 1st 2010,Mysterious Press
+157,Cat Among the Pigeons,Agatha Christie,0425205967,(Hercule Poirot #34),3.83,352,24547,1109,Paperback,July 5th 2005,Berkley
+158,Kiss the Girls,James Patterson,0446677388,(Alex Cross #2),3.95,481,297832,3207,Paperback,July 1st 2000,Grand Central Publishing
+159,A Curious Beginning,Deanna Raybourn,0451476026,(Veronica Speedwell #1),3.97,340,15378,2680,Paperback,July 12th 2016,Berkley Books
+160,The Daughter of Time,Josephine Tey,0684803860,(Inspector Alan Grant #5),3.94,206,21085,2719,Paperback,November 29th 1995,Scribner
+161,At Bertram's Hotel,Agatha Christie,0002310015,(Miss Marple #11),3.70,223,21473,1094,Paperback,2002,HarperCollins
+162,A Great Deliverance,Elizabeth  George,0553278029,(Inspector Lynley #1),4.05,413,35357,1607,Mass Market Paperback,June 1989,Bantam Books
+163,Real Murders,Charlaine Harris,0802757693,(Aurora Teagarden #1),3.67,175,26168,1942,Hardcover,December 1st 1990,Walker & Company
+164,Glory in Death,J.D. Robb,0425150984,(In Death #2),4.26,296,46384,2128,Mass Market Paperback,December 28th 1995,Berkley Books
+165,The Trespasser,Tana French,0143110381,(Dublin Murder Squad #6),3.96,464,50700,5524,Paperback,August 8th 2017,Penguin Books
+166,Smokin' Seventeen,Janet Evanovich,0345527704,(Stephanie Plum #17),3.95,324,70587,5044,Mass Market Paperback,November 15th 2011,Bantam
+167,The Surgeon,Tess Gerritsen,055381706X,(Rizzoli & Isles #1),4.10,416,116971,3817,Paperback,2005,Bantam Books
+168,Chocolate Chip Cookie Murder,Joanne Fluke,,(Hannah Swensen #1),3.71,,41252,2742,,,
+169,Rivers of London,Ben Aaronovitch,0575097566,(Rivers of London #1),3.92,392,69152,7171,Hardcover,January 10th 2011,Gollancz
+170,Sizzling Sixteen,Janet Evanovich,0739377728,(Stephanie Plum #16),3.95,371,68971,3968,Paperback,June 29th 2010,Random House
+171,Grave Sight,Charlaine Harris,0425212890,(Harper Connelly #1),3.86,293,58147,2451,Mass Market Paperback,September 26th 2006,Berkley Books
+172,Nemesis,Agatha Christie,0451200187,(Miss Marple #12),3.85,224,21845,1093,Paperback,May 1st 2000,Signet
+173,The Return of Sherlock Holmes,Arthur Conan Doyle,0192123173,(Sherlock Holmes #6),4.31,455,47235,1229,Hardcover,October 28th 1993,Oxford University Press
+174,The House of Silk,Anthony Horowitz,0316196991,(Sherlock Holmes #1),3.97,294,36782,4029,Hardcover,November 2011,Mulholland Books
+175,Mystic River,Dennis Lehane,0060584750,,4.18,416,112629,3372,Paperback,February 1st 2001,William Morrow Paperbacks
+176,Defending Jacob,William Landay,0385344228,,3.98,421,233058,19001,Hardcover,January 31st 2012,Delacorte Press
+177,The Silence of the Lambs,Thomas  Harris,0099446782,(Hannibal Lecter #2),4.18,338,409895,4926,Paperback,2002,Arrow
+178,The Lincoln Lawyer,Michael Connelly,,(Mickey Haller #1),4.16,528,176869,5315,Kindle Edition,October 1st 2005,"Little, Brown and Company"
+179,A Time to Kill,John Grisham,,(Jake Brigance #1),4.06,515,659908,4861,Paperback,March 15th 2004,Dell
+180,Poirot Investigates,Agatha Christie,0007120702,(Hercule Poirot #3),4.05,265,37366,1273,Paperback,2001,Harper
+181,Tears of the Giraffe,Alexander McCall Smith,0349116652,(No. 1 Ladies' Detective Agency #2),3.96,217,45953,2598,Paperback,August 7th 2003,Abacus
+182,Elephants Can Remember,Agatha Christie,0425067823,(Hercule Poirot #40),3.63,224,22846,1238,Paperback,February 1st 1984,Berkley
+183,The Snowman,Jo Nesbø,0307595862,(Harry Hole #7),4.01,383,92940,7637,Mass Market Paperback,May 10th 2011,Knopf
+184,Clouds of Witness,Dorothy L. Sayers,0061043532,(Lord Peter Wimsey #2),4.02,288,16057,965,Paperback,June 28th 1995,Harper Paperbacks
+185,After the Funeral,Agatha Christie,0425173909,(Hercule Poirot #31),3.86,256,21705,1125,Paperback,March 1st 2000,Berkley
+186,Explosive Eighteen,Janet Evanovich,0345527712,(Stephanie Plum #18),3.93,305,65855,4876,Hardcover,November 22nd 2011,Bantam
+187,Fool Moon,Jim Butcher,0451458125,(The Dresden Files #2),4.03,401,141426,6185,Mass Market Paperback,January 9th 2001,Roc
+188,The Couple Next Door,Shari Lapena,0735221081,,3.77,308,230392,19525,Hardcover,August 23rd 2016,Pamela Dorman Books
+189,The Hidden Staircase,Carolyn Keene,0448095025,(Nancy Drew Mystery Stories #2),3.95,182,29045,1386,Hardcover,1992,Grosset
+190,They Do It with Mirrors,Agatha Christie,0451199901,(Miss Marple #6),3.75,224,20230,1011,Paperback,March 1st 2000,Signet
+191,Mistress of the Art of Death,Ariana Franklin,0399154140,(Mistress of the Art of Death #1),3.95,384,31449,2859,Hardcover,February 6th 2007,G.P. Putnam's Sons
+192,The Mysterious Benedict Society,Trenton Lee Stewart,,(The Mysterious Benedict Society #1),4.16,497,110144,9561,Kindle Edition,April 1st 2008,"Little, Brown Books for Young Readers"
+193,E is for Evidence,Sue Grafton,0312939035,(Kinsey Millhone #5),3.89,320,30366,853,Paperback,November 29th 2005,St. Martin's Paperbacks
+194,The Pelican Brief,John Grisham,0385339704,,3.98,400,333834,2315,Paperback,April 25th 2006,Delta
+195,Mr. Mercedes,Stephen King,1476754454,(Bill Hodges Trilogy #1),3.96,436,197229,15037,Hardcover,June 3rd 2014,Scribner
+196,Jackaby,William Ritter,1616203536,(Jackaby #1),3.83,299,20179,4107,Hardcover,September 16th 2014,Algonquin Young Readers
+197,Darkly Dreaming Dexter,Jeff Lindsay,,(Dexter #1),3.90,288,172946,6142,Paperback,September 19th 2006,Vintage Books
+198,The Forgotten Garden,Kate Morton,0330449605,,4.13,648,177074,17423,Paperback,June 1st 2008,Pan Books
+199,Living Dead in Dallas,Charlaine Harris,1841493007,(Sookie Stackhouse #2),3.98,291,220538,6735,Mass Market Paperback,April 1st 2004,Orbit
+200,The Bone Collector,Jeffery Deaver,0451188454,(Lincoln Rhyme #1),4.19,528,139822,2180,Paperback,April 1st 1998,Signet Book
+201,Sad Cypress,Agatha Christie,0007120710,(Hercule Poirot #22),3.86,336,19811,1054,Paperback,September 1st 2001,HarperCollins Publishers
+202,F is for Fugitive,Sue Grafton,0312939043,(Kinsey Millhone #6),3.91,320,30543,755,Paperback,November 29th 2005,St. Martin's Paperbacks
+203,The Historian,Elizabeth Kostova,,,3.78,704,227729,15381,Kindle Edition,June 1st 2005,
+204,The Body Farm,Patricia Cornwell,0425201449,(Kay Scarpetta #5),4.05,351,59421,1147,Paperback,December 28th 2004,Berkley
+205,Hickory Dickory Dock,Agatha Christie,1572705647,(Hercule Poirot #32),3.74,196,17454,780,Audio CD,December 7th 2006,AudioGO
+206,The Firm,John Grisham,0582418275,,4.01,76,525677,3381,Paperback,February 15th 2000,Addison Wesley Publishing Company
+207,Thrice the Brinded Cat Hath Mew'd,Alan Bradley,1409149501,(Flavia de Luce  #8),3.98,307,15688,2324,Hardcover,September 20th 2016,Orion
+208,Shakespeare's Landlord,Charlaine Harris,0425206866,(Lily Bard #1),3.76,216,24262,1298,Paperback,November 1st 2005,Berkley
+209,Dead Man's Folly,Agatha Christie,1572705477,(Hercule Poirot #33),3.78,6,16666,821,Audio CD,September 8th 2006,BBC Audiobooks
+210,The Witch Elm,Tana French,0735224641,,3.56,528,36080,5759,Paperback,July 30th 2019,Penguin Books
+211,All That Remains,Patricia Cornwell,0684193957,(Kay Scarpetta #3),4.06,373,55749,927,Hardcover,August 17th 1992,Scribner
+212,Midnight in the Garden of Good and Evil,John Berendt,0679751521,,3.91,386,199394,7925,Paperback,June 28th 1999,Vintage
+213,Third Girl,Agatha Christie,0007121105,(Hercule Poirot #38),3.62,365,16936,812,Paperback,2002,HarperCollins
+214,Busman's Honeymoon,Dorothy L. Sayers,0061043516,(Lord Peter Wimsey #13),4.28,409,15267,719,Paperback,February 2006,HarperTorch
+215,Stalking Jack the Ripper,Kerri Maniscalco,,(Stalking Jack the Ripper #1),4.02,337,34878,7114,Kindle Edition,September 20th 2016,Jimmy Patterson
+216,Grave Surprise,Charlaine Harris,0425212033,(Harper Connelly #2),3.89,295,33281,1306,Hardcover,October 1st 2006,Berkley Publishing Group
+217,Before the Fall,Noah Hawley,,,3.74,401,97232,11157,Kindle Edition,May 31st 2016,Grand Central Publishing
+218,Rapture in Death,J.D. Robb,1423301854,(In Death #4),4.27,9,36347,1331,MP3 CD,September 2006,Brilliance Audio
+219,Pretty Girls,Karin Slaughter,0062430874,,3.99,688,134824,12866,Paperback,September 29th 2015,William Morrow
+220,Morality for Beautiful Girls,Alexander McCall Smith,1400031362,(No. 1 Ladies' Detective Agency #3),3.98,227,35672,1731,Paperback,November 12th 2002,Random House Anchor
+221,Mrs. McGinty's Dead,Agatha Christie,1572707313,(Hercule Poirot #30),3.83,244,16543,737,Audio CD,April 12th 2007,AudioGO
+222,Force of Nature,Jane Harper,1250105633,(Aaron Falk #2),3.85,326,47083,5435,Hardcover,February 6th 2018,Flatiron Books
+223,Dead to the World,Charlaine Harris,0441012183,(Sookie Stackhouse #4),4.14,291,230152,5556,Mass Market Paperback,April 1st 2005,Ace Books
+224,The Moor,Laurie R. King,0006510868,(Mary Russell and Sherlock Holmes #4),3.95,320,14202,908,Mass Market Paperback,,
+225,The Zombie Room,R.D. Ronald,,,3.84,241,24605,148,Kindle Edition,April 10th 2016,Garden Heights Books
+226,The Name of the Star,Maureen Johnson,0142422053,(Shades of London #1),3.90,372,44278,5054,Paperback,October 2nd 2012,Speak
+227,L is for Lawless,Sue Grafton,0449221490,(Kinsey Millhone #12),3.92,336,26720,719,Paperback,July 31st 1996,Fawcett Books
+228,N or M?,Agatha Christie,0007111452,(Tommy & Tuppence #3),3.75,304,15888,889,Paperback,2001,HarperCollins
+229,The Client,John Grisham,0385339089,,3.99,483,360483,2247,Paperback,March 16th 2010,Delta
+230,The Hangman's Daughter,Oliver Pötzsch,,(Die Henkerstochter #1),3.73,448,64709,5964,Kindle Edition,December 7th 2010,AmazonCrossing
+231,Messenger of Truth,Jacqueline Winspear,0805078983,(Maisie Dobbs #4),3.99,322,17794,1338,Paperback,August 22nd 2006,Picador
+232,What Angels Fear,C.S. Harris,0451219716,(Sebastian St. Cyr #1),3.89,410,11098,1241,Paperback,October 3rd 2006,Berkley Books
+233,Plum Lovin',Janet Evanovich,0312306342,(Stephanie Plum #12.5),3.72,164,48687,1593,Hardcover,January 9th 2007,St. Martin's Press
+234,Have His Carcase,Dorothy L. Sayers,,(Lord Peter Wimsey #8),4.13,499,12900,615,Kindle Edition,July 31st 2012,Open Road Media
+235,An Ice Cold Grave,Charlaine Harris,0425217299,(Harper Connelly #3),3.96,280,31065,1427,Hardcover,September 25th 2007,Berkley
+236,Grave Peril,Jim Butcher,0451458443,(The Dresden Files #3),4.18,378,122484,4673,Paperback,September 4th 2001,Roc
+237,The Girl in the Spider's Web,David Lagercrantz,0385354282,(Millennium #4),3.76,400,116339,12251,Hardcover,September 1st 2015,Knopf
+238,Takedown Twenty,Janet Evanovich,0345542886,(Stephanie Plum #20),3.79,307,52189,5226,Hardcover,November 19th 2013,Bantam
+239,Ceremony in Death,J.D. Robb,0749934123,(In Death #5),4.27,327,33889,1199,Paperback,December 1st 2003,Piatkus Books
+240,The Elephant Tree,R.D. Ronald,1848764561,,3.79,252,22259,174,Paperback,2010,Matador
+241,Dead as a Doornail,Charlaine Harris,0441013333,(Sookie Stackhouse #5),4.01,297,189301,3925,Mass Market Paperback,April 25th 2006,Ace Books
+242,Midnight at the Bright Ideas Bookstore,Matthew J. Sullivan,1501116843,,3.79,328,20357,3757,Hardcover,June 13th 2017,Scribner
+243,The Silent Patient,Alex Michaelides,1250301696,,4.05,323,85695,12138,Hardcover,February 5th 2019,Celadon Books
+244,N is for Noose,Sue Grafton,0330348779,(Kinsey Millhone #14),3.98,368,29992,662,Paperback,June 20th 2008,MacMillan General Books
+245,3rd Degree,James Patterson,0446614831,(Women's Murder Club #3),4.02,339,67969,2008,Paperback,January 1st 2005,Grand Central Publishing
+246,U is for Undertow,Sue Grafton,039915597X,(Kinsey Millhone #21),3.95,403,24681,2305,Hardcover,December 1st 2009,Putnam
+247,The Ice Princess,Camilla Läckberg,1605980927,(Fjällbacka #1),3.72,393,50411,3784,Hardcover,June 15th 2010,Pegasus
+248,Lion in the Valley,Elizabeth Peters,1841192163,(Amelia Peabody   #4),4.15,360,13915,585,Paperback,2001,Robinson
+249,The Quiche of Death,M.C. Beaton,0312939167,(Agatha Raisin  #1),3.75,246,17858,1892,Paperback,March 7th 2006,St. Martin's Paperbacks
+250,I Hunt Killers,Barry Lyga,0316125849,(I Hunt Killers #1),4.02,359,31059,3785,Hardcover,April 3rd 2012,"Little, Brown and Company"
+251,The Bad Beginning,Lemony Snicket,0439206472,(A Series of Unfortunate Events #1),3.93,176,348871,15372,Paperback,September 30th 1999,"Scholastic, Inc."
+252,T is for Trespass,Sue Grafton,0399154485,(Kinsey Millhone #20),3.94,387,23640,1715,Hardcover,December 4th 2007,G.P. Putnam's Sons
+253,The Unpleasantness at the Bellona Club,Dorothy L. Sayers,0061043540,(Lord Peter Wimsey #5),4.06,256,12606,513,Paperback,May 10th 1995,HarperTorch
+254,Silent in the Sanctuary,Deanna Raybourn,0778324923,(Lady Julia Grey #2),4.05,552,13235,1037,Paperback,2008,Mira
+255,R is for Ricochet,Sue Grafton,0425203867,(Kinsey Millhone #18),3.97,363,28894,785,Mass Market Paperback,March 29th 2005,G.P. Putnam's Sons
+256,Raven Black,Ann Cleeves,0312359667,(Shetland Island #1),3.90,374,22814,2242,Hardcover,May 29th 2007,Minotaur Books
+257,Death at La Fenice,Donna Leon,006074068X,(Commissario Brunetti #1),3.83,270,18945,1849,Paperback,July 27th 2004,Harper Perennial
+258,The Seven Dials Mystery,Agatha Christie,0007122594,(Superintendent Battle #2),3.78,375,14689,875,Paperback,2001,Harper Collins
+259,Odd Thomas,Dean Koontz,0553384287,(Odd Thomas #1),3.96,446,231774,7009,Paperback,August 29th 2006,Bantam
+260,Why Didn't They Ask Evans?,Agatha Christie,0312981597,,3.85,288,15903,860,Paperback,February 18th 2002,Minotaur Books
+261,Definitely Dead,Charlaine Harris,0441014917,(Sookie Stackhouse #6),4.02,342,180342,3875,Mass Market Paperback,March 27th 2007,Ace Books
+262,O is for Outlaw,Sue Grafton,0449003787,(Kinsey Millhone #15),3.94,354,23275,686,Paperback,January 2nd 2001,Ballantine Books
+263,Vengeance in Death,J.D. Robb,0749934131,(In Death #6),4.34,343,32495,1052,Paperback,2004,Piatkus
+264,We Have Always Lived in the Castle,Shirley Jackson,0143039970,,4.01,146,86271,10462,Paperback,October 31st 2006,Penguin Books
+265,S is for Silence,Sue Grafton,0425212696,(Kinsey Millhone #19),3.92,352,22493,1073,Mass Market Paperback,November 28th 2006,Berkley
+266,The Woods,Harlan Coben,0525950125,,4.05,404,60343,3646,Hardcover,April 17th 2007,Dutton Adult
+267,O Jerusalem,Laurie R. King,0553581058,(Mary Russell and Sherlock Holmes #5),4.15,425,15611,774,Paperback,June 28th 2000,Bantam Books
+268,Cruel & Unusual,Patricia Cornwell,0380718340,(Kay Scarpetta #4),4.12,407,94070,844,Mass Market Paperback,May 1994,Avon Books
+269,Everything I Never Told You,Celeste Ng,159420571X,,3.84,292,240797,24241,Hardcover,June 26th 2014,Penguin Press
+270,Q is for Quarry,Sue Grafton,0739429337,(Kinsey Millhone #17),3.94,618,22453,862,Paperback,,
+271,In Cold Blood,Truman Capote,0679745580,,4.07,343,467797,14515,Paperback,1994,Vintage
+272,The Word Is Murder,Anthony Horowitz,0062676784,(Hawthorne #1),3.93,390,19241,2927,Hardcover,June 5th 2018,Harper
+273,Mr. Kiss and Tell,Rob Thomas,080417072X,(Veronica Mars #2),4.00,330,17501,2041,Paperback,January 20th 2015,Vintage Books
+274,A Duty to the Dead,Charles Todd,0061791768,(Bess Crawford #1),3.90,336,13276,1468,Hardcover,August 25th 2009,William Morrow
+275,The Kalahari Typing School for Men,Alexander McCall Smith,0349117047,(No. 1 Ladies' Detective Agency #4),4.00,210,33322,1448,Paperback,February 26th 2004,Abacus
+276,A Bone to Pick,Charlaine Harris,0802712452,(Aurora Teagarden #2),3.73,168,18867,959,Hardcover,October 13th 2012,Walker & Company
+277,P is for Peril,Sue Grafton,0449003795,(Kinsey Millhone #16),3.86,370,21384,793,Paperback,May 28th 2002,Ballantine Books
+278,A Beautiful Blue Death,Charles Finch,0312359772,(Charles Lenox Mysteries #1),3.63,309,10913,1481,Hardcover,June 26th 2007,Minotaur Books
+279,Mr. Churchill's Secretary,Susan Elia MacNeal,0553593617,(Maggie Hope Mystery #1),3.69,358,20026,2846,Paperback,April 3rd 2012,Bantam
+280,I Let You Go,Clare Mackintosh,0751554154,,4.07,371,87045,10476,Paperback,November 9th 2014,Sphere
+281,Endless Night,Agatha Christie,0007151675,,3.77,303,16382,1621,Paperback,2007,Harper
+282,The Unexpected Mrs. Pollifax,Dorothy Gilman,0449208281,(Mrs. Pollifax #1),4.15,204,19986,1609,Paperback,December 1983,Random House Ballantine Fawcett Crest
+283,Sparkling Cyanide,Agatha Christie,0007136854,(Colonel Race #4),3.87,336,16153,921,Paperback,2002,HarperCollins
+284,An Incomplete Revenge,Jacqueline Winspear,0719569516,(Maisie Dobbs #5),4.10,288,17139,1312,Hardcover,June 5th 2008,Hodder Murray
+285,Size 12 Is Not Fat,Meg Cabot,0060525118,(Heather Wells #1),3.74,345,75986,2604,Paperback,December 27th 2005,William Morrow Paperbacks
+286,The Dante Club,Matthew Pearl,034549038X,(The Dante Club  #1),3.38,424,35527,2373,Mass Market Paperback,June 27th 2006,Ballantine Books
+287,Chasing Vermeer,Blue Balliett,0439372941,(Chasing Vermeer #1),3.72,254,26018,2213,Hardcover,June 1st 2004,Scholastic Press
+288,From Potter's Field,Patricia Cornwell,0425204693,(Kay Scarpetta #6),4.04,383,48527,779,Paperback,August 30th 2005,Berkley Books
+289,The Redbreast,Jo Nesbø,184343217X,(Harry Hole #3),3.92,519,75900,3839,Paperback,November 2nd 2009,Harvill Secker
+290,Behind Closed Doors,B.A. Paris,1250121000,,3.95,293,220990,21592,Hardcover,August 9th 2016,St. Martin's Press
+291,Plum Lucky,Janet Evanovich,0312377630,(Stephanie Plum #13.5),3.74,166,44477,1808,Hardcover,January 8th 2008,St. Martin's Press
+292,V is for Vengeance,Sue Grafton,0399157867,(Kinsey Millhone #22),3.95,437,25562,2489,Hardcover,November 14th 2011,Putnam Adult
+293,Holiday in Death,J.D. Robb,,(In Death #7),4.32,308,31429,1000,Paperback,June 1st 1998,Berkley
+294,The Blessing Way,Tony Hillerman,0061000019,(Leaphorn & Chee #1),4.06,320,18077,831,Paperback,March 7th 1990,HarperTorch
+295,The Labours of Hercules,Agatha Christie,1572704578,(Hercule Poirot #27),3.78,9,14371,639,Audio CD,July 13th 2005,AudioGO
+296,The Lake House,Kate Morton,,,4.05,495,85212,10010,Hardcover,October 20th 2015,Atria Books
+297,W is for Wasted,Sue Grafton,0399158987,(Kinsey Millhone #23),3.90,486,26289,3069,Hardcover,September 10th 2013,Marian Wood Books/Putnam
+298,All Together Dead,Charlaine Harris,0441014941,(Sookie Stackhouse #7),4.06,323,180610,3512,Hardcover,May 1st 2007,Ace
+299,"Where'd You Go, Bernadette",Maria Semple,0316204277,,3.90,330,368024,35954,Hardcover,August 14th 2012,"Little, Brown and Company"
+300,By the Pricking of My Thumbs,Agatha Christie,0451200527,(Tommy & Tuppence #4),3.72,212,12286,753,Paperback,July 1st 2000,Signet
+301,Partners in Crime,Agatha Christie,0007111509,(Tommy & Tuppence #2),3.77,347,12005,747,Paperback,January 1st 2001,HarperCollins Publishers
+302,The Good Daughter,Karin Slaughter,0062430262,(The Good Daughter #1),4.13,656,79244,7489,ebook,August 8th 2017,William Morrow
+303,Then She Was Gone,Lisa Jewell,1501154648,,4.05,359,94527,9698,Hardcover,April 17th 2018,Atria Books
+304,I Am the Messenger,Markus Zusak,0375836675,,4.07,357,122014,13178,Paperback,May 9th 2006,Alfred A. Knopf Borzoi Books
+305,The Secret of Chimneys,Agatha Christie,0007122586,(Superintendent Battle #1),3.86,400,13714,823,Paperback,2001,HarperCollins Publishers Ltd.
+306,The Grave's a Fine and Private Place,Alan Bradley,1409172880,(Flavia de Luce  #9),3.98,365,12580,1922,Hardcover,February 8th 2018,Orion
+307,The Maze of Bones,Rick Riordan,0545060397,(The 39 Clues #1),3.84,220,70140,4608,Hardcover,September 1st 2008,"Scholastic, Inc."
+308,Conspiracy in Death,J.D. Robb,0749934174,(In Death #8),4.36,364,29726,1025,Paperback,May 27th 2004,"Little, Brown Book Group"
+309,The Black Ice,Michael Connelly,0446613444,(Harry Bosch #2),4.07,448,54601,1999,Paperback,December 1st 2003,Vision
+310,4th of July,James Patterson,0446613363,(Women's Murder Club #4),4.06,448,67793,1956,Paperback,June 1st 2006,Vision
+311,Thirteen Reasons Why,Jay Asher,1595147888,,3.96,352,693125,49847,Hardcover,December 27th 2016,Razorbill
+312,Dog on It,Spencer Quinn,1416585834,(Chet and Bernie Mystery #1),3.86,305,17342,3050,Hardcover,February 10th 2009,Atria Books
+313,The Bourne Identity,Robert Ludlum,0752864327,(Jason Bourne #1),4.01,566,368486,4369,Paperback,March 24th 2005,Orion
+314,Sometimes I Lie,Alice Feeney,0008225354,,3.84,387,57565,8381,Paperback,March 23rd 2017,HQ
+315,A Royal Pain,Rhys Bowen,0425221636,(Royal Spyness #2),3.86,307,12733,1020,Hardcover,July 1st 2008,Berkley Hardcover
+316,The Angel's Game,Carlos Ruiz Zafón,0385528701,(El cementerio de los libros olvidados #2),3.90,531,94677,8742,Hardcover,June 16th 2009,Doubleday
+317,The Ruby in the Smoke,Philip Pullman,0394895894,(Sally Lockhart #1),3.77,230,22153,1317,Paperback,November 12th 1988,Laurel Leaf Library
+318,Taken at the Flood,Agatha Christie,0007121016,(Hercule Poirot #28),3.71,352,12172,777,Paperback,2002,HarperCollins Publishers Ltd
+319,The Mapping of Love and Death,Jacqueline Winspear,0061727660,(Maisie Dobbs #7),4.21,338,19152,1519,Hardcover,March 23rd 2010,Harper
+320,Death Comes as the End,Agatha Christie,0312981619,,3.84,277,13990,861,Paperback,April 15th 2002,St. Martin's Paperbacks
+321,Among the Mad,Jacqueline Winspear,1427206058,(Maisie Dobbs #6),4.10,0,17965,1390,Audio CD,February 17th 2009,Macmillan Audio
+322,Naked Heat,Richard Castle,1401324029,(Nikki Heat #2),3.76,288,21003,1863,Hardcover,September 28th 2010,Hyperion
+323,Dissolution,C.J. Sansom,0330411969,(Matthew Shardlake #1),4.08,456,34230,2487,Paperback,2004,Pan
+324,The Bungalow Mystery,Carolyn Keene,1557091579,(Nancy Drew Mystery Stories #3),3.92,204,17578,670,Hardcover,September 1st 1991,Applewood Books
+325,Justice Hall,Laurie R. King,000711138X,(Mary Russell and Sherlock Holmes #6),4.21,352,11938,700,Paperback,2003,HarperCollins
+326,The City & the City,China Miéville,0345497511,,3.91,312,45842,5168,Hardcover,May 26th 2009,Del Rey
+327,The Naturals,Jennifer Lynn Barnes,1423168232,(The Naturals #1),4.18,308,22914,3204,Hardcover,November 5th 2013,Disney-Hyperion
+328,His Last Bow,Arthur Conan Doyle,0755334434,(Sherlock Holmes #8),4.29,256,32107,645,Paperback,December 18th 2006,Headline
+329,The Broken Girls,Simone St. James,,,4.06,336,28917,4162,Kindle Edition,March 20th 2018,Berkley
+330,"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson,0739303406,,3.99,447,445089,29927,Audio Cassette,February 11th 2003,Random House Audio Publishing Group
+331,The Unbecoming of Mara Dyer,Michelle Hodkin,,(Mara Dyer #1),4.07,456,143002,15437,Kindle Edition,September 27th 2011,Simon & Schuster Books for Young Readers
+332,The Secret Keeper,Kate Morton,1439152802,,4.14,484,121710,13434,Hardcover,October 9th 2012,Atria
+333,The Chalk Man,C.J. Tudor,1524760986,,3.71,280,41150,6487,Hardcover,January 9th 2018,Crown Publishing Group (NY)
+334,Summer Knight,Jim Butcher,0451458923,(The Dresden Files #4),4.30,446,112876,3673,Mass Market Paperback,September 3rd 2002,Roc
+335,Deadly Decisions,Kathy Reichs,0671028367,(Temperance Brennan #3),3.94,368,27750,944,Mass Market Paperback,July 1st 2001,Pocket Star
+336,Fer-de-Lance,Rex Stout,0553278193,(Nero Wolfe  #1),3.99,285,11661,708,Paperback,July 21st 2010,Bantam Crimeline
+337,Relic,Douglas Preston,0765354942,(Pendergast #1),4.02,480,85182,3101,Paperback,August 1st 2005,Tor Books
+338,Pines,Blake Crouch,1612183956,(Wayward Pines #1),3.90,305,77475,6554,Paperback,August 21st 2012,Thomas & Mercer
+339,A Test of Wills,Charles Todd,0061242845,(Inspector Ian Rutledge #1),3.89,305,12781,1234,Paperback,December 26th 2006,Harper
+340,The Sittaford Mystery,Agatha Christie,0007136846,,3.70,400,11928,845,Paperback,2002,HarperCollins Publishers Ltd.
+341,First Grave on the Right,Darynda Jones,0312662750,(Charley Davidson #1),4.06,310,67317,7275,Hardcover,February 1st 2011,St. Martin's Press
+342,An Unsuitable Job for a Woman,P.D. James,0743219554,(Cordelia Gray #1),3.83,256,12891,809,Paperback,April 17th 2001,Scribner
+343,Ordeal by Innocence,Agatha Christie,0312981627,,3.79,288,12671,988,Paperback,May 19th 2002,Minotaur Books
+344,From Dead to Worse,Charlaine Harris,0441015891,(Sookie Stackhouse #8),4.01,359,168562,3641,Hardcover,May 6th 2008,Ace
+345,The Outsider,Stephen King,1501180983,,4.02,561,100524,11150,Hardcover,May 22nd 2018,Scribner
+346,The Yiddish Policemen's Union,Michael Chabon,0007149824,,3.70,414,58020,6549,Hardcover,May 1st 2007,HarperCollins
+347,Grave Secret,Charlaine Harris,0425230155,(Harper Connelly #4),3.95,306,26697,1514,Hardcover,October 27th 2009,Berkley
+348,The Last Camel Died at Noon,Elizabeth Peters,1841193879,(Amelia Peabody   #6),4.21,448,13799,557,Paperback,2002,London : Robinson
+349,The Black Dahlia,James Ellroy,0446698873,(L.A. Quartet #1),3.75,348,74126,2310,Paperback,August 16th 2006,Mysterious Press
+350,Locked Rooms,Laurie R. King,0553583417,(Mary Russell and Sherlock Holmes #8),4.26,528,12531,804,Mass Market Paperback,March 28th 2006,Bantam
+351,The Face of a Stranger,Anne Perry,0804108587,(William Monk #1),4.04,352,14003,948,Mass Market Paperback,May 11th 2011,Fawcett
+352,Murder Is Easy,Agatha Christie,0312979827,(Superintendent Battle #4),3.74,288,13443,885,Paperback,November 19th 2001,Minotaur Books
+353,Perfume: The Story of a Murderer,Patrick Süskind,0140120831,,4.02,263,275821,12409,Paperback,1987,Penguin Books
+354,Where the Crawdads Sing,Delia Owens,0735219117,,4.52,384,256477,29843,ebook,August 14th 2018,G.P. Putnam’s Sons
+355,Towards Zero,Agatha Christie,,(Superintendent Battle #5),3.87,301,12210,847,Paperback,2002,HarperCollins
+356,The Long Way Home,Louise Penny,1250022061,(Chief Inspector Armand Gamache #10),4.07,373,32510,3567,Hardcover,August 26th 2014,Minotaur Books
+357,Heist Society,Ally Carter,1423116399,(Heist Society #1),3.91,287,84167,5122,Hardcover,February 9th 2010,Disney-Hyperion
+358,Dead and Gone,Charlaine Harris,0441017150,(Sookie Stackhouse #9),4.01,312,166126,4433,Hardcover,May 5th 2009,Ace Books
+359,Cause of Death,Patricia Cornwell,0425213382,(Kay Scarpetta #7),3.93,356,41141,776,Paperback,January 2nd 2007,Berkley Books
+360,Heartsick,Chelsea Cain,0312368461,(Archie Sheridan & Gretchen Lowell #1),3.93,326,33683,2812,Hardcover,September 4th 2007,Minotaur Books
+361,Final Girls,Riley Sager,1101985364,,3.80,342,44289,6865,Hardcover,July 11th 2017,Dutton
+362,Black Coffee,Charles Osborne,0312970072,(Hercule Poirot #45.5),3.48,304,12204,798,Paperback,September 15th 1999,St. Martin's Paperbacks
+363,The Five Red Herrings,Dorothy L. Sayers,,(Lord Peter Wimsey #7),3.84,297,10866,610,Kindle Edition,July 31st 2012,Open Road Media Mystery & Thriller
+364,The Game,Laurie R. King,0553801945,(Mary Russell and Sherlock Holmes #7),4.17,400,11766,690,Hardcover,March 2nd 2004,Bantam
+365,Fatal Voyage,Kathy Reichs,1416510567,(Temperance Brennan #4),4.04,448,43019,1033,Paperback,April 26th 2005,Pocket Star Books
+366,The Language of Bees,Laurie R. King,0553804545,(Mary Russell and Sherlock Holmes #9),4.16,435,12945,975,Hardcover,April 1st 2009,Random House
+367,"Tinker, Tailor, Soldier, Spy",John le Carré,0143119788,(The Karla Trilogy #1),4.05,381,60481,3624,Paperback,June 7th 2011,Penguin Books
+368,The Mystery at Lilac Inn,Carolyn Keene,1557091587,(Nancy Drew Mystery Stories #4),3.97,200,16401,596,Hardcover,May 1st 1994,Applewood Books
+369,Shakespeare's Champion,Charlaine Harris,0425213102,(Lily Bard #2),3.83,214,15139,621,Mass Market Paperback,December 5th 2006,Berkley Books
+370,A Share in Death,Deborah Crombie,0060534389,(Duncan Kincaid & Gemma James #1),3.78,288,11861,880,Mass Market Paperback,August 26th 2003,Avon
+371,The Runaway Jury,John Grisham,0385339690,,3.97,358,245755,1927,Paperback,April 25th 2006,Delta
+372,Murder in the Mews,Agatha Christie,1572702842,(Hercule Poirot #18),3.76,0,12223,536,Audio CD,October 21st 2002,AudioGO
+373,The Long Goodbye,Raymond Chandler,0394757688,(Philip Marlowe #6),4.22,379,29014,1830,Paperback,August 12th 1988,Vintage Crime/Black Lizard
+374,"Three Bedrooms, One Corpse",Charlaine Harris,0373261772,(Aurora Teagarden #3),3.80,256,16359,718,Mass Market Paperback,July 25th 1995,Worldwide Library
+375,Child 44,Tom Rob Smith,0446402397,(Leo Demidov #1),4.09,509,65546,5983,Mass Market Paperback,April 1st 2009,Grand Central Publishing
+376,Loyalty in Death,J.D. Robb,0749934182,(In Death #9),4.31,355,25659,823,Paperback,December 1st 2004,Piatkus Books
+377,Track of the Cat,Nevada Barr,0380721643,(Anna Pigeon  #1),3.86,218,15097,927,Paperback,1993,Avon
+378,The Secret of Shadow Ranch,Carolyn Keene,000692526X,(Nancy Drew Mystery Stories #5),3.93,160,15028,535,Paperback,June 15th 1992,Armada
+379,The 5th Horseman,James Patterson,1594831114,(Women's Murder Club #5),4.05,464,56901,1701,Audiobook,February 6th 2008,Time Warner AudioBooks
+380,Witness in Death,J.D. Robb,0749934360,(In Death #10),4.31,339,25640,816,Paperback,July 1st 2004,Piatkus Books
+381,The Concrete Blonde,Michael Connelly,044661758X,(Harry Bosch #3),4.15,484,45034,1997,Paperback,February 1st 2007,Grand Central Publishing
+382,The Poet,Michael Connelly,0446690457,(Jack McEvoy #1),4.20,510,69253,2402,Paperback,July 1st 2002,Grand Central Publishing
+383,As Chimney Sweepers Come to Dust,Alan Bradley,0345539931,(Flavia de Luce  #7),3.94,392,21245,3007,Hardcover,January 6th 2015,Delacorte Press
+384,The Full Cupboard of Life,Alexander McCall Smith,1400031818,(No. 1 Ladies' Detective Agency #5),4.02,198,27461,1242,Paperback,January 25th 2005,Anchor
+385,The Lying Game,Ruth Ware,1501156004,,3.52,370,70586,7055,Hardcover,July 25th 2017,Gallery/Scout Press
+386,Knots and Crosses,Ian Rankin,0312956738,(Inspector Rebus #1),3.83,228,36294,1775,Paperback,December 15th 1995,St. Martin's Press
+387,The Case-Book of Sherlock Holmes,Arthur Conan Doyle,1904633684,(Sherlock Holmes #9),4.19,303,17552,755,Hardcover,2004,Collector's Library
+388,Silent on the Moor,Deanna Raybourn,0778326144,(Lady Julia Grey #3),4.03,465,11207,917,Paperback,2009,Mira Books
+389,Top Secret Twenty-One,Janet Evanovich,0345542924,(Stephanie Plum #21),3.83,305,47017,4378,Hardcover,June 17th 2014,Bantam
+390,Kingdom of the Blind,Louise Penny,1250066204,(Chief Inspector Armand Gamache #14),4.40,400,21553,3006,Hardcover,November 27th 2018,Minotaur Books
+391,Strawberry Shortcake Murder,Joanne Fluke,1575667215,(Hannah Swensen #2),3.84,320,16305,995,Paperback,February 2nd 2002,Kensington
+392,A Cold Day For Murder,Dana Stabenow,042513301X,(Kate Shugak #1),3.73,208,12477,1130,Paperback,June 1st 1992,Berkley
+393,In the Bleak Midwinter,Julia Spencer-Fleming,0312986769,(The Rev. Clare Fergusson & Russ Van Alstyne Mysteries #1),3.91,370,10977,1293,Mass Market Paperback,March 14th 2003,Minotaur Books
+394,The Anatomist's Wife,Anna Lee Huber,0425253287,(Lady Darby Mystery #1),3.93,357,8324,1212,Paperback,November 6th 2012,Berkley
+395,One Corpse Too Many,Ellis Peters,0446400513,(Chronicles of Brother Cadfael #2),4.06,214,11398,583,Paperback,March 1st 1994,Grand Central Publishing
+396,X,Sue Grafton,0399163840,(Kinsey Millhone #24),3.91,403,26464,3133,Hardcover,August 25th 2015,Marian Wood Books/Putnam
+397,They Came to Baghdad,Agatha Christie,0007154933,,3.79,364,12766,879,Paperback,2003,HarperCollins
+398,"Farewell, My Lovely",Raymond Chandler,0394758277,(Philip Marlowe #2),4.15,292,27416,1445,Paperback,August 1992,Vintage Crime/Black Lizard
+399,Betrayal in Death,J.D. Robb,0425178579,(In Death #12),4.32,355,24531,728,Mass Market Paperback,March 1st 2001,Berkley Books
+400,The Wife Between Us,Greer Hendricks,1250130921,,3.84,346,134964,15702,Hardcover,January 9th 2018,St. Martin's Press
+401,The Name of the Rose,Umberto Eco,0156001314,,4.12,536,265080,7584,Paperback,September 28th 1994,Harvest Books
+402,Big Little Lies,Liane Moriarty,0399587195,,4.26,460,599170,40591,Paperback,February 9th 2017,Berkley Books
+403,A Fatal Grace,Louise Penny,0312352565,(Chief Inspector Armand Gamache #2),4.11,311,55152,4986,Hardcover,May 15th 2007,Minotaur Books
+404,The Big Sleep,Raymond Chandler,0394758285,(Philip Marlowe #1),4.01,231,107616,4821,Paperback,July 12th 1988,Vintage Crime
+405,The Alienist,Caleb Carr,0812976142,(Dr. Laszlo Kreizler #1),4.06,498,130373,6330,Paperback,October 24th 2006,Random House
+406,Four to Score,Janet Evanovich,0312966970,(Stephanie Plum #4),4.17,313,120877,2784,Mass Market Paperback,June 15th 1999,St. Martin's Press
+407,Naked in Death,J.D. Robb,0425148297,(In Death #1),4.12,306,149995,5302,Mass Market Paperback,July 1st 1995,Berkley Publishing Group
+408,The Woman in the Window,A.J. Finn,,,3.94,449,256313,28376,Kindle Edition,January 2nd 2018,William Morrow
+409,The Maltese Falcon,Dashiell Hammett,0752865331,,3.91,213,77667,4322,Paperback,March 1st 2005,Orion
+410,Storm Front,Jim Butcher,0451457811,(The Dresden Files #1),4.01,322,255206,14099,Mass Market Paperback,April 2000,Penguin ROC
+411,The 7½ Deaths of Evelyn Hardcastle,Stuart Turton,1492657964,,3.95,432,49467,9930,Hardcover,September 18th 2018,Sourcebooks Landmark
+412,High Five,Janet Evanovich,0330371231,(Stephanie Plum #5),4.18,336,109290,2444,Paperback,June 2000,St. Martin's Press
+413,Hot Six,Janet Evanovich,0312976275,(Stephanie Plum #6),4.19,336,111366,2301,Paperback,June 15th 2001,St. Martin's Paperbacks
+414,Faithful Place,Tana French,0670021873,(Dublin Murder Squad #3),3.98,400,77794,6845,Hardcover,July 13th 2010,Viking
+415,The Dry,Jane Harper,,(Aaron Falk #1),4.04,352,110733,11192,Kindle Edition,May 31st 2016,Macmillan Australia
+416,A Red Herring Without Mustard,Alan Bradley,0385342322,(Flavia de Luce  #3),4.07,399,34895,3794,Hardcover,February 8th 2011,Delacorte Press
+417,Death Comes to Pemberley,P.D. James,0307959856,,3.24,291,83313,9157,Hardcover,December 6th 2011,Alfred A. Knopf
+418,The Woman in White,Wilkie Collins,0141439610,,3.99,672,119132,6783,Paperback,February 27th 2003,Penguin Classics
+419,Déjà Dead,Kathy Reichs,0671011367,(Temperance Brennan #1),3.87,532,120425,3479,Paperback,June 1998,Pocket Books
+420,Magpie Murders,Anthony Horowitz,0062645226,,3.93,498,47855,6874,Hardcover,June 6th 2017,Harper
+421,Seven Up,Janet Evanovich,0312980140,(Stephanie Plum #7),4.16,337,106546,2045,Mass Market Paperback,June 17th 2002,St. Martin's Press
+422,The Murder on the Links,Agatha Christie,0425067947,(Hercule Poirot #2),3.82,232,34822,2169,Paperback,February 1st 1984,Berkley
+423,A Murder Is Announced,Agatha Christie,1579126294,(Miss Marple #5),3.98,288,38066,1742,Hardcover,September 30th 2006,Black Dog & Leventhal Publishers
+424,Before I Go to Sleep,S.J. Watson,0062060554,,3.89,359,254921,21082,Hardcover,June 14th 2011,Harper
+425,Into the Water,Paula Hawkins,0735211205,,3.55,386,207726,19874,Hardcover,May 2nd 2017,Riverhead Books
+426,Hard Eight,Janet Evanovich,0312983867,(Stephanie Plum #8),4.17,326,105196,2101,Paperback,June 16th 2003,St. Martin's Press
+427,The Secret of the Old Clock,Carolyn Keene,1557091552,(Nancy Drew Mystery Stories #1),3.99,210,57061,2779,Hardcover,September 1st 1991,Applewood Books
+428,The Cruelest Month,Louise Penny,0755328949,(Chief Inspector Armand Gamache #3),4.15,310,44552,3684,Hardcover,March 1st 2008,Headline
+429,Shutter Island,Dennis Lehane,038073186X,,4.09,369,142853,7736,Mass Market Paperback,April 27th 2004,HarperTorch
+430,4:50 from Paddington,Agatha Christie,1579126936,(Miss Marple #8),3.95,288,36776,1809,Hardcover,March 30th 2007,Black Dog & Leventhal Publishers
+431,The Moonstone,Wilkie Collins,0375757856,,3.91,528,68197,3958,Paperback,September 11th 2001,Modern Library
+432,Evil Under the Sun,Agatha Christie,1579126286,(Hercule Poirot #24),3.96,220,39976,1439,Hardcover,September 1st 2006,Black Dog & Leventhal Publishers
+433,1st to Die,James Patterson,0446696617,(Women's Murder Club #1),4.07,424,272252,5823,Paperback,May 20th 2005,Grand Central Publishing
+434,The Secret Adversary,Agatha Christie,1600963943,(Tommy & Tuppence #1),3.84,268,34111,2528,Paperback,July 30th 2008,Waking Lion Press
+435,To the Nines,Janet Evanovich,0747267634,(Stephanie Plum #9),4.17,320,100914,1970,Paperback,June 5th 2004,St. Martin's Press
+436,Deception Point,Dan Brown,0671027387,,3.70,556,545979,8767,Mass Market Paperback,December 2002,Pocket Books
+437,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,,(Miss Peregrine's Peculiar Children #1),3.91,352,854697,58648,Hardcover,June 7th 2011,Quirk
+438,Dead Until Dark,Charlaine Harris,0441008534,(Sookie Stackhouse #1),3.96,292,474203,17718,Mass Market Paperback,May 1st 2001,Ace Books
+439,I Am Half-Sick of Shadows,Alan Bradley,,(Flavia de Luce  #4),4.09,305,29131,3424,Kindle Edition,by Delacorte Press,
+440,Postmortem,Patricia Cornwell,0743477154,(Kay Scarpetta #1),4.02,342,194069,2598,Paperback,December 30th 2003,Pocket Books
+441,Lethal White,Robert Galbraith,0751572853,(Cormoran Strike #4),4.26,650,72374,7803,Hardcover,September 18th 2018,Sphere
+442,A Study in Charlotte,Brittany Cavallaro,0062398903,(Charlotte Holmes #1),3.81,321,29259,5244,Hardcover,March 1st 2016,Katherine Tegen Books
+443,Along Came a Spider,James Patterson,0446692638,(Alex Cross #1),4.10,449,365319,4484,Paperback,August 1st 2003,Grand Central Publishing
+444,Ten Big Ones,Janet Evanovich,0312936222,(Stephanie Plum #10),4.14,319,87592,2012,Mass Market Paperback,June 21st 2005,St. Martin's Press
+445,Broken Harbor,Tana French,0143123300,(Dublin Murder Squad #4),3.94,450,64761,6476,Paperback,April 30th 2013,Penguin Books
+446,Case Histories,Kate Atkinson,0316010707,(Jackson Brodie #1),3.83,389,70816,5686,Paperback,October 17th 2005,Back Bay Books
+447,The Secret History,Donna Tartt,1400031702,,4.09,559,244856,17623,Paperback,April 13th 2004,Vintage
+448,Mr. Penumbra's 24-Hour Bookstore,Robin Sloan,0374214913,(Mr. Penumbra's 24-Hour Bookstore #1),3.75,288,157695,23678,Hardcover,October 2nd 2012,"Farrar, Straus and Giroux"
+449,Peril at End House,Agatha Christie,0007119305,(Hercule Poirot #8),3.93,287,31470,1707,Paperback,2001,HarperCollins
+450,Digital Fortress,Dan Brown,,,3.64,510,514178,8631,Paperback,2004,Corgi books
+451,And Then There Were None,Agatha Christie,0312330871,,4.25,264,644249,25435,Paperback,May 3rd 2004,St. Martin's Press
+452,The Girl with the Dragon Tattoo,Stieg Larsson,,(Millennium #1),4.13,465,2298753,65992,Hardcover,September 16th 2008,Knopf
+453,Gone Girl,Gillian Flynn,,,4.06,415,1987372,127930,Paperback,April 22nd 2014,Broadway Books
+454,Murder on the Orient Express,Agatha Christie,0007119313,(Hercule Poirot #10),4.16,347,299353,19380,Paperback,June 4th 2007,HarperCollins Publishers
+455,The Girl on the Train,Paula Hawkins,,,3.91,323,1727321,104707,Hardcover,January 13th 2015,Riverhead Books
+456,The Da Vinci Code,Dan Brown,0307277674,(Robert Langdon #2),3.82,489,1727993,44793,Paperback,March 28th 2006,Anchor
+457,The Cuckoo's Calling,Robert Galbraith,0316206849,(Cormoran Strike #1),3.86,455,424592,31278,Hardcover,April 30th 2013,"Mulholland Books / Little, Brown and Company"
+458,Angels & Demons,Dan Brown,1416524797,(Robert Langdon #1),3.88,736,2392453,27354,Mass Market Paperback,April 1st 2006,Pocket Books
+459,The Girl Who Played with Fire,Stieg Larsson,0307269981,(Millennium #2),4.23,503,746840,33037,Hardcover,July 28th 2009,Alfred A. Knopf
+460,In the Woods,Tana French,0143113496,(Dublin Murder Squad #1),3.76,464,257510,18912,Paperback,May 27th 2008,Penguin Books
+461,The Sweetness at the Bottom of the Pie,Alan Bradley,,(Flavia de Luce  #1),3.81,386,127842,15142,Kindle Edition,April 24th 2009,Delacorte Press
+462,The Mysterious Affair at Styles,Agatha Christie,0646418432,(Hercule Poirot #1),3.99,121,205166,5858,Paperback,October 21st 2002,Deodand
+463,A Study in Scarlet,Arthur Conan Doyle,1420925539,(Sherlock Holmes #1),4.15,123,274118,8759,Paperback,January 1st 2005,Digireads.com
+464,The Girl Who Kicked the Hornet's Nest,Stieg Larsson,030726999X,(Millennium #3),4.22,563,592926,28130,Hardcover,May 23rd 2010,Knopf
+465,The Hound of the Baskervilles,Arthur Conan Doyle,0451528018,(Sherlock Holmes #5),4.10,256,214454,6869,Mass Market Paperback,July 1st 2001,Signet
+466,The Murder of Roger Ackroyd,Agatha Christie,1579126278,(Hercule Poirot #4),4.23,288,116798,7904,Hardcover,September 1st 2006,Black Dog & Leventhal Publishers
+467,One for the Money,Janet Evanovich,0312362080,(Stephanie Plum #1),4.04,320,450475,14033,Paperback,2006,Griffin
+468,The Silkworm,Robert Galbraith,0316206873,(Cormoran Strike #2),4.04,455,188788,15936,Hardcover,June 24th 2014,Mulholland Books
+469,Dark Places,Gillian Flynn,0307341569,,3.93,349,492698,32721,Hardcover,May 5th 2009,Shaye Areheart Books
+470,Sharp Objects,Gillian Flynn,,,3.95,254,530064,38605,Paperback,2006,Broadway Paperbacks
+471,Still Life,Louise Penny,0312948557,(Chief Inspector Armand Gamache #1),3.88,293,114253,10383,Mass Market Paperback,May 1st 2007,St. Martin's Paperbacks
+472,The Adventures of Sherlock Holmes,Arthur Conan Doyle,,(Sherlock Holmes #3),4.31,339,215220,5862,Paperback,October 22nd 1998,Oxford University Press
+473,Murder at the Vicarage,Agatha Christie,1579126251,(Miss Marple #1),4.05,288,124074,3220,Hardcover,September 1st 2006,Black Dog & Leventhal Publishers
+474,Death on the Nile,Agatha Christie,0553119222,(Hercule Poirot #17),4.09,214,96946,3724,Paperback,1978,Bantam Books
+475,The Lost Symbol,Dan Brown,0385504225,(Robert Langdon #3),3.69,509,471106,25998,Hardcover,September 15th 2009,Doubleday
+476,The No. 1 Ladies' Detective Agency,Alexander McCall Smith,1400034779,(Damenes detektivbyrå nr. 1),3.77,235,213007,10524,Paperback,February 6th 2003,Anchor Books
+477,Rebecca,Daphne du Maurier,0316323705,,4.22,449,390630,19469,ebook,December 17th 2013,"Little, Brown and Company"
+478,The A.B.C. Murders,Agatha Christie,1579126243,(Hercule Poirot #13),4.00,252,77634,3591,Hardcover,September 1st 2006,Black Dog & Leventhal Publishers
+479,Career of Evil,Robert Galbraith,,(Cormoran Strike #3),4.22,498,137485,12910,Kindle Edition,June 2018,Mulholland Books
+480,The Westing Game,Ellen Raskin,014240120X,,4.02,182,144723,9494,Paperback,April 12th 2004,Puffin
+481,The Beekeeper's Apprentice,Laurie R. King,0553381520,(Mary Russell and Sherlock Holmes #1),4.07,341,63569,5641,Paperback,March 26th 2002,Bantam
+482,The Shadow of the Wind,Carlos Ruiz Zafón,0143034901,(El cementerio de los libros olvidados #1),4.26,487,389787,30447,Paperback,January 25th 2005,Penguin Books
+483,The Curious Incident of the Dog in the Night-Time,Mark Haddon,1400032717,,3.87,226,1063190,40888,Paperback,May 18th 2004,Vintage
+484,Maisie Dobbs,Jacqueline Winspear,0142004332,(Maisie Dobbs #1),3.92,309,69612,6646,Paperback,May 25th 2004,Penguin
+485,A is for Alibi,Sue Grafton,0312938993,(Kinsey Millhone #1),3.84,308,146714,4306,Paperback,November 1st 2005,St. Martin's Press
+486,The Thirteenth Tale,Diane Setterfield,0743298020,,3.96,406,252018,21261,Hardcover,September 12th 2006,Atria Books
+487,The Woman in Cabin 10,Ruth Ware,1501132938,,3.68,340,266394,23933,Hardcover,July 19th 2016,Gallery/Scout Press
+488,Crocodile on the Sandbank,Elizabeth Peters,,(Amelia Peabody   #1),4.02,262,55746,3898,Kindle Edition,March 1st 2010,Mysterious Press
+489,The Lovely Bones,Alice Sebold,0316166685,,3.79,372,1841478,39025,Mass Market Paperback,September 1st 2006,"Little, Brown and Company"
+490,Two for the Dough,Janet Evanovich,0140255559,(Stephanie Plum #2),4.11,326,138775,4444,Paperback,June 1996,Penguin Books
+491,The Sign of Four,Arthur Conan Doyle,0140439072,(Sherlock Holmes #2),3.94,129,89032,3957,Paperback,July 5th 2001,Penguin Classics
+492,Inferno,Dan Brown,0385537859,(Robert Langdon #4),3.84,463,418159,35893,Hardcover,May 14th 2013,Doubleday
+493,The Complete Sherlock Holmes,Arthur Conan Doyle,0553328255,(Sherlock Holmes),4.51,1796,156169,3391,Paperback,October 1st 1986,Bantam Classics
+494,The Body in the Library,Agatha Christie,157912626X,(Miss Marple #3),3.85,191,54272,2628,Hardcover,September 1st 2006,Black Dog & Leventhal Publishers
+495,One of Us Is Lying,Karen M. McManus,,(One of Us is Lying #1),4.06,361,114696,17319,Kindle Edition,May 30th 2017,Delacorte Press
+496,The Likeness,Tana French,0143115626,(Dublin Murder Squad #2),4.06,466,102152,8571,Paperback,May 1st 2009,Penguin Books
+497,We Were Liars,E. Lockhart,,,3.84,242,387418,43867,Kindle Edition,May 13th 2014,Delacorte Press
+498,The Weed That Strings the Hangman's Bag,Alan Bradley,0385342314,(Flavia de Luce  #2),3.99,364,44253,5018,Hardcover,March 25th 2010,Delacorte Press
+499,Three to Get Deadly,Janet Evanovich,0312966091,(Stephanie Plum #3),4.15,344,128154,3196,Mass Market Paperback,July 15th 1998,St. Martin's Press
+500,Whose Body?,Dorothy L. Sayers,0061043575,(Lord Peter Wimsey #1),3.89,212,38062,2199,Paperback,July 11th 1995,HarperTorch

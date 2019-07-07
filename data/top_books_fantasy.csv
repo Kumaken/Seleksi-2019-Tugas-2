@@ -1,0 +1,500 @@
+id,title,author,ISBN,series,avg_rating,pages,rating_count,review_count,book_format,published_year,publisher
+1,Rivers of London,Ben Aaronovitch,0575097566,(Rivers of London #1),3.92,392,69152,7171,Hardcover,January 10th 2011,Gollancz
+48,Nimona,Noelle Stevenson,,,4.18,272,80601,9553,Kindle Edition,May 12th 2015,Harper Collins
+45,The Book of Lost Things,John Connolly,0743298853,,3.99,339,57877,7352,Hardcover,November 7th 2006,Atria Books
+47,Soul of the Fire,Terry Goodkind,0812551494,(Sword of Truth #5),3.87,788,56720,809,Mass Market Paperback,March 2000,Tor Books
+50,Wintersmith,Terry Pratchett,0060890312,(Discworld #35),4.25,325,47024,1597,Hardcover,October 1st 2006,HarperTempest
+43,Silverthorn,Raymond E. Feist,0586064176,(The Riftwar Saga #3),4.08,432,51780,766,Mass Market Paperback,1986,Grafton Books
+49,This Savage Song,Victoria Schwab,,(Monsters of Verity #1),4.12,469,49189,9291,Kindle Edition,July 5th 2016,Greenwillow Books
+46,Throne of Jade,Naomi Novik,0345481291,(Temeraire #2),3.90,398,32240,2040,Mass Market Paperback,April 25th 2006,Del Rey Books
+44,Academ's Fury,Jim Butcher,0441013406,(Codex Alera #2),4.28,702,56141,1594,Paperback,February 2010,Ace
+149,Redwall,Brian Jacques,1862301387,(Redwall #1),4.13,352,94711,3430,Paperback,September 4th 2006,Red Fox
+151,Alice's Adventures in Wonderland & Through the Looking-Glass,Lewis Carroll,0451527747,(Alice's Adventures in Wonderland #1-2),4.07,239,422568,9647,Paperback,December 1st 2000,Penguin Group (USA)
+51,The Lost Hero,Rick Riordan,142311339X,(The Heroes of Olympus #1),4.35,557,552407,19691,Hardcover,October 12th 2010,Disney-Hyperion Books
+148,The Assassin's Blade,Sarah J. Maas,1408852594,(Throne of Glass 0.1 - 0.5),4.45,448,100693,10782,ebook,March 4th 2014,Bloomsbury Childrens
+150,The Blood of Olympus,Rick Riordan,1484724917,(The Heroes of Olympus #5),4.42,516,164161,13974,Hardcover,October 7th 2014,Disney-Hyperion Books
+498,Hex Hall,Rachel Hawkins,1423121309,(Hex Hall #1),3.96,323,122689,8198,Hardcover,March 2nd 2010,Hyperion Book CH
+496,The Serpent's Shadow,Rick Riordan,1423140575,(The Kane Chronicles #3),4.29,406,105760,4936,Hardcover,May 1st 2012,Hyperion Books
+293,A Storm of Swords: Blood and Gold,George R.R. Martin,0007119550,(A Song of Ice and Fire #3B),4.56,639,73092,2168,Paperback,September 1st 2011,HarperVoyager
+292,Best Served Cold,Joe Abercrombie,0575082453,(First Law World #4),4.18,534,53548,2335,Hardcover,June 5th 2009,Gollancz
+304,The Lost Colony,Eoin Colfer,,(Artemis Fowl #5),4.00,385,140982,1794,Hardcover,September 15th 2006,Miramax Books/Hyperion Books for Children
+497,Chainfire,Terry Goodkind,0765344319,(Sword of Truth #9),3.96,756,44565,610,Mass Market Paperback,December 2005,Tor Fantasy
+291,The City of Brass,S.A. Chakraborty,0062678108,(The Daevabad Trilogy #1),4.18,533,22677,4361,Hardcover,November 14th 2017,Harper Voyager
+500,King of Thorns,Mark  Lawrence,1937007472,(The Broken Empire #2),4.20,449,49554,2398,Hardcover,August 7th 2012,Ace Books
+499,Flame in the Mist,Renée Ahdieh,0399171630,(Flame in the Mist #1),3.92,392,26845,4977,Hardcover,May 16th 2017,G.P. Putnam's Sons
+495,The Blinding Knife,Brent Weeks,031607991X,(Lightbringer #2),4.45,671,60450,2005,Hardcover,September 11th 2012,Orbit
+492,Stone of Farewell,Tad Williams,0756402972,"(Memory, Sorrow, and Thorn #2)",4.10,608,39355,572,Paperback,April 1st 2005,Daw Books
+491,Dragonquest,Anne McCaffrey,,(Dragonriders of Pern #2),4.10,350,38730,774,Paperback,October 13th 1986,Del Rey Books
+493,Gregor the Overlander,Suzanne Collins,043977134X,(Underland Chronicles #1),4.01,326,82920,6005,Paperback,May 1st 2005,Scholastic
+494,Tuck Everlasting,Natalie Babbitt,0374480095,,3.87,139,204395,8413,Paperback,November 1st 1985,Farrar Straus Giroux
+490,Fairest,Marissa Meyer,1250060559,(The Lunar Chronicles #3.5),4.01,222,85651,12022,Hardcover,January 27th 2015,Feiwel & Friends
+489,Blood Promise,Richelle Mead,1595141987,(Vampire Academy #4),4.34,503,260805,9375,Hardcover,August 25th 2009,Penguin Razorbill
+484,Sandry's Book,Tamora Pierce,0590554085,(Circle of Magic #1),4.01,252,35767,995,Mass Market Paperback,June 24th 2006,Scholastic
+487,Library of Souls,Ransom Riggs,,(Miss Peregrine's Peculiar Children #3),4.15,465,99103,10006,Kindle Edition,September 22nd 2015,Quirk Books
+488,The Amazing Maurice and His Educated Rodents,Terry Pratchett,006001234X,(Discworld #28),4.05,256,34015,1429,Hardcover,November 6th 2001,HarperCollins
+485,Lady Knight,Tamora Pierce,,(Protector of the Small #4),4.32,416,44292,854,Mass Market Paperback,January 2007,Random House Inc
+486,Dead as a Doornail,Charlaine Harris,0441013333,(Sookie Stackhouse #5),4.01,297,189301,3925,Mass Market Paperback,April 25th 2006,Ace Books
+483,The Hazel Wood,Melissa Albert,1250147905,(The Hazel Wood #1),3.60,359,37038,7646,Hardcover,January 30th 2018,Flatiron Books
+482,The Crystal Shard,R.A. Salvatore,0786942460,(The Legend of Drizzt #4),4.14,344,41156,903,Mass Market Paperback,January 9th 2007,Wizards of the Coast
+481,Black Powder War,Naomi Novik,0345481305,(Temeraire #3),3.90,365,25632,1307,Mass Market Paperback,May 30th 2006,Del Rey Books
+480,Rebel Angels,Libba Bray,0385733410,(Gemma Doyle #2),3.94,548,99206,3277,Paperback,December 26th 2006,Ember
+477,Animal Farm,George Orwell,,,3.92,144,2361779,46394,Mass Market Paperback,1996,Signet Classics
+478,Ender's Game,Orson Scott Card,0812550706,(Ender's Saga #1),4.30,324,1011006,41333,Mass Market Paperback,July 1994,TOR
+479,To Kill a Kingdom,Alexandra Christo,1250112680,,3.98,344,28246,6311,Hardcover,March 6th 2018,Feiwel & Friends
+474,Page,Tamora Pierce,,(Protector of the Small #2),4.24,290,40629,762,,December 18th 2008,
+473,Interesting Times,Terry Pratchett,0061056901,(Discworld #17),4.18,368,38230,922,Mass Market Paperback,March 4th 1998,HarperTorch
+475,The Iron Daughter,Julie Kagawa,0373210132,(The Iron Fey #2),4.12,359,106903,5435,Paperback,July 20th 2010,Harlequin Teen
+468,Cold Days,Jim Butcher,0451464400,(The Dresden Files #14),4.51,515,76542,4455,Hardcover,November 27th 2012,Penguin Group (USA)
+476,Kushiel's Chosen,Jacqueline Carey,0765345048,(Kushiel's Legacy #2),4.32,678,33105,963,Mass Market Paperback,March 14th 2003,Tom Doherty Associates TOR Fantasy
+470,Captive Prince,C.S. Pacat,,(Captive Prince #1),3.92,240,42103,5474,ebook,May 22nd 2012,
+469,Sojourn,R.A. Salvatore,1560760478,(The Legend of Drizzt #3),4.23,309,51454,730,Mass Market Paperback,May 1st 1999,Wizards of the Coast
+472,Unfinished Tales of Númenor and Middle-Earth,J.R.R. Tolkien,026110215X,(Unfinished Tales),3.96,452,26789,623,Hardcover,June 1st 2000,HarperCollins Publishers
+471,The Girl in the Tower,Katherine Arden,1101885963,(Winternight Trilogy #2),4.41,363,31521,4552,Hardcover,December 5th 2017,Del Rey
+465,Touch of Power,Maria V. Snyder,0778313077,(Healer #1),4.15,390,40226,3142,Paperback,December 20th 2011,Mira
+464,Trickster's Queen,Tamora Pierce,,(Daughter of the Lioness #2),4.29,496,51679,963,Paperback,October 31st 2017,Ember
+467,The Emperor's Blades,Brian Staveley,0765336405,(Chronicle of the Unhewn Throne #1),4.13,480,30081,2257,Hardcover,January 14th 2014,Tor Books
+458,A Spell for Chameleon,Piers Anthony,034525855X,(Xanth #1),3.94,344,37221,1478,Paperback,1977,Del Rey
+466,Naked Empire,Terry Goodkind,0765344300,(Sword of Truth #8),3.82,736,45940,636,Mass Market Paperback,June 1st 2004,Tor Books
+463,Squire,Tamora Pierce,,(Protector of the Small #3),4.29,400,44329,771,,December 18th 2007,
+457,The Rose & the Dagger,Renée Ahdieh,0399171622,(The Wrath and the Dawn #2),4.15,416,46154,7112,Hardcover,April 26th 2016,G.P. Putnam's Sons Books for Young Readers
+460,The Hidden Oracle,Rick Riordan,148473274X,(The Trials of Apollo #1),4.28,376,81816,9115,Hardcover,May 3rd 2016,Disney-Hyperion
+461,Tithe,Holly Black,0689867042,(Modern Faerie Tales #1),3.73,332,66873,3757,Paperback,April 2004,Simon Pulse
+459,Miecz przeznaczenia,Andrzej Sapkowski,8370540376,(Saga o Wiedźminie #2),4.38,362,43971,1940,Paperback,1994,SuperNOWA
+462,The Bone Season,Samantha Shannon,1620401398,(The Bone Season #1),3.77,466,49691,7618,Hardcover,August 20th 2013,Bloomsbury USA
+456,La Belle Sauvage,Philip Pullman,0375815309,(The Book of Dust #1),4.18,449,50287,5796,Hardcover,October 19th 2017,Alfred A. Knopf
+454,Magician,Raymond E. Feist,0586217835,(The Riftwar Saga #1-2),4.33,681,54523,1367,Paperback,2009,HarperCollins
+455,The Queen of Attolia,Megan Whalen Turner,0060841826,(The Queen's Thief #2),4.22,362,31818,3158,Paperback,January 24th 2006,Eos
+452,Shadow Kiss,Richelle Mead,1595141979,(Vampire Academy #3),4.37,443,308539,10783,Paperback,November 13th 2008,Razorbill
+453,The Stone Sky,N.K. Jemisin,0356508684,(The Broken Earth #3),4.37,416,41211,4502,Paperback,August 15th 2017,Orbit
+451,Shadow and Bone,Leigh Bardugo,,(The Shadow and Bone Trilogy #1),4.04,358,222019,25596,Hardcover,June 5th 2012,Henry Holt and Company
+448,Eldest,Christopher Paolini,0375840400,(The Inheritance Cycle #2),3.98,704,311410,9076,Paperback,March 13th 2007,Knopf Books for Young Readers
+450,The Magician's Nephew,C.S. Lewis,0060764902,(The Chronicles of Narnia (Chronological Order) #1),4.03,221,357038,11019,Paperback,May 4th 2005,HarperCollins Publishers
+446,A Darker Shade of Magic,V.E. Schwab,0765376458,(Shades of Magic #1),4.09,413,143821,20627,Hardcover,February 24th 2015,Tor Books
+445,The Well of Ascension,Brandon Sanderson,0765316889,(Mistborn #2),4.37,590,229514,11676,Hardcover,August 21st 2007,Tor Books
+449,The Way of Kings,Brandon Sanderson,0765326353,(The Stormlight Archive #1),4.65,1007,235057,15620,Hardcover,August 31st 2010,Tor Books
+441,Assassin's Apprentice,Robin Hobb,055357339X,(Farseer Trilogy #1),4.15,435,201141,8142,Mass Market Paperback,March 1st 1996,Spectra Books
+443,The Sea of Monsters,Rick Riordan,0786856866,(Percy Jackson and the Olympians #2),4.24,279,644012,23418,Hardcover,April 1st 2006,Hyperion Books
+442,The Lies of Locke Lamora,Scott Lynch,,(Gentleman Bastard #1),4.30,752,180401,12276,Kindle Edition,June 27th 2006,Spectra
+444,Six of Crows,Leigh Bardugo,1627792120,(Six of Crows #1),4.47,462,202405,29410,Hardcover,September 29th 2015,Henry Holt and Company
+440,The Subtle Knife,Philip Pullman,,(His Dark Materials #2),4.12,370,313156,7684,Kindle Edition,September 2018,RHCP Digital
+447,The Silmarillion,J.R.R. Tolkien,0618391118,(Middle-Earth Universe),3.91,386,189735,6942,Hardcover,November 15th 2004,Houghton Mifflin Harcourt
+439,Harry Potter and the Cursed Child: Parts One and Two,John Tiffany,0751565350,(Harry Potter #8),3.67,343,563781,61027,Hardcover,July 31st 2016,"Little, Brown"
+436,The Ocean at the End of the Lane,Neil Gaiman,0062255657,,4.00,181,420166,43568,Hardcover,June 18th 2013,William Morrow Books
+435,Graceling,Kristin Cashore,015206396X,(Graceling Realm #1),4.09,471,347662,20986,Hardcover,October 1st 2008,Harcourt
+433,The Night Circus,Erin Morgenstern,0385534639,,4.04,391,576558,63611,Hardcover,September 13th 2011,Doubleday
+438,The Color of Magic,Terry Pratchett,0060855924,(Discworld #1),3.99,228,274937,8287,Hardcover,September 13th 2005,Harper
+437,The Princess Bride,William Goldman,0345418263,,4.26,398,712657,18260,Paperback,July 15th 2003,Ballantine Books (Ballantine Reader's Circle)
+434,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,0060853980,,4.25,412,426446,20627,Mass Market Paperback,November 28th 2006,William Morrow
+432,Throne of Glass,Sarah J. Maas,,(Throne of Glass #1),4.22,406,476514,37786,Hardcover,August 7th 2012,Bloomsbury USA Children's
+429,Neverwhere,Neil Gaiman,0060557818,"(London Below,  The World of Neverwhere #1)",4.18,370,375462,19939,Paperback,September 2nd 2003,William Morrow Paperbacks
+430,The Eye of the World,Robert Jordan,0812511816,(The Wheel of Time #1),4.19,814,331824,10151,Mass Market Paperback,November 15th 1990,Tor Books
+431,The Wise Man's Fear,Patrick Rothfuss,0756404738,(The Kingkiller Chronicle #2),4.58,994,362139,19243,Hardcover,March 1st 2011,DAW Books
+427,Stardust,Neil Gaiman,0061142026,,4.08,248,314822,16353,Paperback,August 29th 2006,Harper Perennial
+425,City of Bones,Cassandra Clare,1416914285,(The Mortal Instruments #1),4.11,485,1448600,57176,Hardcover,March 27th 2007,Margaret K. McElderry Books
+426,Twilight,Stephenie Meyer,0316015849,(Twilight  #1),3.59,498,4445132,99245,Paperback,September 6th 2006,"Little, Brown and Company"
+428,The Lord of the Rings,J.R.R. Tolkien,,(Middle-Earth Universe),4.49,1216,501732,10691,Paperback,October 12th 2005,Houghton Mifflin Harcourt
+422,American Gods,Neil Gaiman,,(American Gods #1),4.11,635,666032,34944,Kindle Edition,June 21st 2011,William Morrow
+424,The Final Empire,Brandon Sanderson,076531178X,(Mistborn #1),4.45,541,320696,21964,Hardcover,July 25th 2006,Tor Books
+421,A Dance with Dragons,George R.R. Martin,,(A Song of Ice and Fire #5),4.32,1125,499538,21427,Kindle Edition,July 12th 2011,Bantam
+423,The Lightning Thief,Rick Riordan,0786838655,(Percy Jackson and the Olympians #1),4.24,377,1713187,53485,Paperback,March 1st 2006,Disney Hyperion Books
+420,Eragon,Christopher Paolini,0375826696,(The Inheritance Cycle #1),3.89,503,1293685,20531,Paperback,April 2005,Alfred A. Knopf
+418,"The Lion, the Witch and the Wardrobe",C.S. Lewis,,(The Chronicles of Narnia (Publication Order) #1),4.21,206,1897018,18723,Paperback,2005,HarperCollins Publishers
+419,The Golden Compass,Philip Pullman,0679879242,(His Dark Materials #1),3.96,399,1143467,18231,Hardcover,April 16th 1996,Alfred A. Knopf Books for Young Readers
+417,A Feast for Crows,George R.R. Martin,055358202X,(A Song of Ice and Fire #4),4.13,978,559617,20444,Mass Market Paperback,2011,Bantam Books
+416,A Storm of Swords,George R.R. Martin,055357342X,(A Song of Ice and Fire #3),4.54,1177,604621,21080,Mass Market Paperback,March 4th 2003,Bantam
+413,The Two Towers,J.R.R. Tolkien,0618346260,(The Lord of the Rings #2),4.44,322,620979,8749,Paperback,September 5th 2003,Houghton Mifflin
+414,The Name of the Wind,Patrick Rothfuss,075640407X,(The Kingkiller Chronicle #1),4.55,662,601728,36556,Hardcover,April 2007,Penguin Group DAW
+411,The Fellowship of the Ring,J.R.R. Tolkien,0618346252,(The Lord of the Rings #1),4.35,398,2109330,18912,Paperback,September 5th 2003,Houghton Mifflin Harcourt
+410,A Game of Thrones,George R.R. Martin,0553588486,(A Song of Ice and Fire #1),4.45,848,1767499,51476,Mass Market Paperback,August 2005,Bantam
+415,The Return of the King,J.R.R. Tolkien,0345339738,(The Lord of the Rings #3),4.52,490,592952,8388,Mass Market Paperback,2003,Del Rey
+409,Harry Potter and the Half-Blood Prince,J.K. Rowling,0439785960,(Harry Potter #6),4.56,652,2108184,34102,Paperback,September 16th 2006,Scholastic Inc.
+408,Harry Potter and the Order of the Phoenix,J.K. Rowling,0439358078,(Harry Potter #5),4.49,870,2160744,36087,Paperback,September 1st 2004,Scholastic Inc.
+406,Harry Potter and the Goblet of Fire,J.K. Rowling,,(Harry Potter #4),4.55,734,2209897,39317,Paperback,September 28th 2002,Scholastic
+407,Harry Potter and the Deathly Hallows,J.K. Rowling,0545010225,(Harry Potter #7),4.62,759,2327640,59689,Hardcover,July 21st 2007,Arthur A. Levine Books / Scholastic Inc.
+412,A Clash of Kings,George R.R. Martin,0553381695,(A Song of Ice and Fire #2),4.41,969,707790,22487,Paperback,May 28th 2002,Bantam
+405,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,043965548X,(Harry Potter #3),4.55,435,2360626,46674,Mass Market Paperback,May 1st 2004,Scholastic Inc.
+404,Harry Potter and the Chamber of Secrets,J.K. Rowling,0439064864,(Harry Potter #2),4.41,341,2314317,44462,Hardcover,June 2nd 1999,Arthur A. Levine Books / Scholastic Inc.
+402,The Mists of Avalon,Marion Zimmer Bradley,,(Avalon #1),4.12,912,177912,6276,Kindle Edition,July 15th 2001,Ballantine Books
+403,The Hobbit or There and Back Again,J.R.R. Tolkien,0618260307,(Middle-Earth Universe),4.27,366,2540810,43276,Paperback,August 15th 2002,Houghton Mifflin
+399,Heir of Fire,Sarah J. Maas,1619630656,(Throne of Glass #3),4.51,565,214196,21054,Hardcover,September 2nd 2014,Bloomsbury USA Childrens
+400,Poison Study,Maria V. Snyder,0778324338,(Poison Study #1),4.15,409,126018,10873,Paperback,March 1st 2007,Mira
+396,The Blade Itself,Joe Abercrombie,0575079797,(The First Law #1),4.16,515,136128,6894,Paperback,March 2007,Gollancz
+401,The Shadow Rising,Robert Jordan,0812513738,(The Wheel of Time #4),4.23,1007,150395,2774,Mass Market Paperback,October 15th 1993,Tom Doherty Tor Fantasy
+397,The Last Battle,C.S. Lewis,0007202326,(The Chronicles of Narnia (Publication Order) #7),4.03,288,197527,5292,Paperback,June 20th 2005,HarperCollins Publishers
+394,Mockingjay,Suzanne Collins,0439023513,(The Hunger Games #3),4.03,390,2075962,99367,Hardcover,August 24th 2010,Scholastic Press
+395,Artemis Fowl,Eoin Colfer,0786817879,(Artemis Fowl #1),3.84,396,447230,10012,Paperback,April 1st 2003,Disney-Hyperion
+398,A Court of Mist and Fury,Sarah J. Maas,,(A Court of Thorns and Roses #2),4.68,626,230989,32093,Kindle Edition,May 3rd 2016,Bloomsbury USA Childrens
+393,Wizard's First Rule,Terry Goodkind,0765346524,(Sword of Truth #1),4.14,836,212539,6142,Paperback,April 14th 2003,Tor Books
+392,Inkheart,Cornelia Funke,0439709105,(Inkworld #1),3.87,563,331369,11279,Paperback,June 1st 2005,Scholastic Paperbacks
+390,The Silver Chair,C.S. Lewis,,(The Chronicles of Narnia (Publication Order) #4),3.96,243,211382,4415,Paperback,January 2nd 2008,HarperCollins
+386,Coraline,Neil Gaiman,0061139378,,4.05,162,416510,17373,Paperback,August 29th 2006,William Morrow Paperbacks
+391,Clockwork Angel,Cassandra Clare,1416975861,(The Infernal Devices #1),4.33,481,591256,27924,Hardcover,August 31st 2010,"Simon & Schuster, Margaret K. McElderry"
+389,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,0060987103,(The Wicked Years #1),3.53,406,548309,23942,Paperback,2000,William Morrow Paperbacks
+387,The Dragon Reborn,Robert Jordan,0765305119,(The Wheel of Time #3),4.25,624,187737,3171,Mass Market Paperback,September 14th 2002,Tor Books
+388,Storm Front,Jim Butcher,0451457811,(The Dresden Files #1),4.01,322,255206,14099,Mass Market Paperback,April 2000,Penguin ROC
+385,Red Queen,Victoria Aveyard,0062310631,(Red Queen #1),4.06,383,447410,39206,Hardcover,February 10th 2015,HarperTeen
+384,Sabriel,Garth Nix,0064471837,(The Old Kingdom #1),4.17,491,164768,6819,Mass Market Paperback,September 30th 1996,Harper Collins
+381,Jonathan Strange & Mr Norrell,Susanna Clarke,0765356155,,3.82,1006,176608,12923,Paperback,August 1st 2006,Tor Books
+380,Crown of Midnight,Sarah J. Maas,1619630621,(Throne of Glass #2),4.46,418,264950,24834,Hardcover,August 27th 2013,Bloomsbury USA Childrens
+379,The Horse and His Boy,C.S. Lewis,0439861365,(The Chronicles of Narnia (Publication Order) #5),3.91,224,240902,6215,Paperback,1995,Scholastic Inc
+383,Catching Fire,Suzanne Collins,0439023491,(The Hunger Games #2),4.29,391,2205123,92037,Hardcover,September 1st 2009,Scholastic Press
+377,The Great Hunt,Robert Jordan,0812517725,(The Wheel of Time #2),4.23,705,196758,3918,Mass Market Paperback,October 15th 1991,Tor Books
+378,Brisingr,Christopher Paolini,0375826726,(The Inheritance Cycle #3),4.05,748,261338,8646,Hardcover,September 20th 2008,Alfred A. Knopf
+382,The Magicians,Lev Grossman,0670020559,(The Magicians #1),3.51,402,205046,20902,Hardcover,August 11th 2009,Viking
+374,The Gunslinger,Stephen King,,(The Dark Tower #1),3.96,231,458776,17020,Paperback,July 2003,Plume
+375,The Chronicles of Narnia,C.S. Lewis,0066238501,(The Chronicles of Narnia (Publication Order) #1–7),4.26,767,456367,9682,Paperback,September 16th 2002,HarperCollins
+376,City of Glass,Cassandra Clare,1416914307,(The Mortal Instruments #3),4.33,541,721174,25420,Hardcover,March 24th 2009,Margaret K. McElderry Books
+373,The Last Olympian,Rick Riordan,1423101472,(Percy Jackson and the Olympians #5),4.51,381,578543,20346,Hardcover,May 5th 2009,Disney-Hyperion Books
+369,The Voyage of the Dawn Treader,C.S. Lewis,006112527X,(The Chronicles of Narnia (Publication Order) #3),4.09,248,362826,5783,Hardcover,September 1st 2006,HarperCollins
+371,Howl's Moving Castle,Diana Wynne Jones,006441034X,(Howl's Moving Castle #1),4.30,329,174401,11904,Mass Market Paperback,August 1st 2001,Harper Trophy
+370,Breaking Dawn,Stephenie Meyer,031606792X,(Twilight  #4),3.70,756,1189531,45639,Hardcover,August 2nd 2008,"Little, Brown and Company"
+372,The Tales of Beedle the Bard,J.K. Rowling,0747599874,(Hogwarts Library),4.08,109,363366,13281,Hardcover,December 4th 2008,Bloomsbury
+368,Daughter of Smoke & Bone,Laini Taylor,0316134023,(Daughter of Smoke & Bone #1),4.03,422,276338,27333,Hardcover,September 27th 2011,"Little, Brown Books for Young Readers"
+367,City of Ashes,Cassandra Clare,1416914293,(The Mortal Instruments #2),4.19,453,661324,26507,Hardcover,March 25th 2008,Margaret K. McElderry Books
+365,The Battle of the Labyrinth,Rick Riordan,1423101464,(Percy Jackson and the Olympians #4),4.39,361,631793,16556,Hardcover,March 6th 2008,Hyperion Books for Children
+364,The Hero of Ages,Brandon Sanderson,0765316897,(Mistborn #3),4.49,572,214874,12292,Hardcover,October 14th 2008,Tor Books
+363,Eclipse,Stephenie Meyer,0316160202,(Twilight  #3),3.69,629,1278350,36346,Hardcover,August 7th 2007,"Little, Brown and Company"
+366,Prince Caspian,C.S. Lewis,000720230X,(The Chronicles of Narnia (Publication Order) #2),3.97,240,310218,5964,Hardcover,June 20th 2005,HarperCollins Publishers
+361,The Graveyard Book,Neil Gaiman,0060530928,,4.13,307,390888,28334,Hardcover,September 30th 2008,HarperCollins
+358,New Moon,Stephenie Meyer,0316160199,(Twilight  #2),3.53,563,1305374,45525,Hardcover,September 6th 2006,"Little, Brown and Company"
+360,A Wrinkle in Time,Madeleine L'Engle,1250153271,(Time Quintet #1),4.01,218,910399,31638,Paperback,November 7th 2017,Square Fish
+359,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,,(Miss Peregrine's Peculiar Children #1),3.91,352,854697,58648,Hardcover,June 7th 2011,Quirk
+356,A Wizard of Earthsea,Ursula K. Le Guin,0553383043,(Earthsea Cycle #1),4.00,183,202534,7661,Paperback,September 28th 2004,Bantam Spectra
+362,The Titan's Curse,Rick Riordan,0141382899,(Percy Jackson and the Olympians #3),4.35,320,591900,18075,Paperback,May 5th 2007,Puffin Books
+357,The Amber Spyglass,Philip Pullman,0440238153,(His Dark Materials #3),4.09,467,252952,8153,Mass Market Paperback,September 9th 2003,Laurel Leaf
+355,Uprooted,Naomi Novik,0804179034,,4.10,435,127178,18715,Hardcover,May 19th 2015,Del Rey
+354,A Court of Thorns and Roses,Sarah J. Maas,1619634449,(A Court of Thorns and Roses #1),4.26,419,329508,36468,Hardcover,May 5th 2015,Bloomsbury USA Childrens
+352,Ghost Story,Jim Butcher,045146379X,(The Dresden Files #13),4.25,481,76705,3995,Hardcover,July 26th 2011,Roc Hardcover
+351,The Book of Life,Deborah Harkness,0670025593,(All Souls Trilogy #3),4.18,561,106616,9453,Hardcover,July 15th 2014,Viking Adult
+353,Alice in Wonderland,Jane Carruth,0517223627,,4.03,92,357572,5110,Hardcover,September 7th 2004,Gramercy Books
+348,Arrows of the Queen,Mercedes Lackey,0886773784,(Valdemar: Heralds of Valdemar #1),4.16,320,30717,968,Paperback,March 3rd 1987,Daw Books
+350,Princess Academy,Shannon Hale,1599900734,(Princess Academy #1),4.02,314,94284,8300,Paperback,April 17th 2007,Bloomsbury Children's Books
+349,The Magician's Land,Lev Grossman,,(The Magicians #3),4.16,402,56892,4775,Kindle Edition,August 5th 2014,Plume
+346,Tehanu,Ursula K. Le Guin,1416509631,(Earthsea Cycle #4),3.94,281,29103,1414,Paperback,November 23rd 2004,Pocket Books
+347,A Knight of the Seven Kingdoms,George R.R. Martin,0345533488,(The Tales of Dunk and Egg #1-3),4.21,355,51053,4178,Hardcover,October 6th 2015,Bantam
+345,A Wind in the Door,Madeleine L'Engle,,(Time Quintet #2),4.04,203,106178,3313,Mass Market Paperback,March 1976,Dell Laurel-Leaf
+341,The Paper Magician,Charlie N. Holmberg,1477823832,(The Paper Magician #1),3.65,222,58244,6438,Paperback,September 1st 2014,47North
+340,Castle in the Air,Diana Wynne Jones,0064473457,(Howl's Moving Castle #2),3.93,298,32725,2046,Mass Market Paperback,August 7th 2001,Greenwillow Books
+338,Exile,R.A. Salvatore,0786939834,(The Legend of Drizzt #2),4.25,343,47977,888,Mass Market Paperback,March 7th 2006,Wizards of the Coast
+339,Magician: Master,Raymond E. Feist,0553564935,(The Riftwar Saga #2),4.26,499,60477,670,Mass Market Paperback,January 1993,Spectra Books
+342,Alice's Adventures in Wonderland,Lewis Carroll,,(Alice's Adventures in Wonderland #1),4.01,96,173813,7699,Kindle Edition,May 1st 1997,Public Domain Books
+343,Dragonsong,Anne McCaffrey,141692499X,(Harper Hall of Pern #1),4.25,192,43900,1327,Paperback,June 1st 2006,Aladdin Paperbacks
+337,Dead to the World,Charlaine Harris,0441012183,(Sookie Stackhouse #4),4.14,291,230152,5556,Mass Market Paperback,April 1st 2005,Ace Books
+335,Fantastic Beasts and Where to Find Them: The Original Screenplay,J.K. Rowling,1338109065,(Fantastic Beasts: The Original Screenplay #1),4.29,280,99850,7071,Hardcover,November 18th 2016,Arthur A. Levine Books
+336,Rubinrot,Kerstin Gier,3401063340,(Edelstein-Trilogie #1),4.12,343,96574,9316,Hardcover,January 6th 2009,Arena Verlag
+333,Nevernight,Jay Kristoff,1250073022,(The Nevernight Chronicle #1),4.32,429,25428,5717,Hardcover,August 9th 2016,St. Martin's Press
+332,The Diviners,Libba Bray,031612611X,(The Diviners #1),3.98,578,61420,9431,Hardcover,September 18th 2012,"Little, Brown Books for Young Readers"
+334,The Alchemist,Paulo Coelho,0061122416,,3.85,197,1768052,68969,Paperback,May 1st 1993,HarperCollins
+329,A Storm of Swords: Steel and Snow,George R.R. Martin,0006479901,(A Song of Ice and Fire #3A),4.49,663,61563,1876,Paperback,April 7th 2001,HarperVoyager
+331,"Over Sea, Under Stone",Susan Cooper,068987121X,(The Dark Is Rising #1),3.86,196,41987,2079,Paperback,May 25th 2004,Aladdin Paperbacks
+325,The Dragon Keeper,Robin Hobb,0007273746,(Rain Wild Chronicles #1),3.95,553,29415,1641,Hardcover,June 1st 2009,Voyager
+327,Inkdeath,Cornelia Funke,1905294719,(Inkworld #3),3.95,699,65989,2947,Paperback,September 28th 2007,Chicken House
+328,The Seeress of Kell,David Eddings,0552148067,(The Malloreon #5),4.14,452,38531,372,Paperback,August 13th 1992,Corgi
+324,Demon Lord of Karanda,David Eddings,0345363310,(The Malloreon #3),4.06,404,35629,269,Mass Market Paperback,October 14th 1989,Del Rey Books
+330,I Shall Wear Midnight,Terry Pratchett,0385611072,(Discworld #38),4.36,349,41318,2069,Hardcover,September 2nd 2010,Doubleday Childrens
+323,Lord Foul's Bane,Stephen R. Donaldson,0345348656,(The Chronicles of Thomas Covenant the Unbeliever #1),3.73,480,39520,1480,Mass Market Paperback,November 1989,Del Rey / Ballantine
+326,The Poppy War,R.F. Kuang,0062662597,(The Poppy War #1),4.01,544,18818,3988,ebook,May 1st 2018,Harper Voyager
+321,Captain's Fury,Jim Butcher,0441015271,(Codex Alera #4),4.38,451,53951,1124,Hardcover,December 4th 2007,Ace Books
+319,Green Rider,Kristen Britain,0886778581,(Green Rider #1),4.09,471,29053,1596,Mass Market Paperback,April 1st 2000,DAW Books
+320,Sorceress of Darshiva,David Eddings,0345369351,(The Malloreon #4),4.11,371,39456,274,Mass Market Paperback,October 13th 1990,Del Rey Books
+322,The Darkest Part of the Forest,Holly Black,0316213071,,3.91,336,39008,6165,Hardcover,January 13th 2015,"Little, Brown Books for Young Readers"
+316,Deadhouse Gates,Steven Erikson,0765310023,(Malazan Book of the Fallen #2),4.26,604,49486,1860,Hardcover,February 1st 2005,Tor Books
+318,The Pillars of Creation,Terry Goodkind,0765340747,(Sword of Truth #7),3.68,725,50062,850,Mass Market Paperback,November 2002,Tor Books
+317,Marked,P.C. Cast,0312360266,(House of Night #1),3.80,306,402504,13637,Paperback,May 1st 2007,St. Martin's Press
+312,Club Dead,Charlaine Harris,1841493015,(Sookie Stackhouse #3),4.03,274,206647,5326,Mass Market Paperback,May 6th 2006,Orbit
+315,The Wicked King,Holly Black,0316310336,(The Folk of the Air #2),4.49,336,49601,9721,ebook,January 8th 2019,"Little, Brown Books for Young Readers"
+313,The Black Company,Glen Cook,,(The Chronicles of the Black Company #1),3.95,319,35347,1651,Mass Market Paperback,March 15th 1992,Tor Fantasy
+314,Smoke and Mirrors: Short Fiction and Illusions,Neil Gaiman,0380789027,,4.05,365,58641,2576,Mass Market Paperback,August 30th 2005,Avon Books
+310,Belgarath the Sorcerer,David Eddings,0345403959,(Belgariad Prequels),4.08,736,66324,425,Paperback,December 21st 1997,Del Rey Books
+309,The Black Cauldron,Lloyd Alexander,080508049X,(The Chronicles of Prydain #2),4.14,182,54640,1412,Paperback,May 16th 2006,Square Fish
+308,Terrier,Tamora Pierce,037581468X,(Beka Cooper #1),4.16,584,56560,1819,Hardcover,October 24th 2006,Random House
+311,Fragile Things: Short Fictions and Wonders,Neil Gaiman,0060515228,(American Gods #1.1 (Monarch of the Glen)),4.01,360,52433,3557,Hardcover,September 26th 2006,William Morrow
+306,Red Sister,Mark  Lawrence,1101988851,(Book of the Ancestor #1),4.26,469,25451,3174,Hardcover,April 4th 2017,Ace
+307,Ready Player One,Ernest Cline,030788743X,(Ready Player One #1),4.28,374,723206,80777,Hardcover,August 16th 2011,Crown Publishers
+302,The Hunger Games,Suzanne Collins,0439023483,(The Hunger Games #1),4.33,374,5746413,163204,Hardcover,October 2008,Scholastic Press
+301,Thief of Time,Terry Pratchett,0061031321,(Discworld #26),4.27,378,54503,1392,Paperback,2008,HarperTorch
+303,Harry Potter and the Sorcerer's Stone,J.K. Rowling,0439554934,(Harry Potter #1),4.47,320,5983601,96249,Hardcover,June 26th 1997,Scholastic Inc
+296,His Dark Materials,Philip Pullman,0440238609,(His Dark Materials #1-3),4.26,1088,121788,4860,Mass Market Paperback,September 23rd 2003,Laurel Leaf Library
+305,Emperor Mage,Tamora Pierce,1416903372,(The Immortals #3),4.31,358,51760,843,Paperback,June 1st 2005,Simon Pulse
+300,New Spring,Robert Jordan,1841492612,(The Wheel of Time 0),4.04,423,69939,1461,Paperback,December 2nd 2004,Orbit
+298,A Torch Against the Night,Sabaa Tahir,,(An Ember in the Ashes #2),4.33,452,67982,8991,Hardcover,August 30th 2016,Razorbill
+299,The Raven King,Maggie Stiefvater,0545424984,(The Raven Cycle #4),4.31,439,75137,12358,Hardcover,April 26th 2016,Scholastic Press
+297,The Emperor's Soul,Brandon Sanderson,1616960922,(Elantris),4.36,175,52751,3897,Paperback,October 11th 2012,Tachyon Publications
+295,The Elfstones of Shannara,Terry Brooks,0736693416,(The Original Shannara Trilogy #2),3.97,23,60758,1524,Audio Cassette,2003,Books on Tape
+294,Dragons of Spring Dawning,Margaret Weis,0786930705,(Dragonlance Universe #3),4.13,352,47744,538,Hardcover,September 1st 2003,Wizards of the Coast
+289,Wolf-Speaker,Tamora Pierce,1416903445,(The Immortals #2),4.22,344,45967,910,Paperback,June 1st 2005,Simon Pulse
+287,Harry Potter Series Box Set,J.K. Rowling,0545044251,(Harry Potter #1-7),4.75,4100,229399,7007,Hardcover,October 1st 2007,Arthur A. Levine Books
+288,The False Prince,Jennifer A. Nielsen,0545284139,(The Ascendance Trilogy #1),4.23,342,64007,8434,Hardcover,April 1st 2012,Scholastic
+290,Turn Coat,Jim Butcher,0451462564,(The Dresden Files #11),4.45,420,79890,2468,Hardcover,April 7th 2009,Roc
+285,The Desert Spear,Peter V. Brett,0345503813,(Demon Cycle #2),4.23,579,70118,2335,Hardcover,April 13th 2010,Del Rey
+284,Snuff,Terry Pratchett,038561926X,(Discworld #39),4.17,378,42803,2608,Hardcover,October 13th 2011,Doubleday UK
+286,King of the Murgos,David Eddings,0552148032,(The Malloreon #2),4.11,418,47567,319,Paperback,April 21st 1989,Corgi
+282,The Wishsong of Shannara,Terry Brooks,1857231325,(The Original Shannara Trilogy #3),3.98,512,44708,693,Paperback,1999,Orbit
+283,Frostbite,Richelle Mead,,(Vampire Academy #2),4.29,327,289178,10779,Paperback,April 10th 2008,Razorbill
+281,Daughter of the Blood,Anne Bishop,0451456718,(The Black Jewels #1),4.11,412,31616,1973,Mass Market Paperback,March 1st 1998,Roc NAL (New American Library) Penguin
+278,Unseen Academicals,Terry Pratchett,0061161705,(Discworld #37),3.99,417,41499,1822,Hardcover,October 6th 2009,HarperCollins
+275,A Darkness At Sethanon,Raymond E. Feist,0586066888,(The Riftwar Saga #4),4.19,527,54529,646,Mass Market Paperback,1987,Grafton Books
+276,Magic Bites,Ilona Andrews,0441014895,(Kate Daniels #1),4.07,260,91109,6324,Mass Market Paperback,March 27th 2007,Berkley Publishing Group
+279,Cursor's Fury,Jim Butcher,0441014348,(Codex Alera #3),4.37,442,54085,1330,Hardcover,December 5th 2006,Ace Hardcover
+277,Dragons of Winter Night,Margaret Weis,1932796789,(Dragonlance: Chronicles #2),4.14,358,40055,665,Paperback,April 10th 2007,Devil's Due Publishing
+273,The Goblin Emperor,Katherine Addison,076532699X,(The Goblin Emperor #1),4.05,446,19457,3357,Hardcover,April 1st 2014,Tor Books
+272,Trickster's Choice,Tamora Pierce,,(Daughter of the Lioness #1),4.28,448,54182,1340,Paperback,October 31st 2017,Ember
+274,The Invisible Library,Genevieve Cogman,1447256239,(The Invisible Library #1),3.74,329,30354,4462,Paperback,January 15th 2015,Tor UK
+280,A Natural History of Dragons,Marie Brennan,0765331969,(The Memoirs of Lady Trent #1),3.84,334,19047,2993,Hardcover,February 5th 2013,Tor Books
+270,The High Lord,Trudi Canavan,1841493155,(The Black Magician Trilogy #3),4.16,644,44420,1420,Paperback,November 4th 2004,Orbit
+271,Promise of Blood,Brian  McClellan,0316219037,(Powder Mage #1),4.16,545,34239,2430,Hardcover,April 16th 2013,Orbit
+269,Nine Princes in Amber,Roger Zelazny,0380014300,(The Chronicles of Amber #1),4.10,175,45826,1710,Mass Market Paperback,March 1986,Avon
+267,Blood of Elves,Andrzej Sapkowski,031602919X,(Saga o Wiedźminie #3),4.21,398,48980,2111,Mass Market Paperback,May 1st 2009,Hachette Book Group Orbit
+268,City of Stairs,Robert Jackson Bennett,080413717X,(The Divine Cities #1),4.13,452,21435,2719,Paperback,September 9th 2014,Broadway Books
+266,The Throne of Fire,Rick Riordan,1423140567,(The Kane Chronicles #2),4.21,452,141531,5549,Hardcover,May 3rd 2011,Hyperion Books for Children
+263,The Last Continent,Terry Pratchett,0552154180,(Discworld #22),4.00,416,43706,1010,Paperback,February 1st 2006,Corgi
+265,Kingdom of Ash,Sarah J. Maas,1619636107,(Throne of Glass #7),4.63,984,74239,11178,Hardcover,October 23rd 2018,Bloomsbury YA
+264,A Court of Frost and Starlight,Sarah J. Maas,168119631X,(A Court of Thorns and Roses #3.1),3.91,229,83208,11160,Hardcover,May 1st 2018,Bloomsbury YA
+261,Moon Called,Patricia Briggs,0441013813,(Mercy Thompson #1),4.17,288,156635,7580,Mass Market Paperback,January 31st 2006,Ace Books
+262,The Opal Deception,Eoin Colfer,,(Artemis Fowl #4),4.05,416,116092,1819,Paperback,July 14th 2009,Miramax Books
+260,First Test,Tamora Pierce,0679889175,(Protector of the Small #1),4.26,240,47854,1357,Mass Market Paperback,May 23rd 2000,Random House Children's Books
+258,The Novice,Trudi Canavan,1841493147,(The Black Magician Trilogy #2),4.08,577,44392,1230,Paperback,July 1st 2004,Orbit
+257,Hounded,Kevin Hearne,0345522478,(The Iron Druid Chronicles #1),4.12,304,68353,6387,Mass Market Paperback,May 3rd 2011,Del Rey
+256,Perdido Street Station,China Miéville,0345459407,(New Crobuzon #1),3.97,623,52863,4449,Mass Market Paperback,August 2003,Ballantine Del Rey
+254,Faith of the Fallen,Terry Goodkind,081257639X,(Sword of Truth #6),4.12,785,61830,1088,Mass Market Paperback,December 15th 2001,Tor
+259,The Golem's Eye,Jonathan Stroud,0786836547,(Bartimaeus #2),4.10,562,79941,1878,Paperback,January 1st 2006,Disney-Hyperion
+252,White Night,Jim Butcher,0451461401,(The Dresden Files #9),4.41,407,93003,2169,Hardcover,April 3rd 2007,Roc
+251,The Phantom Tollbooth,Norton Juster,0394820371,,4.21,256,216146,9285,Paperback,1996,Random House Bullseye Books
+255,Living Dead in Dallas,Charlaine Harris,1841493007,(Sookie Stackhouse #2),3.98,291,220538,6735,Mass Market Paperback,April 1st 2004,Orbit
+253,"Saga, Vol. 1",Brian K. Vaughan,1607066017,(Saga (Collected Editions) #1),4.21,176,203771,11442,Paperback,October 23rd 2012,Image Comics
+250,Wicked Lovely,Melissa Marr,0061214655,(Wicked Lovely #1),3.69,328,142695,6884,Hardcover,June 12th 2007,HarperTeen
+249,Darkfever,Karen Marie Moning,0385339151,(Fever #1),4.11,309,140802,9764,Hardcover,October 31st 2006,Delacorte Press
+245,Guardians of the West,David Eddings,0345352661,(The Malloreon #1),4.10,438,44259,509,Mass Market Paperback,March 1988,Del Rey Books
+248,The Eyes of the Dragon,Stephen King,0751504572,,3.93,427,93207,3836,Paperback,May 13th 1993,Time Warner Paperbacks
+244,Temple of the Winds,Terry Goodkind,1423321677,(Sword of Truth #4),4.03,822,69921,932,Audio CD,February 25th 2007,Brilliance Audio
+242,Wolves of the Calla,Stephen King,141651693X,(The Dark Tower #5),4.19,931,138685,3809,Mass Market Paperback,February 1st 2006,Pocket Books
+243,Thud!,Terry Pratchett,0552152676,(Discworld #34),4.31,439,57254,1548,Paperback,October 2nd 2006,Corgi
+246,The Time Traveler's Wife,Audrey Niffenegger,,,3.96,500,1449166,45902,ebook,September 23rd 2013,Zola Books
+247,Dune,Frank Herbert,0441013597,(Dune #1),4.22,687,622236,16858,Paperback,August 2nd 2005,Ace Books
+239,Golden Fool,Robin Hobb,0553582453,(Tawny Man #2),4.34,709,58085,1159,Mass Market Paperback,December 2003,Spectra
+238,Theft of Swords,Michael J. Sullivan,0316187747,(The Riyria Revelations #1-2),4.23,649,47245,3332,Paperback,November 23rd 2011,Orbit
+237,Soulless,Gail Carriger,0316056634,(Parasol Protectorate #1),3.91,357,88043,9585,Mass Market Paperback,October 1st 2009,Orbit
+235,Lords and Ladies,Terry Pratchett,055215315X,(Discworld #14),4.17,400,60149,1292,Paperback,August 1st 2005,Corgi
+241,Angelfall,Susan Ee,,(Penryn & the End of Days #1),4.16,288,148197,14998,Kindle Edition,August 28th 2012,Skyscape
+236,Homeland,R.A. Salvatore,0786939532,(The Legend of Drizzt #1),4.27,343,64800,2004,Mass Market Paperback,December 1st 2005,Wizards of the Coast
+232,The Magician King,Lev Grossman,043402080X,(The Magicians #2),3.92,400,77826,6209,Paperback,August 9th 2011,William Heinemann
+233,The Scorpio Races,Maggie Stiefvater,054522490X,,4.10,409,86982,11912,Hardcover,October 18th 2011,Scholastic Press
+240,Death Masks,Jim Butcher,0451459407,(The Dresden Files #5),4.32,432,103942,2941,Mass Market Paperback,August 5th 2003,Roc
+234,Eric,Terry Pratchett,0380821214,(Discworld #9),3.75,217,52319,1545,Mass Market Paperback,July 2008,Harper
+230,Cruel Beauty,Rosamund Hodge,0062224735,(Myth Crossover),3.72,352,62066,9140,Hardcover,January 28th 2014,Balzer + Bray
+231,The Eyre Affair,Jasper Fforde,0142001805,(Thursday Next #1),3.91,374,105480,9574,Paperback,February 25th 2003,Penguin Books
+226,Shadow's Edge,Brent Weeks,0316033650,(Night Angel #2),4.27,636,82705,1861,Mass Market Paperback,November 1st 2008,Orbit
+229,Moving Pictures,Terry Pratchett,0552152943,(Discworld #10),3.94,396,58902,1381,Paperback,April 1st 2005,Corgi
+225,The Hitchhiker's Guide to the Galaxy,Douglas Adams,0345418913,(Hitchhiker's Guide to the Galaxy #1),4.22,193,1236171,25936,Paperback,June 23rd 2007,Del Rey
+228,Falling Kingdoms,Morgan Rhodes,1595145842,(Falling Kingdoms #1),3.81,412,46991,7127,Hardcover,December 11th 2012,Razorbill
+221,A Monster Calls,Patrick Ness,1406361801,,4.37,237,174811,30628,Paperback,May 7th 2015,Walker Books
+227,Dracula,Bram Stoker,0393970124,,3.99,488,817136,21302,Paperback,May 12th 1986,Norton
+223,Glass Sword,Victoria Aveyard,0062310666,(Red Queen #2),3.92,444,147763,15918,Hardcover,February 9th 2016,HarperTeen
+224,"Hush, Hush",Becca Fitzpatrick,1416989412,"(Hush, Hush #1)",3.98,391,519605,23599,Hardcover,October 13th 2009,Simon & Schuster BFYR
+222,Blood Song,Anthony Ryan,,(Raven's Shadow #1),4.45,591,62729,3614,Kindle Edition,January 22nd 2012,Anthony
+219,Wild Magic,Tamora Pierce,1416903437,(The Immortals #1),4.33,362,64519,1908,Paperback,June 1st 2005,Simon Pulse
+217,Hollow City,Ransom Riggs,1594747350,(Miss Peregrine's Peculiar Children #2),4.08,428,167865,16284,Paperback,February 24th 2015,Quirk Books
+220,Finnikin of the Rock,Melina Marchetta,0670072818,(Lumatere Chronicles #1),3.92,416,36840,4343,Paperback,September 29th 2008,Viking Australia
+218,Shadows of Self,Brandon Sanderson,0765378558,(Mistborn #5),4.31,383,63161,3793,Hardcover,October 6th 2015,Tor Books
+215,The Kiss of Deception,Mary E. Pearson,,(The Remnant Chronicles #1),4.03,492,70530,9794,Kindle Edition,July 8th 2014,Henry Holt
+211,Lioness Rampant,Tamora Pierce,0689878575,(Song of the Lioness #4),4.29,384,74231,1505,Mass Market Paperback,January 1st 2005,Simon Pulse
+214,Grave Mercy,Robin LaFevers,054762834X,(His Fair Assassin #1),3.91,549,86956,8482,Hardcover,April 3rd 2012,Houghton Mifflin Harcourt
+213,The Blue Sword,Robin McKinley,0441068804,(Damar #1),4.23,256,51600,2624,Paperback,March 15th 1987,Ace
+216,Heartless,Marissa Meyer,1250044650,,4.06,453,67546,13758,Hardcover,November 8th 2016,Feiwel & Friends
+210,Steelheart,Brandon Sanderson,0385743564,(The Reckoners #1),4.16,386,127811,12102,Hardcover,September 24th 2013,Delacorte Press
+209,Inkspell,Cornelia Funke,0439554004,(Inkworld #2),3.92,635,98314,3841,Hardcover,October 1st 2005,The Chicken House
+212,The Arctic Incident,Eoin Colfer,0786851473,(Artemis Fowl #2),3.95,398,125032,2857,Paperback,May 1st 2004,Hyperion Books for Children
+205,Tigana,Guy Gavriel Kay,0451457765,,4.12,676,37405,2288,Paperback,December 1st 1999,Roc
+207,The Alchemyst,Michael Scott,0552562521,(The Secrets of the Immortal Nicholas Flamel #1),3.85,390,127332,7907,Paperback,August 5th 2010,Corgi Childrens
+208,Soul Music,Terry Pratchett,057506689X,(Discworld #16),4.04,424,58811,1502,Hardcover,1999,Gollancz
+204,The Woman Who Rides Like a Man,Tamora Pierce,0689878583,(Song of the Lioness #3),4.21,284,63673,1422,Mass Market Paperback,January 6th 2005,Simon Pulse
+206,Oathbringer,Brandon Sanderson,076532637X,(The Stormlight Archive #3),4.64,1248,81137,5938,Hardcover,November 14th 2017,Tor Books
+200,Dead Until Dark,Charlaine Harris,0441008534,(Sookie Stackhouse #1),3.96,292,474203,17718,Mass Market Paperback,May 1st 2001,Ace Books
+198,Stone of Tears,Terry Goodkind,0312857063,(Sword of Truth #2),4.11,703,98082,1696,Hardcover,September 15th 1995,Tor Books
+203,The Demon King,Cinda Williams Chima,1423118235,(Seven Realms #1),4.19,506,58723,4773,Hardcover,October 6th 2009,Hyperion Books
+202,Proven Guilty,Jim Butcher,0451461037,(The Dresden Files #8),4.42,489,92709,2447,Paperback,February 6th 2007,Roc
+199,The Wee Free Men,Terry Pratchett,0060012382,(Discworld #30),4.27,390,83716,3749,Mass Market Paperback,2004,HarperTrophy
+201,Peter Pan,J.M. Barrie,0805072454,,4.08,176,234761,9336,Hardcover,October 1st 2003,Henry Holt and Co.
+194,The Dream Thieves,Maggie Stiefvater,0545424941,(The Raven Cycle #2),4.27,439,117594,14092,Hardcover,September 17th 2013,Scholastic Press
+196,Towers of Midnight,Robert Jordan,0765325942,(The Wheel of Time #13),4.43,863,112448,2694,Hardcover,November 2nd 2010,Tom Doherty Associates TOR Fantasy
+197,Beautiful Creatures,Kami Garcia,0316042676,(Beautiful Creatures #1),3.76,563,504065,21634,Hardcover,December 1st 2009,"Little, Brown and Company"
+191,A Great and Terrible Beauty,Libba Bray,0689875347,(Gemma Doyle #1),3.79,403,194859,9545,Hardcover,December 9th 2003,Simon and Schuster
+192,The House of Hades,Rick Riordan,1423146727,(The Heroes of Olympus #4),4.55,597,219686,13393,Hardcover,October 8th 2013,Disney-Hyperion Books
+190,Sourcery,Terry Pratchett,0061020672,(Discworld #5),3.89,276,70656,1815,Mass Market Paperback,April 2008,Harper
+195,Going Postal,Terry Pratchett,0060502932,(Discworld #33),4.38,394,93222,2755,Mass Market Paperback,September 27th 2005,HarperTorch
+193,Reaper Man,Terry Pratchett,0552152951,(Discworld #11),4.29,352,73223,2272,Paperback,April 1st 2005,Corgi
+186,The Iron King,Julie Kagawa,0373210086,(The Iron Fey #1),3.91,363,176291,11283,Paperback,January 19th 2010,Harlequin Teen
+189,Caraval,Stephanie Garber,1250095255,(Caraval #1),3.95,407,100035,17837,Hardcover,January 31st 2017,Flatiron Books
+184,Bitterblue,Kristin Cashore,0803734735,(Graceling Realm #3),4.01,576,90723,7681,Hardcover,May 1st 2012,Dial
+187,The Red Pyramid,Rick Riordan,1423113381,(The Kane Chronicles #1),4.08,516,281387,12203,Hardcover,May 4th 2010,Disney-Hyperion
+188,The Black Prism,Brent Weeks,0316075558,(Lightbringer #1),4.24,629,82803,3950,Hardcover,August 25th 2010,Orbit
+182,Lirael,Garth Nix,0060590165,(Abhorsen #2),4.30,464,97693,2712,Paperback,December 30th 2015,Eos
+181,The Wrath and the Dawn,Renée Ahdieh,0399171614,(The Wrath and the Dawn #1),4.16,404,91999,14958,Hardcover,May 12th 2015,G.P. Putnam's Sons Books for Young Readers
+179,Kushiel's Dart,Jacqueline Carey,0330493744,(Phèdre's Trilogy #1),4.04,1015,64490,3834,Paperback,September 5th 2003,Tor Fantasy
+183,City of Heavenly Fire,Cassandra Clare,1481426303,(The Mortal Instruments #6),4.47,725,248425,21758,Hardcover,May 27th 2014,Margaret K. McElderry Books
+180,The Queen of the Tearling,Erika Johansen,006229038X,(The Queen of the Tearling #1),4.02,464,72407,9622,Paperback,April 14th 2015,Harper Paperbacks
+177,Quidditch Through the Ages,Kennilworthy Whisp,0439321611,(Hogwarts Library),3.86,64,123765,4704,Hardcover,June 1st 2001,Scholastic
+178,The Tombs of Atuan,Ursula K. Le Guin,0689845367,(Earthsea Cycle #2),4.09,180,78144,2505,Mass Market Paperback,September 1st 2001,Gallery / Saga Press
+176,The Golem and the Jinni,Helene Wecker,0062110837,(The Golem and the Jinni #1),4.12,486,86248,11622,Hardcover,April 23rd 2013,Harper
+185,The Slow Regard of Silent Things,Patrick Rothfuss,0756410436,(The Kingkiller Chronicle #2.5),3.91,159,96801,9490,Hardcover,October 28th 2014,DAW Books
+174,The Gathering Storm,Robert Jordan,0765302306,(The Wheel of Time #12),4.37,783,114655,3005,Hardcover,October 27th 2009,Tor Books
+175,Before They Are Hanged,Joe Abercrombie,0575077883,(The First Law #2),4.29,441,94853,3275,Trade Paperback,March 15th 2007,Gollancz
+171,Empire of Storms,Sarah J. Maas,1619636077,(Throne of Glass #5),4.57,704,139335,16788,Hardcover,September 6th 2016,Bloomsbury Children's Books
+173,Knife of Dreams,Robert Jordan,0812577566,(The Wheel of Time #11),4.14,860,88831,1791,Mass Market Paperback,December 2006,Tom Doherty Associates
+172,The Thief,Megan Whalen Turner,0060824972,(The Queen's Thief #1),3.89,280,56682,6675,Paperback,December 27th 2005,Greenwillow Books
+168,Crossroads of Twilight,Robert Jordan,0312864590,(The Wheel of Time #10),3.83,704,79720,2010,Hardcover,January 7th 2003,Tor Books
+170,Furies of Calderon,Jim Butcher,044101268X,(Codex Alera #1),4.13,504,86994,3787,Paperback,June 28th 2005,Ace
+169,Prince of Thorns,Mark  Lawrence,0007423292,(The Broken Empire #1),3.87,384,80218,5865,Hardcover,August 2nd 2011,Voyager
+164,Scarlet,Marissa Meyer,0312642962,(The Lunar Chronicles #2),4.29,454,266256,27477,Hardcover,February 5th 2013,Feiwel & Friends
+165,The Hundred Thousand Kingdoms,N.K. Jemisin,0316043915,(Inheritance Trilogy #1),3.85,427,43110,4668,Paperback,February 25th 2010,Hachette Book Group Orbit
+167,Dragonflight,Anne McCaffrey,0345484266,(Dragonriders of Pern #1),4.10,299,116310,2964,Paperback,July 26th 2005,Del Rey
+161,The Last Unicorn,Peter S. Beagle,0451450523,(The Last Unicorn #1),4.18,294,88827,4065,Paperback,July 2008,Penguin Roc
+163,Fool Moon,Jim Butcher,0451458125,(The Dresden Files #2),4.03,401,141426,6185,Mass Market Paperback,January 9th 2001,Roc
+162,Carry On,Rainbow Rowell,1250135028,(Simon Snow #1),4.23,522,142679,21112,Paperback,May 9th 2017,Wednesday Books
+166,The Amulet of Samarkand,Jonathan Stroud,078681859X,(Bartimaeus #1),4.01,462,104639,4697,Hardcover,September 30th 2003,Hyperion/Miramax
+160,The Neverending Story,Michael Ende,0525457585,,4.18,396,142955,5471,Hardcover,1997,Dutton Children's Books
+159,The Warded Man,Peter V. Brett,0345503805,(Demon Cycle #1),4.26,416,96674,4843,Hardcover,March 10th 2009,Random House
+157,Strange the Dreamer,Laini Taylor,0316341681,(Strange the Dreamer #1),4.36,536,56699,12321,Hardcover,March 28th 2017,"Little, Brown Books for Young Readers"
+156,Clockwork Princess,Cassandra Clare,1406321346,(The Infernal Devices #3),4.59,567,290841,26390,Paperback,September 5th 2013,Walker Books Ltd
+158,The Wonderful Wizard of Oz,L. Frank Baum,0140621679,(Oz #1),3.98,154,324472,10898,Paperback,1995,Penguin
+155,The Drawing of the Three,Stephen King,0451210859,(The Dark Tower #2),4.23,463,191989,6920,Paperback,August 5th 2003,Signet
+154,Divergent,Veronica Roth,0062024035,(Divergent #1),4.21,487,2609734,105282,Paperback,February 28th 2012,Katherine Tegen Books
+153,The Mark of Athena,Rick Riordan,1423140605,(The Heroes of Olympus #3),4.46,586,398209,15011,Hardcover,October 2nd 2012,Disney-Hyperion Books
+147,Feet of Clay,Terry Pratchett,0552153257,(Discworld #19),4.29,411,61806,1385,Paperback,October 1st 2005,Corgi
+152,Days of Blood & Starlight,Laini Taylor,0316133973,(Daughter of Smoke & Bone #2),4.19,517,123488,12550,Hardcover,November 6th 2012,"Little, Brown Books for Young Readers"
+142,The Book of Three,Lloyd Alexander,0805080481,(The Chronicles of Prydain #1),4.00,190,65553,2880,Paperback,May 16th 2006,Square Fish
+145,The Dragonbone Chair,Tad Williams,0756402697,"(Memory, Sorrow, and Thorn #1)",3.96,672,56167,1666,Paperback,March 2005,DAW
+146,Magician: Apprentice,Raymond E. Feist,0553564943,(The Riftwar Saga #1),4.18,485,73961,1573,Mass Market Paperback,January 1st 1994,Bantam Spectra
+144,Summer Knight,Jim Butcher,0451458923,(The Dresden Files #4),4.30,446,112881,3672,Mass Market Paperback,September 3rd 2002,Roc
+143,"Blue Lily, Lily Blue",Maggie Stiefvater,0545424968,(The Raven Cycle #3),4.31,391,90661,10919,Hardcover,October 21st 2014,Scholastic Press
+140,Enchanters' End Game,David Eddings,0345300785,(The Belgariad #5),4.18,384,80168,814,Mass Market Paperback,November 12th 1984,Del Rey
+137,Dragons of Autumn Twilight,Margaret Weis,0786915749,(Dragonlance: Chronicles #1),3.99,444,100600,1920,Paperback,February 1st 2000,Wizards of the Coast
+138,The Once and Future King,T.H. White,0441627404,(The Once and Future King #1-4),4.08,639,89022,3607,Mass Market Paperback,June 15th 1987,Ace
+135,The Winner's Curse,Marie Rutkoski,0374384681,(The Winner's Trilogy #1),4.01,355,81873,11462,ebook,March 4th 2014,Farrar Straus Giroux
+139,Castle of Wizardry,David Eddings,0345335708,(The Belgariad #4),4.17,375,63356,671,Mass Market Paperback,May 1984,Del Rey
+141,Winter,Marissa Meyer,0312642989,(The Lunar Chronicles #4),4.48,827,156544,21811,Hardcover,November 10th 2015,Feiwel & Friends
+134,A Memory of Light,Robert Jordan,0765325950,(The Wheel of Time #14),4.51,909,95209,5475,Hardcover,January 8th 2013,Tor Books
+136,Witches Abroad,Terry Pratchett,0061020613,(Discworld #12),4.23,374,64786,1720,Mass Market Paperback,July 30th 2002,HarperTorch
+131,Fool's Errand,Robin Hobb,0006486010,(Tawny Man #1),4.31,661,66914,1747,Mass Market Paperback,October 2002,Voyager
+133,Wizard and Glass,Stephen King,0340829788,(The Dark Tower #4),4.25,845,145923,5285,Paperback,October 2003,New English Library
+132,The Republic of Thieves,Scott Lynch,0553804693,(Gentleman Bastard #3),4.23,650,70662,4335,Hardcover,October 8th 2013,Del Rey
+129,Magic Study,Maria V. Snyder,0373802498,(Poison Study #2),4.06,392,64244,4473,Hardcover,September 26th 2006,Luna
+130,Watership Down,Richard  Adams,038039586X,(Watership Down #1),4.06,478,370574,12244,Mass Market Paperback,June 1975,Avon Books
+124,The Little Prince,Antoine de Saint-Exupéry,0156012197,,4.30,93,1110516,32560,Paperback,June 29th 2000,"Harcourt, Inc."
+127,The Farthest Shore,Ursula K. Le Guin,141650964X,(Earthsea Cycle #3),4.13,259,84583,1723,Paperback,November 1st 2004,Gallery Books
+126,Pyramids,Terry Pratchett,0061020656,(Discworld #7),3.91,341,61520,1647,Mass Market Paperback,2008,Harper
+125,Men at Arms,Terry Pratchett,0061092193,(Discworld #15),4.38,377,73640,1638,Mass Market Paperback,May 27th 2003,HarperPrism
+123,Queen of Sorcery,David Eddings,0345335651,(The Belgariad #2),4.14,326,58999,1009,Mass Market Paperback,November 1982,Del Rey
+122,Dealing with Dragons,Patricia C. Wrede,015204566X,(Enchanted Forest Chronicles #1),4.15,212,77679,3177,Paperback,November 1st 2002,HMH Books for Young Readers
+121,Magician's Gambit,David Eddings,0345335457,(The Belgariad #3),4.14,305,78569,831,Mass Market Paperback,June 1983,Del Rey
+128,Dreams of Gods & Monsters,Laini Taylor,0316134074,(Daughter of Smoke & Bone #3),4.21,613,73652,10018,Hardcover,April 8th 2014,"Little, Brown & Company"
+120,The Magicians' Guild,Trudi Canavan,1841493139,(The Black Magician Trilogy #1),3.96,467,63572,2334,Paperback,January 31st 2004,Orbit
+118,In the Hand of the Goddess,Tamora Pierce,0689878567,(Song of the Lioness #2),4.25,264,79484,1783,Mass Market Paperback,January 1st 2005,Simon Pulse
+115,Hogfather,Terry Pratchett,0552154288,(Discworld #20),4.24,432,67894,2051,Paperback,October 2nd 2006,Corgi
+117,A Conjuring of Light,V.E. Schwab,0765387468,(Shades of Magic #3),4.39,624,58143,8950,Hardcover,February 21st 2017,Tor Books
+119,The Young Elites,Marie Lu,0399167838,(The Young Elites #1),3.91,355,92459,12065,Hardcover,October 7th 2014,G.P. Putnam’s Sons Books for Young Readers
+113,Vampire Academy,Richelle Mead,159514174X,(Vampire Academy #1),4.13,332,505656,21116,Paperback,August 16th 2007,Razorbill
+114,Ship of Magic,Robin Hobb,000649885X,(Liveship Traders #1),4.15,880,53099,2209,Mass Market Paperback,March 1999,Voyager
+112,Shiver,Maggie Stiefvater,0545123267,(The Wolves of Mercy Falls  #1),3.77,392,403706,22053,Hardcover,August 1st 2009,Scholastic Press
+111,Daughter of the Forest,Juliet Marillier,,(Sevenwaters #1),4.28,554,49514,3784,Paperback,February 18th 2002,Tom Doherty Associates
+116,The Children of Húrin,J.R.R. Tolkien,0007246226,(Middle-Earth Universe),3.97,313,57309,2954,Hardcover,April 16th 2007,HarperCollins
+110,Spinning Silver,Naomi Novik,,,4.28,480,39936,7072,Kindle Edition,July 10th 2018,Del Rey
+107,Norse Mythology,Neil Gaiman,0393356183,,4.10,301,152261,15651,Paperback,March 6th 2018,W. W. Norton & Company
+108,Interview with the Vampire,Anne Rice,0345476875,(The Vampire Chronicles #1),3.99,342,442346,9193,Paperback,August 31st 2004,Ballantine Books
+105,The Waste Lands,Stephen King,0670032565,(The Dark Tower #3),4.24,422,164024,5053,Hardcover,June 23rd 2003,Viking Adult
+104,Last Argument of Kings,Joe Abercrombie,0575077905,(The First Law #3),4.28,536,89848,3589,Trade Paperback,March 20th 2008,Gollancz
+106,Grave Peril,Jim Butcher,0451458443,(The Dresden Files #3),4.18,378,122484,4673,Paperback,September 4th 2001,Roc
+103,Every Heart a Doorway,Seanan McGuire,0765385503,(Wayward Children #1),3.84,170,44727,9405,Hardcover,April 5th 2016,Tor.com
+109,Abhorsen,Garth Nix,0060278250,(Abhorsen #3),4.26,358,99768,2169,Hardcover,January 7th 2003,HarperTeen
+102,Cress,Marissa Meyer,0312642970,(The Lunar Chronicles #3),4.45,552,234040,23847,Hardcover,February 4th 2014,Feiwel & Friends
+101,Circe,Madeline Miller,0316556343,,4.30,393,141552,19029,Hardcover,April 10th 2018,"Little, Brown and Company"
+99,The Sword of Shannara,Terry Brooks,1857231511,(The Original Shannara Trilogy #1),3.76,726,76504,3693,Paperback,April 1999,Orbit
+98,Red Seas Under Red Skies,Scott Lynch,,(Gentleman Bastard #2),4.24,578,96438,4983,Kindle Edition,July 31st 2007,Del Rey
+97,Pawn of Prophecy,David Eddings,0345468643,(The Belgariad #1),4.16,304,85238,2729,Paperback,June 1st 2004,Del Rey
+96,Ruin and Rising,Leigh Bardugo,,(The Shadow and Bone Trilogy #3),4.15,422,108769,14501,Hardcover,June 17th 2014,Henry Holt and Company
+100,Wyrd Sisters,Terry Pratchett,0061020664,(Discworld #6),4.13,265,81587,2649,Mass Market Paperback,February 6th 2001,Hartorch
+93,Winter's Heart,Robert Jordan,081257558X,(The Wheel of Time #9),3.94,780,90651,1691,Mass Market Paperback,January 7th 2002,Tor Fantasy
+91,The Last Wish,Andrzej Sapkowski,,(Saga o Wiedźminie #1),4.20,292,89775,5385,Kindle Edition,December 14th 2008,Orbit
+89,Warbreaker,Brandon Sanderson,,(Warbreaker #1),4.26,688,90137,6498,ebook,2009,Self-published
+92,Children of Blood and Bone,Tomi Adeyemi,1250170974,(Legacy of Orïsha #1),4.19,544,86633,16613,Hardcover,March 6th 2018,Henry Holt Books for Young Readers
+88,Seraphina,Rachel Hartman,,(Seraphina #1),3.97,499,70603,7808,Hardcover,2013,Random House Books for Young Readers
+94,A Gathering of Shadows,V.E. Schwab,0765376474,(Shades of Magic #2),4.31,512,76099,11464,Hardcover,February 23rd 2016,Tor Books
+95,Outlander,Diana Gabaldon,0440242940,(Outlander #1),4.22,850,715667,42094,Mass Market Paperback,July 26th 2005,Dell Publishing Company
+90,The Cruel Prince,Holly Black,0316310271,(The Folk of the Air #1),4.17,370,99110,17192,Hardcover,January 2nd 2018,"Little, Brown Books for Young Readers"
+87,The Path of Daggers,Robert Jordan,0812550293,(The Wheel of Time #8),3.92,685,94715,1699,Mass Market Paperback,December 15th 1999,Tor Books
+83,City of Lost Souls,Cassandra Clare,1442416866,(The Mortal Instruments #5),4.29,534,376746,18517,Hardcover,May 8th 2012,Margaret K. McElderry Books
+81,Alanna: The First Adventure,Tamora Pierce,0689878559,(Song of the Lioness #1),4.27,274,104774,4556,Mass Market Paperback,January 1st 2005,Simon Pulse
+86,Clockwork Prince,Cassandra Clare,1416975888,(The Infernal Devices #2),4.45,502,395945,20375,Hardcover,December 6th 2011,"Simon & Schuster, Margaret K. McElderry"
+85,A Court of Wings and Ruin,Sarah J. Maas,1408857901,(A Court of Thorns and Roses #3),4.50,699,166385,20655,Paperback,May 2nd 2017,Bloomsbury Childrens Books
+79,The Bear and the Nightingale,Katherine Arden,1101885939,(Winternight Trilogy #1),4.13,323,75543,12227,Hardcover,January 10th 2017,Del Rey Books
+78,His Majesty's Dragon,Naomi Novik,0345481283,(Temeraire #1),4.06,353,67363,5594,Mass Market Paperback,March 28th 2006,Del Rey
+84,Gardens of the Moon,Steven Erikson,0765348780,(Malazan Book of the Fallen #1),3.88,666,78047,4677,Mass Market Paperback,January 2005,Tor Books
+80,The Alloy of Law,Brandon Sanderson,0765330423,(Mistborn: The Alloy Era #1),4.21,332,111950,6739,Hardcover,November 8th 2011,Tor Books
+75,Assassin's Quest,Robin Hobb,,(Farseer Trilogy #3),4.19,757,101956,3917,Kindle Edition,November 5th 2002,Spectra
+76,A Crown of Swords,Robert Jordan,0812550285,(The Wheel of Time #7),4.03,880,111055,1883,Mass Market Paperback,November 15th 1997,Tor Books
+74,Ella Enchanted,Gail Carson Levine,0590920685,(Ella Enchanted #1),3.98,232,366527,9578,Paperback,September 1st 1998,Scholastic Books
+77,The Way of Shadows,Brent Weeks,0316033677,(Night Angel #1),4.16,645,134114,4706,Mass Market Paperback,October 1st 2008,Orbit
+72,Fire,Kristin Cashore,0803734611,(Graceling Realm #2),4.12,480,148597,9821,Hardcover,October 5th 2009,Dial Books
+73,Guards! Guards!,Terry Pratchett,0061020648,(Discworld #8),4.33,376,143198,3481,Mass Market Paperback,August 2001,HarperTorch
+71,Lord of Chaos,Robert Jordan,0812513754,(The Wheel of Time #6),4.12,1011,112960,2234,Mass Market Paperback,November 15th 1995,Tor Books
+69,Siege and Storm,Leigh Bardugo,,(The Shadow and Bone Trilogy #2),4.05,432,137709,15170,Hardcover,June 4th 2013,Henry Holt and Company
+70,Queen of Shadows,Sarah J. Maas,1619636042,(Throne of Glass #4),4.58,648,181370,18708,Hardcover,September 1st 2015,Bloomsbury USA Childrens
+67,The Light Fantastic,Terry Pratchett,0061020702,(Discworld #2),3.97,241,105691,3064,Mass Market Paperback,February 2nd 2000,HarperTorch
+66,Equal Rites,Terry Pratchett,0060855908,(Discworld #3),4.02,228,123463,3467,Paperback,September 13th 2005,Harper Perennial
+68,Words of Radiance,Brandon Sanderson,0765326361,(The Stormlight Archive #2),4.76,1087,161284,10031,Hardcover,March 4th 2014,Tor Books
+65,Crooked Kingdom,Leigh Bardugo,,(Six of Crows #2),4.62,536,123252,18863,Kindle Edition,September 27th 2016,Orion Children's Books
+82,The Son of Neptune,Rick Riordan,1423140591,(The Heroes of Olympus #2),4.44,521,365766,14068,Hardcover,October 4th 2011,Disney-Hyperion Books
+64,Inheritance,Christopher Paolini,0375856110,(The Inheritance Cycle #4),4.10,849,189474,9621,Hardcover,November 8th 2011,Alfred A. Knopf
+62,The Fires of Heaven,Robert Jordan,1857232097,(The Wheel of Time #5),4.15,912,121186,2336,Paperback,July 4th 1994,Orbit
+60,The Fifth Season,N.K. Jemisin,,(The Broken Earth #1),4.32,468,88180,11414,Paperback,August 4th 2015,Orbit
+61,Anansi Boys,Neil Gaiman,0060515198,(American Gods),4.02,387,175933,9217,Mass Market Paperback,September 26th 2006,HarperCollins HarperTorch
+63,A Discovery of Witches,Deborah Harkness,0670022411,(All Souls Trilogy #1),4.00,579,311396,31060,Hardcover,February 2011,Viking Penguin
+53,Cinder,Marissa Meyer,,(The Lunar Chronicles #1),4.15,400,584870,48925,Hardcover,2012,Feiwel & Friends
+57,Fantastic Beasts and Where to Find Them,Newt Scamander,0439321603,(Hogwarts Library),3.99,128,279145,9227,Hardcover,June 1st 2001,Arthur A. Levine Books
+58,City of Fallen Angels,Cassandra Clare,1442403543,(The Mortal Instruments #4),4.15,424,428129,21029,Hardcover,April 5th 2011,"Simon & Schuster Children's, Margaret K. McElderry Books"
+56,An Ember in the Ashes,Sabaa Tahir,,(An Ember in the Ashes #1),4.31,446,144221,19686,Paperback,February 9th 2016,Razorbill
+54,Mort,Terry Pratchett,0061020680,(Discworld #4),4.23,243,170697,4129,Mass Market Paperback,February 6th 2001,Harpertorch
+52,Elantris,Brandon Sanderson,0765350378,(Elantris #1),4.18,638,143197,8502,Mass Market Paperback,May 30th 2006,Tor Fantasy
+55,The Raven Boys,Maggie Stiefvater,0545424925,(The Raven Cycle #1),4.06,409,216546,26202,Hardcover,September 18th 2012,Scholastic Press
+59,Royal Assassin,Robin Hobb,,(Farseer Trilogy #2),4.23,675,131318,3753,Kindle Edition,November 5th 2002,Spectra
+42,The Bands of Mourning,Brandon Sanderson,,(Mistborn #6),4.45,448,54688,3380,Kindle Edition,January 26th 2016,Tor
+39,Ship of Destiny,Robin Hobb,0553575651,(Liveship Traders #3),4.22,789,50182,1432,Paperback,November 27th 2001,Spectra Books
+40,The Rithmatist,Brandon Sanderson,,(Rithmatist #1),4.26,353,45132,5725,Kindle Edition,May 1st 2014,Tor UK
+38,The Truth,Terry Pratchett,0413771164,(Discworld #25),4.28,336,49147,1253,Paperback,February 21st 2002,Bloomsbury Methuen Drama
+41,Tower of Dawn,Sarah J. Maas,1681195771,(Throne of Glass #6),4.42,664,84497,10206,Hardcover,September 5th 2017,Bloomsbury USA Childrens
+36,Carpe Jugulum,Terry Pratchett,0061051586,(Discworld #23),4.15,296,47459,1140,Hardcover,September 8th 1999,Harper Voyager
+34,Making Money,Terry Pratchett,0061161640,(Discworld #36),4.25,394,52181,1741,Hardcover,September 18th 2007,Harper
+37,Rebel of the Sands,Alwyn Hamilton,0698410424,(Rebel of the Sands #1),3.98,314,39036,6314,ebook,March 8th 2016,Viking Books for Young Readers
+35,Dead Beat,Jim Butcher,045146091X,(The Dresden Files #7),4.44,517,95760,3080,Mass Market Paperback,January 1st 2006,Roc
+32,Maskerade,Terry Pratchett,0575058080,(Discworld #18),4.09,285,46194,1159,Hardcover,1995,Gollancz
+29,The Mad Ship,Robin Hobb,0006498868,(Liveship Traders #2),4.24,906,42577,1273,Mass Market Paperback,February 4th 2008,Harper Voyager
+30,Insurgent,Veronica Roth,0007442912,(Divergent #2),4.05,525,1047608,57626,Hardcover,May 1st 2012,HarperCollins Children's Books
+33,The Obelisk Gate,N.K. Jemisin,0356508366,(The Broken Earth #2),4.34,410,53913,4638,Paperback,August 18th 2016,Orbit
+27,The Dark Tower,Stephen King,,(The Dark Tower #7),4.28,1050,127381,5113,Paperback,September 1st 2006,Pocket Books
+31,The Giver,Lois Lowry,0385732554,(The Giver  #1),4.12,208,1539521,60880,Paperback,January 24th 2006,Ember
+28,The Curse of Chalion,Lois McMaster Bujold,0007133618,(World of the Five Gods (Publication) #1),4.16,490,28473,2026,Paperback,February 3rd 2003,Voyager
+26,A Hat Full of Sky,Terry Pratchett,055255264X,(Discworld #32),4.31,352,56419,1742,Paperback,May 5th 2005,Corgi Childrens
+24,The Sword of Summer,Rick Riordan,1423160916,(Magnus Chase and the Gods of Asgard #1),4.26,491,124172,11111,Hardcover,October 6th 2015,Disney - Hyperion Books
+25,The Eternity Code,Eoin Colfer,0141321318,(Artemis Fowl #3),4.05,352,111122,2142,Paperback,April 6th 2006,Puffin
+23,Truthwitch,Susan Dennard,,(The Witchlands #1),3.91,416,32475,6110,Kindle Edition,January 5th 2016,Tor Teen
+21,The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making,Catherynne M. Valente,0312649614,(Fairyland #1),3.98,247,32648,5248,Hardcover,May 10th 2011,Feiwel & Friends
+22,Fallen,Lauren Kate,0385738935,(Fallen #1),3.73,452,449939,18958,Hardcover,December 8th 2009,Delacorte Press
+20,Fire Study,Maria V. Snyder,0778325342,(Poison Study #3),3.94,441,50348,3671,Paperback,February 26th 2008,MIRA
+18,Blood Rites,Jim Butcher,0451459873,(The Dresden Files #6),4.34,452,98490,2682,Paperback,August 3rd 2004,Roc
+19,Shadow of Night,Deborah Harkness,0670023485,(All Souls Trilogy #2),4.07,584,143681,13963,Hardcover,July 10th 2012,Viking Adult
+16,Lady Midnight,Cassandra Clare,1442468351,(The Dark Artifices #1),4.44,688,135016,15608,Hardcover,March 8th 2016,Margaret K. McElderry Books
+14,The Goose Girl,Shannon Hale,1582349908,(The Books of Bayern #1),4.16,383,111663,9551,Paperback,May 1st 2005,Bloomsbury Children's Books
+15,Snow Like Ashes,Sara Raasch,0062286927,(Snow Like Ashes #1),3.95,422,51830,6504,Hardcover,October 14th 2014,Balzer + Bray
+12,Monstrous Regiment,Terry Pratchett,,(Discworld #31),4.21,496,54665,1608,Paperback,September 25th 2003,
+17,Song of Susannah,Stephen King,1416521496,(The Dark Tower #6),3.99,544,116214,3345,Mass Market Paperback,June 1st 2006,Pocket Books
+11,Magyk,Angie Sage,0060577312,(Septimus Heap #1),3.82,564,100418,4833,Hardcover,May 11th 2005,"Katherine Tegen, Harper Collins"
+10,Beyond the Shadows,Brent Weeks,0316033669,(Night Angel #3),4.29,689,79591,2042,Mass Market Paperback,December 1st 2008,Orbit
+13,Eon: Dragoneye Reborn,Alison Goodman,0670062278,(Eon #1),3.98,531,51434,4186,Hardcover,December 26th 2008,Viking Books for Young Readers
+9,Preludes & Nocturnes,Neil Gaiman,1563892278,(The Sandman #1),4.25,233,179730,5350,Hardcover,December 1st 1998,Vertigo
+7,Fablehaven,Brandon Mull,1590385810,(Fablehaven #1),4.10,351,118413,9363,Hardcover,June 7th 2006,Shadow Mountain
+6,Half a King,Joe Abercrombie,0007550227,(Shattered Sea #1),3.98,416,41457,4393,Paperback,August 15th 2018,HarperVoyager
+4,Vicious,V.E. Schwab,,(Villains  #1),4.26,366,67078,12349,Kindle Edition,September 24th 2013,Tor Books
+8,Three Dark Crowns,Kendare Blake,0062385437,(Three Dark Crowns #1),3.87,398,55078,10051,Hardcover,September 20th 2016,HarperTeen
+5,The Host,Stephenie Meyer,0316068047,(The Host #1),3.84,620,830194,40766,Hardcover,May 6th 2008,"Little, Brown and Company"
+2,The Ruins of Gorlan,John Flanagan,0142406635,(Ranger's Apprentice #1),4.22,249,108208,7008,Paperback,June 8th 2006,Puffin Books
+3,The Fifth Elephant,Terry Pratchett,0552154229,(Discworld #24),4.27,464,54620,1251,Paperback,November 6th 2008,Corgi

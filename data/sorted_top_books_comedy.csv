@@ -1,0 +1,501 @@
+id,title,author,ISBN,series,avg_rating,pages,rating_count,review_count,book_format,published_year,publisher
+1,Side Effects,Woody Allen,0345343352,,3.98,213,6663,302,Paperback,September 12th 1986,Ballantine Books
+2,Funny Girl,Nick Hornby,1594205418,,3.38,452,25225,3087,Hardcover,February 3rd 2015,Riverhead Books
+3,Mini Shopaholic,Sophie Kinsella,0385342047,(Shopaholic #6),3.71,418,48913,2949,Hardcover,September 21st 2010,Dial Press
+4,I'm Dying Up Here: Heartbreak and High Times in Stand-Up Comedy's Golden Era,William Knoedelseder,158648317X,,3.95,280,1412,173,Hardcover,August 25th 2009,PublicAffairs
+5,"Ouran High School Host Club, Vol. 6",Bisco Hatori,1421505843,(Ouran High School Host Club #6),4.47,208,10460,173,Paperback,May 2nd 2006,VIZ Media
+6,Yukon Ho!,Bill Watterson,0751509345,(Calvin and Hobbes #3),4.70,126,11143,245,Paperback,March 1989,Andrews McMeel Publishing
+7,The Cat in the Hat,Dr. Seuss,039480001X,(The Cat in the Hat),4.16,61,365190,5206,Hardcover,1985,Random House Books for Young Readers
+8,Animal Farm,George Orwell,,,3.92,144,2361779,46394,Mass Market Paperback,1996,Signet Classics
+9,The Reptile Room,Lemony Snicket,0439206480,(A Series of Unfortunate Events #2),3.98,192,164166,6028,Paperback,September 30th 1999,"Scholastic, Inc."
+10,New Rules: Polite Musings from a Timid Observer,Bill Maher,1594862958,,3.71,304,5417,348,Hardcover,July 26th 2005,Rodale Books
+11,Startled by His Furry Shorts,Louise Rennison,0060853840,(Confessions of Georgia Nicolson #7),4.12,278,14709,377,Hardcover,May 1st 2006,HarperTempest
+12,Homicidal Psycho Jungle Cat,Bill Watterson,0836217691,(Calvin and Hobbes #9),4.72,176,16894,317,Paperback,September 6th 1994,Andrews McMeel Publishing
+13,Night Watch,Terry Pratchett,055215430X,(Discworld #29),4.49,480,88078,2048,Paperback,October 27th 2011,Corgi
+14,A Modest Proposal,Jonathan Swift,1605977276,,4.06,48,37332,917,Paperback,July 4th 2008,Book Jungle
+15,Simon vs. the Homo Sapiens Agenda,Becky Albertalli,0062348671,(Creekwood #1),4.33,303,213468,28992,Hardcover,April 7th 2015,Balzer + Bray
+16,Self-Inflicted Wounds: Heartwarming Tales of Epic Humiliation,Aisha Tyler,0062223798,,3.66,256,5556,572,ebook,July 9th 2013,It Books
+17,Agent to the Stars,John Scalzi,1596060204,,3.91,280,15702,1542,Hardcover,August 1st 2005,Subterranean Press
+18,Neither Here nor There: Travels in Europe,Bill Bryson,0380713802,,3.87,254,51280,2605,Paperback,March 28th 1993,William Morrow Paperbacks
+19,"Fruits Basket, Vol. 1",Natsuki Takaya,1591826039,(Fruits Basket #1),4.23,216,134772,1756,Paperback,February 10th 2004,TokyoPop Inc
+20,Wings,Terry Pratchett,0060094958,(Bromeliad Trilogy #3),3.96,215,8898,222,Paperback,April 13th 2004,HarperCollins
+21,Truth in Comedy: The Manual for Improvisation,Charna Halpern,1566080037,,3.99,150,1744,156,Paperback,June 1st 1994,Pioneer Drama Service
+22,The Greatest Love Story Ever Told,Megan Mullally,1101986670,,3.67,269,9568,1665,Hardcover,October 2nd 2018,Dutton Books
+23,This Is Going to Hurt: Secret Diaries of a Junior Doctor,Adam Kay,,,4.39,256,72964,4909,Kindle Edition,September 7th 2017,Picador
+24,We Are Never Meeting In Real Life,Samantha Irby,1101912197,,3.92,288,17966,2411,Paperback,May 30th 2017,Vintage
+25,The Hitch Hiker's Guide to the Galaxy: A Trilogy in Five Parts,Douglas Adams,0434003484,(Hitchhiker's Guide to the Galaxy #1-5),4.40,776,13741,697,Hardcover,October 16th 1995,Heinemann
+26,Seinfeldia: How a Show About Nothing Changed Everything,Jennifer Keishin Armstrong,1476756104,,3.66,307,6261,871,Hardcover,July 5th 2016,Simon
+27,The Princess Diarist,Carrie Fisher,0399173595,,3.67,257,49425,7088,Hardcover,October 18th 2016,Blue Rider Press
+28,The Long Haul,Jeff Kinney,141971189X,(Diary of a Wimpy Kid #9),4.33,224,41357,3151,Hardcover,November 4th 2014,Amulet Books
+29,The Misadventures of Awkward Black Girl,Issa Rae,1476749051,,3.74,224,10719,1385,Hardcover,February 10th 2015,37 Ink
+30,"William Shakespeare's Star Wars: Verily, A New Hope",Ian Doescher,1594746370,(William Shakespeare's Star Wars #4),3.95,174,16666,2194,Hardcover,July 2nd 2013,Quirk Books
+31,The Humans,Matt Haig,1476727910,,4.08,285,41107,5386,Hardcover,July 2nd 2013,Simon
+32,Neanderthal Seeks Human,Penny Reid,,(Knitting in the City #1),3.94,404,42351,4315,Kindle Edition,July 1st 2019,Cipher-Naught
+33,Thank You Notes,Jimmy Fallon,0892967412,,3.81,176,3315,369,Paperback,May 23rd 2011,Grand Central Publishing
+34,An Idiot Abroad: The Travel Diaries of Karl Pilkington,Karl Pilkington,1847679269,,3.84,296,8371,578,Hardcover,January 19th 2011,Canongate UK
+35,The Internet is a Playground,David Thorne,0980672929,,3.96,218,5710,542,Paperback,by Fontaine Press,
+36,"Ouran High School Host Club, Vol. 8",Bisco Hatori,1421511614,(Ouran High School Host Club #8),4.48,184,9675,137,Paperback,January 2nd 2007,VIZ Media
+37,"Ouran High School Host Club, Vol. 7",Bisco Hatori,1421508648,(Ouran High School Host Club #7),4.48,200,10522,130,Paperback,September 5th 2006,VIZ Media
+38,Something Under the Bed is Drooling,Bill Watterson,0833554549,(Calvin and Hobbes #2),4.70,128,12017,255,Hardcover,1988,Turtleback Books
+39,There's Treasure Everywhere,Bill Watterson,0836213122,(Calvin and Hobbes #10),4.75,176,18956,176,Paperback,March 1st 1996,Andrews McMeel Publishing
+40,The Stinky Cheese Man and Other Fairly Stupid Tales,Jon Scieszka,067084487X,,4.20,52,87303,2155,Hardcover,October 1st 1992,Viking Books for Young Readers
+41,Undead and Unemployed,MaryJanice Davidson,0425197484,(Undead #2),3.93,272,31825,943,Mass Market Paperback,August 3rd 2004,Berkley
+42,Let's Pretend This Never Happened: A Mostly True Memoir,Jenny  Lawson,0399159010,,3.90,318,146130,17157,Hardcover,April 17th 2012,Amy Einhorn: Putnam
+43,Mother. Wife. Sister. Human. Warrior. Falcon. Yardstick. Turban. Cabbage.,Rob Delaney,081299308X,,3.77,208,7330,587,Hardcover,November 5th 2013,Spiegel & Grau
+44,Vader’s Little Princess:,Jeffrey Brown,1452118698,(Star Wars: Darth Vader and Kids),4.11,64,10263,1036,Hardcover,April 23rd 2013,Chronicle Books
+45,Die Känguru-Chroniken: Ansichten eines vorlauten Beuteltiers,Marc-Uwe Kling,3548372570,(Die Känguru-Chroniken #1),4.30,271,6189,321,Paperback,2009,Ullstein
+46,"Fairy Tail, Vol. 01",Hiro Mashima,0345501330,(Fairy Tail #1),4.39,198,83472,922,Paperback,March 25th 2008,Del Rey Books
+47,I'm Dreaming of a Black Christmas,Lewis Black,0142428558,,3.40,4,1450,225,Audio CD,November 2nd 2010,Penguin Audio
+48,Stop in the Name of Pants!,Louise Rennison,0061459321,(Confessions of Georgia Nicolson #9),4.16,286,11692,399,Hardcover,July 1st 2008,HarperTeen
+49,Sense and Sensibility and Sea Monsters,Ben H. Winters,1594744424,,3.27,340,10945,1120,Paperback,September 15th 2009,Quirk Books
+50,"Ouran High School Host Club, Vol. 5",Bisco Hatori,1421503298,(Ouran High School Host Club #5),4.48,176,16816,165,Paperback,March 7th 2006,VIZ Media
+51,High Five,Janet Evanovich,0330371231,(Stephanie Plum #5),4.18,336,109291,2444,Paperback,June 2000,St. Martin's Press
+52,Seven Up,Janet Evanovich,0312980140,(Stephanie Plum #7),4.16,337,106546,2045,Mass Market Paperback,June 17th 2002,St. Martin's Press
+53,Hard Eight,Janet Evanovich,0312983867,(Stephanie Plum #8),4.17,326,105196,2101,Paperback,June 16th 2003,St. Martin's Press
+54,The Eyre Affair,Jasper Fforde,0142001805,(Thursday Next #1),3.91,374,105481,9574,Paperback,February 25th 2003,Penguin Books
+55,Pride and Prejudice and Zombies,Seth Grahame-Smith,1594743347,(Pride and Prejudice and Zombies #1),3.29,320,120966,12728,Paperback,May 1st 2009,Quirk Classics
+56,My Man Jeeves,P.G. Wodehouse,1585678759,(Jeeves #1),4.11,256,31712,1897,Hardcover,May 10th 2007,Harry N. Abrams
+57,Ten Big Ones,Janet Evanovich,0312936222,(Stephanie Plum #10),4.14,319,87592,2012,Mass Market Paperback,June 21st 2005,St. Martin's Press
+58,Napalm & Silly Putty,George Carlin,0786887583,,4.12,269,14272,358,Paperback,April 10th 2002,Hachette Books
+59,To the Nines,Janet Evanovich,0747267634,(Stephanie Plum #9),4.17,320,100914,1970,Paperback,June 5th 2004,St. Martin's Press
+60,Snuff,Terry Pratchett,038561926X,(Discworld #39),4.17,378,42803,2608,Hardcover,October 13th 2011,Doubleday UK
+61,Can You Keep a Secret?,Sophie Kinsella,0440241901,,3.84,374,339708,10944,Paperback,December 27th 2005,Dell Publishing Company
+62,Eleven on Top,Janet Evanovich,0312985347,(Stephanie Plum #11),4.16,321,95660,1941,Paperback,June 20th 2006,St. Martin's Press
+63,"Where'd You Go, Bernadette",Maria Semple,0316204277,,3.90,330,368024,35954,Hardcover,August 14th 2012,"Little, Brown and Company"
+64,Rodrick Rules,Jeff Kinney,0810994739,(Diary of a Wimpy Kid #2),4.11,224,117693,6672,Hardcover,February 1st 2008,Amulet Books
+65,"Right Ho, Jeeves",P.G. Wodehouse,0393339785,(Jeeves #6),4.31,272,21478,1373,Paperback,July 5th 2011,W. W. Norton
+66,I Am America (And So Can You!),Stephen Colbert,0446580503,,3.91,230,75652,3461,Hardcover,October 9th 2007,Grand Central Publishing
+67,Interesting Times,Terry Pratchett,0061056901,(Discworld #17),4.18,368,38229,922,Mass Market Paperback,March 4th 1998,HarperTorch
+68,Twelve Sharp,Janet Evanovich,0312349486,(Stephanie Plum #12),4.14,310,85695,2148,Hardcover,June 20th 2006,St. Martin's Press
+69,The Code of the Woosters,P.G. Wodehouse,0393339815,(Jeeves #7),4.36,272,19785,1369,Paperback,July 5th 2011,W. W. Norton
+70,The Lust Lizard of Melancholy Cove,Christopher Moore,0060735457,(Pine Cove #2),3.86,304,30110,1321,Paperback,May 25th 2004,William Morrow Paperbacks
+71,America Again: Re-becoming the Greatness We Never Weren't,Stephen Colbert,0446583979,,3.88,240,11147,977,Hardcover,October 2nd 2012,Grand Central Publishing
+72,Slaughterhouse-Five,Kurt Vonnegut,0385333846,,4.07,275,1020737,23907,Paperback,January 12th 1999,Dial Press
+73,"Girl Walks into a Bar . . .: Comedy Calamities, Dating Disasters, and a Midlife Miracle",Rachel Dratch,1592407110,,3.58,248,20551,1340,Hardcover,March 29th 2012,Gotham
+74,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Randall Munroe,0544272994,,4.17,303,101101,7142,Hardcover,September 2nd 2014,Houghton Mifflin Harcourt
+75,Zombie Spaceship Wasteland,Patton Oswalt,1439149089,,3.57,191,9430,1035,Hardcover,January 4th 2011,Scribner
+76,One More Thing: Stories and Other Stories,B.J. Novak,0385351836,,3.67,288,37526,4573,Hardcover,February 4th 2014,Knopf
+77,Lies That Chelsea Handler Told Me,Chelsea Handler,1609411153,,3.75,8,45090,1657,Audio CD,May 10th 2011,Grand Central Publishing
+78,Bite Me,Christopher Moore,0061779725,(A Love Story #3),3.86,309,24362,1636,Hardcover,March 23rd 2010,HarperCollins William Morrow
+79,Bridget Jones: The Edge of Reason,Helen Fielding,0140298479,(Bridget Jones #2),3.56,352,91586,2439,Paperback,February 1st 2001,Penguin Books
+80,"Fluke: Or, I Know Why the Winged Whale Sings",Christopher Moore,006056668X,,3.75,321,36385,2093,Paperback,June 15th 2004,Harper
+81,"Angus, Thongs and Full-Frontal Snogging",Louise Rennison,0060288140,(Confessions of Georgia Nicolson #1),3.75,247,125318,4104,Hardcover,May 31st 2000,HarperTeen
+82,Wintersmith,Terry Pratchett,0060890312,(Discworld #35),4.25,325,47022,1597,Hardcover,October 1st 2006,HarperTempest
+83,The Salmon of Doubt,Douglas Adams,0345455290,(Dirk Gently #3),3.92,298,24618,922,Mass Market Paperback,April 26th 2005,Del Rey
+84,A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson,0307279464,,4.06,397,313121,16496,Mass Market Paperback,December 26th 2006,Anchor Books
+85,Finger Lickin' Fifteen,Janet Evanovich,0312383282,(Stephanie Plum #15),4.00,308,76496,4040,Hardcover,June 23rd 2009,St. Martin's Press
+86,Island of the Sequined Love Nun,Christopher Moore,0060735449,,3.79,336,28463,1361,Paperback,May 25th 2004,William Morrow Paperbacks
+87,Fear and Loathing in Las Vegas,Hunter S. Thompson,0679785892,,4.08,204,274097,5749,Paperback,June 1998,Vintage Books
+88,Adulthood Is a Myth,Sarah Andersen,1449474195,(Sarah's Scribbles #1),4.11,112,90343,5768,Paperback,March 8th 2016,Andrews McMeel Publishing
+89,Raising Steam,Terry Pratchett,0857522272,(Discworld #40),3.97,377,28667,2452,Hardcover,November 7th 2013,Doubleday
+90,Lean Mean Thirteen,Janet Evanovich,0312349491,(Stephanie Plum #13),4.09,310,83716,2372,Hardcover,June 19th 2007,St. Martin's Press
+91,A Hat Full of Sky,Terry Pratchett,055255264X,(Discworld #32),4.31,352,56417,1742,Paperback,May 5th 2005,Corgi Childrens
+92,Scrappy Little Nobody,Anna Kendrick,1501117203,,3.90,275,61128,7010,Hardcover,November 15th 2016,Gallery Books
+93,Where the Sidewalk Ends,Shel Silverstein,0060513039,,4.30,176,1104711,10268,Hardcover,November 2002,Harpercollins Childrens Books
+94,Wallbanger,Alice Clayton,1623420024,(Cocktail #1),4.07,384,157874,12752,Paperback,November 27th 2012,Omnific Publishing
+95,The Inimitable Jeeves,P.G. Wodehouse,0393339807,(Jeeves #2),4.25,240,16935,1051,Paperback,July 5th 2011,W. W. Norton
+96,Paddle Your Own Canoe: One Man's Fundamentals for Delicious Living,Nick Offerman,052595421X,,3.68,340,19998,1954,Hardcover,October 1st 2013,Dutton
+97,How to Be a Woman,Caitlin Moran,0091940737,,3.73,312,90543,8186,Paperback,June 16th 2011,Ebury Press
+98,Sacré Bleu,Christopher Moore,,,3.78,421,28592,3469,Kindle Edition,April 3rd 2012,William Morrow
+99,The Last Straw,Jeff Kinney,0810970686,(Diary of a Wimpy Kid #3),4.13,218,103987,4735,Hardcover,January 1st 2009,Amulet Books
+100,As You Like It,William Shakespeare,074348486X,,3.83,263,67153,1676,Paperback,August 23rd 2011,Penguin
+101,You Can't Touch My Hair: And Other Things I Still Have to Explain,Phoebe Robinson,0143129201,,3.85,320,14693,1820,Paperback,October 4th 2016,Plume Books
+102,High Fidelity,Nick Hornby,1573225517,,3.94,340,162519,5333,Kindle Edition,May 5th 2005,Riverhead Books
+103,The Funny Thing Is...,Ellen DeGeneres,0743247639,,3.61,179,8920,864,Paperback,October 1st 2004,Simon
+104,Pawnee: The Greatest Town in America,Leslie Knope,1401310648,,4.12,240,4456,339,Paperback,October 11th 2011,Hyperion
+105,Choke,Chuck Palahniuk,0385720920,,3.69,293,176474,5747,Paperback,June 2002,Anchor Books
+106,Northanger Abbey,Jane Austen,1593082649,,3.81,251,270080,10725,Paperback,March 3rd 2005,Barnes & Noble Classics
+107,Neil Patrick Harris: Choose Your Own Autobiography,Neil Patrick Harris,0385346999,,3.86,291,26962,3464,Hardcover,October 14th 2014,Crown Archetype
+108,A Man Called Ove,Fredrik Backman,1476738017,,4.36,337,438545,54440,Hardcover,July 15th 2014,Atria Books
+109,Beauty Queens,Libba Bray,0439895979,,3.62,396,46609,7388,Hardcover,May 24th 2011,Scholastic Press
+110,The Merchant of Venice,William Shakespeare,0743477561,,3.80,237,146388,3246,Paperback,1992,"Washington Square Press, Inc."
+111,"Very Good, Jeeves!",P.G. Wodehouse,0393339793,(Jeeves #4),4.35,272,8639,484,Paperback,July 5th 2011,W. W. Norton
+112,The Devil Wears Prada,Lauren Weisberger,0307275558,(The Devil Wears Prada #1),3.73,432,742430,8705,Paperback,May 30th 2006,Anchor Books
+113,The Areas of My Expertise: An Almanac of Complete World Knowledge Compiled with Instructive Annotation and Arranged in Useful Order,John Hodgman,1594482225,(Complete World Knowledge #1),3.82,256,12647,862,Paperback,September 5th 2006,Penguin Books
+114,The Serpent of Venice,Christopher Moore,0061779768,(Fool #2),3.87,326,12290,1547,Hardcover,April 22nd 2014,William Morrow
+115,"Ouran High School Host Club, Vol. 1",Bisco Hatori,1591169151,(Ouran High School Host Club #1),4.36,178,131853,1145,Paperback,July 5th 2005,VIZ Media
+116,Matilda,Roald Dahl,0141301066,,4.30,240,527919,14034,Paperback,June 1st 1998,Puffin Books
+117,Plum Lucky,Janet Evanovich,0312377630,(Stephanie Plum #13.5),3.74,166,44477,1808,Hardcover,January 8th 2008,St. Martin's Press
+118,Notorious Nineteen,Janet Evanovich,,(Stephanie Plum #19),3.92,302,58395,5210,Hardcover,November 20th 2012,Headline Book Publishing
+119,Cabin Fever,Jeff Kinney,1419702238,(Diary of a Wimpy Kid #6),4.22,224,82311,3876,Hardcover,November 15th 2011,Amulet Books
+120,Secondhand Souls,Christopher Moore,0061779784,(Grim Reaper #2),3.93,335,13618,1593,Hardcover,August 25th 2015,William Morrow
+121,Official Book Club Selection: A Memoir According to Kathy Griffin,Kathy Griffin,0345518519,,3.79,348,35976,1470,Hardcover,September 8th 2009,Ballantine Books
+122,Shopaholic Takes Manhattan,Sophie Kinsella,0440241812,(Shopaholic #2),3.76,387,107150,3015,Paperback,December 27th 2004,Dell Publishing Company
+123,Sleepwalk With Me and Other Painfully True Stories,Mike Birbiglia,1439157995,,3.86,191,12493,834,Hardcover,October 12th 2010,Simon
+124,Rosencrantz and Guildenstern Are Dead,Tom Stoppard,0802132758,,4.06,126,75626,1838,Paperback,January 21st 1994,Grove Press
+125,I Drink for a Reason,David  Cross,0446579483,,3.33,236,7648,571,Hardcover,August 1st 2009,Grand Central Publishing
+126,Kambing Jantan: Sebuah Catatan Harian Pelajar Bodoh,Raditya Dika,9793600691,,3.60,236,9111,692,Paperback,2005,Gagas Media
+127,Weird Things Customers Say in Bookshops,Jen Campbell,1780334834,(Weird Things Customers Say in Bookshops #1),3.82,119,18986,3960,Hardcover,April 5th 2012,Constable and Robinson
+128,Talking as Fast as I Can: From Gilmore Girls to Gilmore Girls (and Everything in Between),Lauren Graham,,,3.98,224,75881,9390,Kindle Edition,November 29th 2016,Ballantine Books
+129,"Scott Pilgrim, Volume 2: Scott Pilgrim vs. The World",Bryan Lee O'Malley,1932664122,(Scott Pilgrim #2),4.24,200,54125,1471,Paperback,June 15th 2005,Oni Press
+130,The Big Over Easy,Jasper Fforde,0143037234,(Nursery Crime #1),3.93,383,29296,2189,Paperback,July 25th 2006,Penguin
+131,The Fault in Our Stars,John Green,,,4.23,313,3052751,149713,Hardcover,January 10th 2012,Dutton Books
+132,This is a Book,Demetri Martin,0446539708,,3.76,269,7151,905,Hardcover,April 25th 2011,Grand Central Publishing
+133,An Abundance of Katherines,John Green,0525476881,,3.60,229,404309,22873,Hardcover,September 21st 2006,Dutton Books for Young Readers
+134,Emma,Jane Austen,0141439580,,3.99,474,569701,14347,Paperback,May 6th 2003,Penguin Books
+135,American on Purpose: The Improbable Adventures of an Unlikely Patriot,Craig Ferguson,0061719544,,3.96,288,20111,1416,Hardcover,September 22nd 2009,Harpercollins
+136,Takedown Twenty,Janet Evanovich,0345542886,(Stephanie Plum #20),3.79,307,52189,5226,Hardcover,November 19th 2013,Bantam
+137,Anansi Boys,Neil Gaiman,0060515198,(American Gods),4.02,387,175933,9217,Mass Market Paperback,September 26th 2006,HarperCollins HarperTorch
+138,About a Boy,Nick Hornby,0140285679,,3.80,307,118213,3078,Mass Market Paperback,2000,Penguin Books
+139,Live from New York: An Oral History of Saturday Night Live,James Andrew Miller,0316781460,,4.05,608,14090,952,Hardcover,October 7th 2002,Little Brown and Company
+140,The Rosie Effect,Graeme Simsion,1476767327,(Don Tillman #2),3.58,368,89152,9632,Paperback,July 21st 2015,Simon
+141,I Suck at Girls,Justin Halpern,0062123742,,3.79,192,17490,1765,Audiobook,May 15th 2012,HarperAudio
+142,Running with Scissors,Augusten Burroughs,031242227X,,3.72,304,329832,12197,Paperback,June 1st 2003,Picador USA
+143,The Third Wheel,Jeff Kinney,1419705849,(Diary of a Wimpy Kid #7),4.21,224,61336,3003,Hardcover,November 13th 2012,Amulet Books
+144,All My Friends Are Dead,Avery Monsen,0811874559,(All my friends... #1),4.22,96,23548,1576,Hardcover,June 30th 2010,Chronicle Books
+145,"Why We Suck: A Feel Good Guide to Staying Fat, Loud, Lazy and Stupid",Denis Leary,0670031607,,3.67,240,14245,934,Hardcover,November 18th 2008,Viking Adult
+146,The Absolutely True Diary of a Part-Time Indian,Sherman Alexie,0316013684,,4.11,230,205618,22378,Hardcover,September 12th 2007,"Little, Brown Books for Young Readers"
+147,The Bad Beginning,Lemony Snicket,0439206472,(A Series of Unfortunate Events #1),3.93,176,348871,15372,Paperback,September 30th 1999,"Scholastic, Inc."
+148,"Stiff Upper Lip, Jeeves",P.G. Wodehouse,184159105X,(Jeeves #13),4.29,211,7763,428,Hardcover,December 17th 2002,Everyman's Library
+149,Notes from a Small Island,Bill Bryson,0380727501,(Notes from a Small Island #1),3.92,324,84146,3852,Paperback,May 28th 1997,William Morrow Paperbacks
+150,I Like You: Hospitality Under the Influence,Amy Sedaris,0446578843,,3.87,304,37695,1487,Hardcover,October 16th 2006,Warner Books (NY)
+151,I Was Told There'd Be Cake,Sloane Crosley,159448306X,,3.46,230,34126,3898,Paperback,April 1st 2008,Riverhead Books
+152,My Lady Jane,Cynthia Hand,,(The Lady Janies #1),4.11,491,30970,7728,Kindle Edition,June 7th 2016,HarperTeen
+153,"The Disaster Artist: My Life Inside The Room, the Greatest Bad Movie Ever Made",Greg Sestero,1451661193,,4.37,270,22627,2907,Hardcover,October 1st 2013,Simon & Schuster
+154,Lucky Jim,Kingsley Amis,0140186301,,3.78,251,22997,1646,Paperback,September 1st 1993,Penguin Classics
+155,Skipping Christmas,John Grisham,0099481685,,3.48,198,52379,4249,Paperback,November 6th 2004,Arrow
+156,"Carry on, Jeeves",P.G. Wodehouse,1585673927,(Jeeves #3),4.28,273,17749,1045,Hardcover,March 31st 2003,The Overlook Press
+157,When Will Jesus Bring the Pork Chops?,George Carlin,140130821X,,3.84,295,10547,556,Paperback,October 19th 2005,Hachette Books
+158,Last Words,George Carlin,1439172951,,4.04,297,10739,551,Hardcover,November 10th 2009,Free Press
+159,The Last Hero,Terry Pratchett,0060507772,(Discworld #27),4.17,176,28861,738,Paperback,August 20th 2002,Harper Voyager
+160,Fearless Fourteen,Janet Evanovich,0312349513,(Stephanie Plum #14),4.03,310,80811,3349,Hardcover,June 17th 2008,St. Martin's Press
+161,Sizzling Sixteen,Janet Evanovich,0739377728,(Stephanie Plum #16),3.95,371,68971,3968,Paperback,June 29th 2010,Random House
+162,Infinity Welcomes Careful Drivers,Grant Naylor,0451452011,(Red Dwarf #1),4.05,298,24588,430,Mass Market Paperback,September 1st 1992,Roc
+163,"Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life",Bryan Lee O'Malley,1932664084,(Scott Pilgrim #1),4.16,168,154596,3639,Paperback,August 18th 2004,Oni Press
+164,I Shall Wear Midnight,Terry Pratchett,0385611072,(Discworld #38),4.36,349,41318,2069,Hardcover,September 2nd 2010,Doubleday Childrens
+165,SeinLanguage,Jerry Seinfeld,0553569155,,3.63,180,7668,515,Paperback,December 1st 1994,Bantam
+166,Coyote Blue,Christopher Moore,0060735430,,3.77,303,23365,1047,Paperback,May 25th 2004,ReganBooks
+167,Barrel Fever,David Sedaris,0316779423,,3.79,196,48557,1655,Paperback,1994,Back Bay Books
+168,Crazy Rich Asians,Kevin Kwan,0385536976,(Crazy Rich Asians #1),3.84,403,242859,24146,Hardcover,June 11th 2013,Doubleday
+169,Smokin' Seventeen,Janet Evanovich,0345527704,(Stephanie Plum #17),3.95,324,70587,5044,Mass Market Paperback,November 15th 2011,Bantam
+170,Dog Days,Jeff Kinney,0810983915,(Diary of a Wimpy Kid #4),4.15,218,100174,4931,Paperback,October 12th 2009,Amulet Books
+171,Calvin and Hobbes,Bill Watterson,0836220889,(Calvin and Hobbes #1),4.60,128,133584,819,Paperback,1987,Andrews McMeel Publishing
+172,Calypso,David Sedaris,,,4.19,272,48795,5711,Hardcover,May 29th 2018,
+173,The Zombie Survival Guide: Complete Protection from the Living Dead,Max Brooks,1400049628,,3.86,270,92981,3745,Paperback,September 16th 2003,Three Rivers Press
+174,Candide,Voltaire,0486266893,,3.76,129,198713,6706,Paperback,January 1st 1991,Dover Publications
+175,The Amazing Maurice and His Educated Rodents,Terry Pratchett,006001234X,(Discworld #28),4.05,256,34011,1429,Hardcover,November 6th 2001,HarperCollins
+176,The Last Black Unicorn,Tiffany Haddish,1501181823,,3.89,288,36356,5050,Hardcover,December 5th 2017,Gallery Books
+177,This Book Is Full of Spiders,David  Wong,0312546343,(John Dies at the End #2),4.26,406,22428,2000,Hardcover,October 2nd 2012,St. Martin’s Press
+178,Wishful Drinking,Carrie Fisher,1439102252,,3.78,163,53142,6136,Hardcover,December 2nd 2008,Simon & Schuster
+179,Sick in the Head: Conversations About Life and Comedy,Judd Apatow,0812997581,,3.65,489,8753,940,ebook,June 16th 2015,Random House
+180,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson,0836218051,(Calvin and Hobbes #1-2),4.64,256,106238,731,Paperback,September 1988,Andrews McMeel Publishing
+181,"Not That Kind of Girl: A Young Woman Tells You What She's ""Learned""",Lena Dunham,081299499X,,3.30,265,111367,8256,Hardcover,2014,Random House
+182,I've Got Your Number,Sophie Kinsella,0385342063,,3.94,433,175245,11817,Hardcover,February 14th 2012,The Dial Press
+183,The Martian,Andy Weir,0804139024,(The Martian #1),4.40,369,690295,68607,Hardcover,February 11th 2014,Crown
+184,Breakfast of Champions,Kurt Vonnegut,0385334206,,4.08,303,206998,6222,Paperback,May 1999,Dell Publishing
+185,Cat's Cradle,Kurt Vonnegut,0140285601,,4.17,306,312431,9630,Paperback,1999,Penguin
+186,The Ugly Truth,Jeff Kinney,0810984911,(Diary of a Wimpy Kid #5),4.17,217,87848,3884,Hardcover,November 9th 2010,Amulet books
+187,And Another Thing...,Eoin Colfer,1401323588,(Hitchhiker's Guide to the Galaxy #6),3.55,275,24999,1497,Hardcover,October 12th 2009,Hyperion
+188,"Thank You, Jeeves",P.G. Wodehouse,0393345998,(Jeeves #5),4.25,240,12891,921,Paperback,July 1st 2013,W. W. Norton
+189,How to Tell If Your Cat Is Plotting to Kill You,Matthew Inman,1449410243,,3.94,131,27896,1797,Paperback,October 9th 2012,Andrews McMeel Publishing
+190,Explosive Eighteen,Janet Evanovich,0345527712,(Stephanie Plum #18),3.93,305,65855,4876,Hardcover,November 22nd 2011,Bantam
+191,Visions of Sugar Plums,Janet Evanovich,0312986343,(Stephanie Plum #8.5),3.69,230,69332,1775,Paperback,November 17th 2003,St Martins Pr
+192,Naked Pictures of Famous People,Jon Stewart,0688171621,,3.59,164,8906,464,Paperback,September 22nd 1999,Dey Street Books
+193,Hark! A Vagrant,Kate Beaton,1770460608,(Hark! A Vagrant #1),4.27,168,21985,1508,Hardcover,September 27th 2011,Drawn and Quarterly
+194,Is It Just Me?,Miranda Hart,1444734148,(Is It Just Me? #1),3.81,323,15784,1664,Hardcover,October 11th 2012,Hodder & Stoughton
+195,The Comedy of Errors,William Shakespeare,1853262439,,3.74,112,21626,1000,Paperback,September 1st 1998,NTC/Contemporary Publishing Company
+196,You're Never Weird on the Internet (Almost),Felicia Day,1476785651,,4.13,272,39798,5414,Hardcover,August 11th 2015,Gallery Books
+197,The Undomestic Goddess,Sophie Kinsella,0385338694,,3.83,404,238480,7645,Paperback,April 25th 2006,Dial Press Trade Paperback
+198,Plum Lovin',Janet Evanovich,0312306342,(Stephanie Plum #12.5),3.72,164,48687,1593,Hardcover,January 9th 2007,St. Martin's Press
+199,Cold Comfort Farm,Stella Gibbons,0143039598,,3.91,233,38061,2997,Paperback,March 28th 2006,Penguin Classics
+200,Charlie and the Chocolate Factory,Roald Dahl,0142403881,(Charlie Bucket #1),4.12,176,577787,10413,Paperback,June 2nd 2005,Puffin Books
+201,Lost in a Good Book,Jasper Fforde,0142004030,(Thursday Next #2),4.14,399,46490,2629,Paperback,February 4th 2004,Penguin Books
+202,Don Quixote,Miguel de Cervantes Saavedra,0142437239,,3.87,1023,182736,6797,Paperback,February 25th 2003,Penguin Classics
+203,Pride and Prejudice,Jane Austen,,,4.25,279,2591154,57580,Paperback,October 10th 2000,Modern Library
+204,"The Secret Diary of Adrian Mole, Aged 13 3/4",Sue Townsend,0060533994,(Adrian Mole #1),3.87,272,37974,1373,Paperback,August 14th 2003,HarperTeen
+205,Bad Monkey,Carl Hiaasen,0307272591,(Andrew Yancy #1),3.68,317,35378,4079,Hardcover,June 11th 2013,Knopf
+206,Attempting Normal,Marc Maron,0812992873,,3.78,240,6491,642,Hardcover,April 30th 2013,Spiegel & Grau
+207,Nerd Do Well,Simon Pegg,1846058112,,3.64,359,8309,975,Hardcover,November 1st 2010,Century
+208,You'll Grow Out of It,Jessi Klein,1455531189,,3.81,291,17231,1827,Hardcover,July 12th 2016,Grand Central Publishing
+209,If You Ask Me (And of Course You Won't),Betty White,0399157530,,3.67,258,26820,2691,Hardcover,May 3rd 2011,G.P. Putnam's Sons
+210,How I Escaped My Certain Fate,Stewart Lee,0571254802,,4.29,378,3460,193,Paperback,August 5th 2010,
+211,I Feel Bad About My Neck: And Other Thoughts on Being a Woman,Nora Ephron,0307264556,,3.68,137,40037,5030,Hardcover,August 1st 2006,Knopf Publishing Group
+212,"On the Bright Side, I'm Now the Girlfriend of a Sex God",Louise Rennison,0060288132,(Confessions of Georgia Nicolson #2),3.96,243,45472,997,Hardcover,April 10th 2001,HarperTeen
+213,The Curious Incident of the Dog in the Night-Time,Mark Haddon,1400032717,,3.87,226,1063190,40888,Paperback,May 18th 2004,Vintage
+214,Mad About the Boy,Helen Fielding,0345807952,(Bridget Jones #3),3.34,336,43940,5803,Hardcover,October 15th 2013,Knopf Canada
+215,5 Very Good Reasons to Punch a Dolphin in the Mouth and Other Useful Guides,Matthew Inman,1449401163,,4.10,160,10892,600,Paperback,March 1st 2011,Andrews McMeel Publishing
+216,A Light in the Attic,Shel Silverstein,0060513063,,4.34,176,345027,2753,Hardcover,October 7th 2002,Harpercollins Childrens Books
+217,Shopaholic and Sister,Sophie Kinsella,044024191X,(Shopaholic #4),3.65,388,80094,2213,Paperback,November 28th 2006,Dell Publishing Company
+218,Shrill: Notes from a Loud Woman,Lindy West,0316348406,,4.21,260,35750,4653,Hardcover,May 17th 2016,Hachette
+219,I Must Say: My Life as a Humble Comedy Legend,Martin  Short,0062309528,,4.06,336,9337,1446,Hardcover,November 4th 2014,Harper
+220,Undead and Unwed,MaryJanice Davidson,042519485X,(Undead #1),3.82,255,50366,2650,Mass Market Paperback,March 2nd 2004,Berkley
+221,The Well of Lost Plots,Jasper Fforde,0143034359,(Thursday Next #3),4.10,388,34955,1813,Paperback,August 3rd 2004,Penguin Books
+222,Remember Me?,Sophie Kinsella,0593053893,,3.77,352,205308,7458,Hardcover,2008,Bantam
+223,Stuff White People Like: A Definitive Guide to the Unique Taste of Millions,Christian Lander,0812979915,,3.75,211,17159,1138,Paperback,July 1st 2008,Random House Trade Paperbacks
+224,Lies & the Lying Liars Who Tell Them: A Fair & Balanced Look at the Right,Al Franken,0452285216,,3.81,421,27330,908,Paperback,July 27th 2004,Plume Books
+225,Big Mushy Happy Lump,Sarah Andersen,1449479618,(Sarah's Scribbles #2),4.29,128,16251,2338,Paperback,March 7th 2017,Andrews McMeel Publishing
+226,"I, Partridge: We Need to Talk About Alan",Alan Partridge,0007449178,,4.20,320,7196,484,Hardcover,September 29th 2011,HarperCollins
+227,Er ist wieder da,Timur Vermes,3847905171,,3.43,400,28248,3148,Hardcover,September 21st 2012,Eichborn
+228,The Adventures of Huckleberry Finn,Mark Twain,0142437174,(The Adventures of Tom and Huck #2),3.81,327,1080672,14224,Paperback,December 31st 2002,Penguin Classics
+229,Marley and Me: Life and Love With the World's Worst Dog,John Grogan,0739461192,,4.13,291,421074,13989,Hardcover,October 18th 2005,William Morrow; 1ST edition
+230,Shopaholic Ties the Knot,Sophie Kinsella,0440241898,(Shopaholic #3),3.77,407,99853,2479,Paperback,August 31st 2004,Dell Publishing Company
+231,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,A.J. Jacobs,0743291476,,3.76,388,58138,5177,Hardcover,October 1st 2007,Simon & Schuster
+232,Based on a True Story,Norm Macdonald,0812993624,,3.94,240,6086,798,Hardcover,September 20th 2016,Spiegel & Grau
+233,"So, Anyway...",John Cleese,,,3.73,400,7986,1297,Kindle Edition,November 4th 2014,Crown Archetype
+234,Me and Earl and the Dying Girl,Jesse Andrews,1419701762,,3.56,295,111089,12828,Hardcover,March 1st 2012,Harry N. Abrams
+235,"You're Not Doing It Right: Tales of Marriage, Sex, Death, and Other Humiliations",Michael Ian Black,1439167850,,3.77,245,7380,628,Hardcover,February 28th 2012,Gallery Books
+236,Something Fresh,P.G. Wodehouse,1585676586,(Blandings Castle #1),4.16,284,6862,579,Hardcover,April 7th 2005,Harry N. Abrams
+237,Big Trouble,Dave Barry,0425178102,,3.82,317,12368,709,Mass Market Paperback,January 1st 2001,Berkley Books
+238,"Scott Pilgrim, Volume 3: Scott Pilgrim & The Infinite Sadness",Bryan Lee O'Malley,193266422X,(Scott Pilgrim #3),4.29,192,34564,1159,Paperback,May 24th 2006,Oni Press
+239,Seduction and Snacks,Tara Sivec,,(Chocolate Lovers #1),4.12,260,47411,5613,Paperback,June 22nd 2012,CreateSpace Independent Publishing Platform
+240,The Bro Code,Barney Stinson,143911000X,,3.73,195,9367,835,Paperback,October 14th 2008,Fireside
+241,The Twits,Roald Dahl,0141318309,,3.96,96,103360,3305,Paperback,June 24th 2004,Puffin Books
+242,Better than Life,Grant Naylor,0451452313,(Red Dwarf #2),4.06,302,11174,167,Mass Market Paperback,March 1st 1993,Roc
+243,The Hating Game,Sally  Thorne,,,4.20,387,82211,13207,ebook,August 9th 2016,William Morrow
+244,"I Know I Am, But What Are You?",Samantha Bee,1439142734,,3.58,242,10059,882,Hardcover,June 1st 2010,Gallery Books
+245,The Lightning Thief,Rick Riordan,0786838655,(Percy Jackson and the Olympians #1),4.24,377,1713176,53483,Paperback,March 1st 2006,Disney Hyperion Books
+246,The Complete Calvin and Hobbes,Bill Watterson,0740748475,(Calvin and Hobbes),4.82,1456,32769,959,Hardcover,September 6th 2005,Andrews McMeel Publishing
+247,Joy in the Morning,P.G. Wodehouse,0393339440,(Jeeves #8),4.35,272,7539,587,Paperback,July 5th 2011,W. W. Norton
+248,Lysistrata,Aristophanes,0872206033,,3.85,132,33129,822,Paperback,March 1st 2003,"Hackett Publishing Company, Inc."
+249,Wilt,Tom Sharpe,0099435489,(Wilt #1),3.94,336,9381,470,Paperback,November 7th 2002,Arrow
+250,Knocked Out by My Nunga-Nungas,Louise Rennison,0064473627,(Confessions of Georgia Nicolson #3),3.97,183,28000,668,Paperback,April 11th 2006,HarperTeen
+251,Without Feathers,Woody Allen,0345336976,,3.97,224,8682,419,Paperback,February 12th 1986,Ballantine Books
+252,Fangirl,Rainbow Rowell,,,4.09,483,486602,46221,Kindle Edition,September 10th 2013,St. Martin's Press
+253,The Princess Diaries,Meg Cabot,0613371658,(The Princess Diaries #1),3.78,283,220279,4962,Library Binding,July 1st 2001,Turtleback
+254,Tartuffe,Molière,1854596373,,3.67,180,27956,701,Paperback,April 1st 2002,Nick Hern Books
+255,The Indispensable Calvin and Hobbes,Bill Watterson,0751500283,(Calvin and Hobbes),4.74,255,18438,377,Paperback,1992,Warner Books
+256,Aunts Aren't Gentlemen,P.G. Wodehouse,0140041923,(Jeeves #15),4.20,176,5838,413,Paperback,February 24th 1977,Penguin Books
+257,My Point... And I Do Have One,Ellen DeGeneres,0553573616,,3.67,211,7371,544,Paperback,September 3rd 1996,Bantam
+258,China Rich Girlfriend,Kevin Kwan,0385539088,(Crazy Rich Asians #2),3.82,378,102103,8112,Hardcover,June 16th 2015,Knopf Doubleday
+259,Gumption: Relighting the Torch of Freedom with America's Gutsiest Troublemakers,Nick Offerman,0525954678,,3.73,400,7067,878,Hardcover,May 26th 2015,Dutton
+260,Green Eggs and Ham,Dr. Seuss,0394800168,,4.30,62,545898,8594,Hardcover,1988,Random House Books for Young Readers
+261,Ready Player One,Ernest Cline,030788743X,(Ready Player One #1),4.28,374,723206,80777,Hardcover,August 16th 2011,Crown Publishers
+262,A Connecticut Yankee in King Arthur's Court,Mark Twain,,,3.77,480,87865,2636,Paperback,May 1st 2007,Simon
+263,Paper Towns,John Green,014241493X,,3.84,305,783220,46378,Paperback,September 22nd 2009,Speak
+264,Last Human,Doug Naylor,0140143882,(Red Dwarf #3),3.86,310,7410,91,Paperback,1995,Penguin
+265,Nothing's Sacred,Lewis Black,1416914811,,3.79,256,3953,240,Paperback,July 1st 2006,Gallery Books
+266,Our Dumb World: The Onion's Atlas of the Planet Earth,The Onion,0316018422,,4.19,240,5957,283,Hardcover,October 30th 2007,"Little, Brown and Company"
+267,Starship Titanic,Terry Jones,2290053651,,3.60,189,10644,339,Paperback,November 30th 2001,J'ai Lu
+268,Infinite Jest,David Foster Wallace,0316921173,,4.30,1088,66621,8033,Paperback,2005,Back Bay Books
+269,Ayoade on Ayoade: A Cinematic Odyssey,Richard Ayoade,0571316522,,3.52,303,3812,393,Paperback,October 2nd 2014,Faber & Faber
+270,Round Ireland with a Fridge,Tony Hawks,0312274920,,3.79,248,15794,888,Paperback,March 7th 2001,Thomas Dunne Books
+271,The Fourth Bear,Jasper Fforde,0670037729,(Nursery Crime #2),4.07,382,20266,1214,Hardcover,August 3rd 2006,Viking Penguin
+272,The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson,0751507954,(Calvin and Hobbes),4.73,254,19794,480,Paperback,October 17th 1991,Sphere
+273,The Far Side Gallery 3,Gary Larson,0836218310,(The Far Side Gallery Anthologies #3),4.45,192,24558,129,Paperback,October 4th 1988,Andrews McMeel Publishing
+274,Yes Man,Danny Wallace,1416918345,,4.08,371,8401,683,Paperback,June 6th 2006,Gallery Books
+275,Bored of the Rings: A Parody of J.R.R. Tolkien's Lord of the Rings,The Harvard Lampoon,0451452615,(Cardboard Box of the Rings #3),3.13,149,5561,427,Paperback,July 1st 1993,Roc Trade
+276,In a Sunburned Country,Bill Bryson,0767903862,,4.07,335,79381,5081,Paperback,May 15th 2001,Broadway Books
+277,Poking a Dead Frog: Conversations with Today's Top Comedy Writers,Mike Sacks,,,4.15,464,1515,139,Kindle Edition,June 24th 2014,Penguin Books
+278,I am a Pole (And So Can You!),Stephen Colbert,1455523429,,3.89,32,4251,447,Hardcover,May 8th 2012,Grand Central Publishing
+279,Wicked Appetite,Janet Evanovich,0312652917,(Lizzy & Diesel #1),3.77,313,47008,4403,Hardcover,September 14th 2010,St. Martin's Press
+280,This is Where I Leave You,Jonathan Tropper,052595127X,,3.89,339,124724,11691,Hardcover,August 6th 2009,Orion
+281,Nightlight: A Parody,The Harvard Lampoon,0307476103,(Lampoon Parodies),3.08,154,9635,1649,Paperback,November 3rd 2009,Vintage
+282,First Among Sequels,Jasper Fforde,0670038717,(Thursday Next #5),4.01,363,22934,1554,Hardcover,July 24th 2007,Viking Adult
+283,SantaLand Diaries,David Sedaris,0349119759,,4.33,138,41699,462,Paperback,2006,Abacus
+284,Dancing in My Nuddy-Pants,Louise Rennison,0060097477,(Confessions of Georgia Nicolson #4),4.01,214,21811,467,Hardcover,March 4th 2003,Harper Tempest
+285,Sick Puppy,Carl Hiaasen,0446695688,(Skink #4),3.89,464,21392,1150,Paperback,April 12th 2005,Grand Central Publishing
+286,Interesting Times: The Play,Stephen Briggs,0413772195,(Discworld Stage Adaptations),4.13,102,20402,175,Paperback,July 4th 2002,Bloomsbury Methuen Drama
+287,The Girl Who Saved the King of Sweden,Jonas Jonasson,0007557906,,3.76,419,39393,4007,Paperback,April 1st 2014,Fourth Estate
+288,The Hitchhiker's Guide to the Galaxy: A Trilogy in Four Parts,Douglas Adams,0330316117,(Hitchhiker's Guide to the Galaxy #1-4),4.51,590,33020,514,Paperback,1992,Pan Books
+289,The Darwin Awards: Evolution in Action,Wendy Northcutt,0452283442,(Darwin Awards #1),3.65,352,4138,274,Paperback,April 30th 2002,Plume Books
+290,The Mating Season,P.G. Wodehouse,1585672319,(Jeeves #9),4.27,272,5300,370,Hardcover,January 1st 2002,Harry N. Abrams
+291,Holes,Louis Sachar,0439244196,(Holes #1),3.95,233,868227,18547,Paperback,September 2nd 2000,Scholastic
+292,The Nanny Diaries,Emma McLaughlin,0312291639,(Nanny #1),3.42,306,346207,5277,Paperback,March 18th 2003,St. Martins Press-3PL
+293,Metro Girl,Janet Evanovich,0060584025,(Alex Barnaby #1),3.62,374,30186,1232,Mass Market Paperback,September 27th 2005,HarperTorch
+294,Radikus Makankakus: Bukan Binatang Biasa,Raditya Dika,9797801667,,3.37,230,3794,212,Paperback,2007,Gagas Media
+295,Then He Ate My Boy Entrancers,Louise Rennison,0007191480,(Confessions of Georgia Nicolson #6),4.09,320,17254,407,Hardcover,May 3rd 2005,HarperCollinsChildren'sBooks
+296,Leave It to Psmith,P.G. Wodehouse,0393343057,(Psmith #4),4.31,293,7446,626,Paperback,July 2nd 2012,W.W. Norton & Company
+297,The Sea of Monsters,Rick Riordan,0786856866,(Percy Jackson and the Olympians #2),4.24,279,644004,23417,Hardcover,April 1st 2006,Hyperion Books
+298,As You Wish: Inconceivable Tales from the Making of The Princess Bride,Cary Elwes,1476764026,,4.12,276,44249,7707,Hardcover,October 14th 2014,Atria Books
+299,"Rat Queens, Vol. 1: Sass & Sorcery",Kurtis J. Wiebe,1607069458,(Rat Queens #1),4.09,128,36952,3385,Paperback,March 26th 2014,Image Comics
+300,Mogworld,Yahtzee Croshaw,1595825290,,3.88,413,6472,631,Mass Market Paperback,September 8th 2010,Dark Horse Books
+301,"Will Grayson, Will Grayson",John Green,0525421580,"(Will Grayson, Will Grayson #1)",3.80,310,302333,17396,Hardcover,April 6th 2010,Dutton Books
+302,The Diary of a Nobody,George Grossmith,0192833278,,3.71,176,11660,867,Paperback,October 15th 1998,Oxford University Press
+303,The Far Side Gallery,Gary Larson,0836220625,(The Far Side Gallery Anthologies #1),4.44,192,22282,194,Paperback,October 1st 1984,Andrews McMeel Publishing
+304,"Fortunately, the Milk",Neil Gaiman,0062224077,,4.05,113,43794,6850,Hardcover,September 17th 2013,HarperCollins
+305,Cinta Brontosaurus,Raditya Dika,9797800598,,3.49,152,5013,273,Paperback,2006,Gagas Media
+306,Pure Drivel,Steve Martin,0753813955,,3.68,144,6132,463,Paperback,September 4th 2003,Phoenix
+307,The Tempest,William Shakespeare,,,3.81,218,156415,3534,Mass Market Paperback,July 2004,Washington Square Press
+308,I Can't Make This Up: Life Lessons,Kevin  Hart,1501155563,,4.09,400,18924,2022,Hardcover,June 6th 2017,37 Ink
+309,Tricky Twenty-Two,Janet Evanovich,0345542967,(Stephanie Plum #22),3.94,282,42195,4183,Hardcover,November 17th 2015,Bantam
+310,The Adventures of Tom Sawyer,Mark Twain,0143039563,(The Adventures of Tom and Huck #1),3.91,244,683410,8714,Paperback,February 28th 2006,Penguin Classics
+311,"Scott Pilgrim, Vol. 6: Scott Pilgrim's Finest Hour",Bryan Lee O'Malley,1934964387,(Scott Pilgrim #6),4.41,245,34223,1313,Paperback,July 20th 2010,Oni Press
+312,"Yotsuba&!, Vol. 1",Kiyohiko Azuma,1413903177,(Yotsuba&! #1),4.32,224,15647,745,Paperback,June 21st 2005,ADV Manga
+313,The Spellman Files,Lisa Lutz,0743571355,(The Spellmans #1),3.88,6,30101,3537,Audio CD,March 11th 2008,Recorded Books
+314,Shopaholic & Baby,Sophie Kinsella,0385338708,(Shopaholic #5),3.79,359,115294,2536,Hardcover,February 27th 2007,Dial Press
+315,Nimona,Noelle Stevenson,,,4.18,272,80601,9553,Kindle Edition,May 12th 2015,Harper Collins
+316,Uganda Be Kidding Me,Chelsea Handler,1455599735,,3.64,257,15401,1299,Hardcover,March 4th 2014,Grand Central Publishing
+317,Hard Luck,Jeff Kinney,1419711326,(Diary of a Wimpy Kid #8),4.28,217,51098,2886,Hardcover,November 5th 2013,Amulet Books
+318,Year Zero,Rob  Reid,0345534417,,3.61,364,11160,1674,Hardcover,July 10th 2012,Del Rey
+319,Manusia Setengah Salmon,Raditya Dika,979780531X,,3.71,272,4720,332,Paperback,December 24th 2011,GagasMedia
+320,Twenties Girl,Sophie Kinsella,0385342020,,3.82,435,141788,6622,Hardcover,July 21st 2009,The Dial Press
+321,More Information Than You Require,John Hodgman,0525950346,(Complete World Knowledge #2),3.84,368,5880,387,Hardcover,October 21st 2008,Dutton Adult
+322,Something Rotten,Jasper Fforde,014303541X,(Thursday Next #4),4.15,385,30349,1414,Paperback,July 26th 2005,Penguin Books
+323,Another Fine Myth,Robert Lynn Asprin,0441013465,(Myth Adventures #1),4.05,200,20316,580,Paperback,November 1st 2005,Ace Books
+324,The Hollow Chocolate Bunnies of the Apocalypse,Robert Rankin,0575074019,(Eddie Bear #1),3.74,342,7482,503,Paperback,August 1st 2003,Gollancz
+325,The BFG,Roald Dahl,0141311371,,4.22,199,316551,9295,Paperback,2001,Puffin Books
+326,In Fifty Years We'll All Be Chicks . . . And Other Complaints from an Angry Middle-Aged White Guy,Adam Carolla,0307717372,,3.71,256,8491,727,Hardcover,November 2nd 2010,Crown Archetype
+327,Marmut Merah Jambu,Raditya Dika,6028066648,,3.77,228,5536,301,Paperback,May 2010,Bukune
+328,And Here's the Kicker: Conversations with 21 Top Humor Writers on their Craft and the Industry,Mike Sacks,1582975051,,4.05,337,1918,156,Paperback,July 8th 2009,Writer's Digest Books
+329,Assholes Finish First,Tucker Max,1416938745,(Tucker Max #2),3.64,404,22643,799,Hardcover,September 28th 2010,Gallery Books
+330,Back Story,David        Mitchell,0007351739,,3.80,336,5960,457,Paperback,October 11th 2012,HarperCollins Publishers Ltd
+331,It's a Magical World,Bill Watterson,0836221362,(Calvin and Hobbes #11),4.76,176,24734,335,Paperback,September 1st 1996,Andrews McMeel Publishing
+332,"Scott Pilgrim, Vol. 5: Scott Pilgrim vs. the Universe",Bryan Lee O'Malley,1934964107,(Scott Pilgrim #5),4.33,178,29929,884,Paperback,April 20th 2010,Oni Press
+333,"Scott Pilgrim, Volume 4: Scott Pilgrim Gets It Together",Bryan Lee O'Malley,1932664491,(Scott Pilgrim #4),4.32,205,32829,937,Paperback,November 14th 2007,Oni Press
+334,An Ideal Husband,Oscar Wilde,048641423X,,4.04,78,34333,1023,Paperback,February 5th 2001,Dover Publications
+335,Three to Get Deadly,Janet Evanovich,0312966091,(Stephanie Plum #3),4.15,344,128154,3196,Mass Market Paperback,July 15th 1998,St. Martin's Press
+336,Tangled,Emma Chase,,(Tangled #1),4.10,254,100105,9163,Kindle Edition,August 2nd 2013,Gallery Books
+337,Darth Vader and Son,Jeffrey Brown,145210655X,(Star Wars: Darth Vader and Kids),4.15,64,16738,1444,Hardcover,April 18th 2012,Chronicle Books
+338,Soulless,Gail Carriger,0316056634,(Parasol Protectorate #1),3.91,357,88042,9585,Mass Market Paperback,October 1st 2009,Orbit
+339,The Gun Seller,Hugh Laurie,067102082X,,3.68,340,18232,1828,Paperback,October 1st 1998,Washington Square Press
+340,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto",Chuck Klosterman,0743236017,,3.74,272,62007,3467,Paperback,July 2nd 2004,Scribner
+341,Gil's All Fright Diner,A. Lee Martinez,0765350017,,3.88,268,10446,922,Mass Market Paperback,June 27th 2006,Tor Books
+342,The Growing Pains of Adrian Mole,Sue Townsend,0060533986,(Adrian Mole #2),3.97,304,12276,308,Paperback,August 19th 2003,HarperTeen
+343,Sideways Stories from Wayside School,Louis Sachar,0747571775,(Wayside School #1),4.15,144,84080,2284,Paperback,January 19th 2004,Bloomsbury Childrens Books
+344,Waiting for Godot,Samuel Beckett,,,3.82,109,141114,4813,Paperback,2011,Grove
+345,"Egghead; or, You Can't Survive on Ideas Alone",Bo Burnham,1455519146,,4.11,240,9051,773,Hardcover,October 1st 2013,Grand Central Publishing
+346,Skinny Dip,Carl Hiaasen,0446615129,(Mick Stranahan #2),3.80,496,36129,2876,Mass Market Paperback,May 1st 2006,Grand Central Publishing
+347,I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away,Bill Bryson,076790382X,,3.90,304,53657,2663,Paperback,June 28th 2000,Broadway Books
+348,Welcome to Night Vale,Joseph Fink,0062351427,(Welcome to Night Vale #1),3.84,401,28736,4452,Hardcover,October 20th 2015,Harper Perennial
+349,"Still Foolin' 'Em: Where I've Been, Where I'm Going, and Where the Hell Are My Keys",Billy Crystal,0805098232,,3.92,288,12105,1950,Hardcover,September 10th 2013,Henry Holt and Co.
+350,Top Secret Twenty-One,Janet Evanovich,0345542924,(Stephanie Plum #21),3.83,305,47017,4378,Hardcover,June 17th 2014,Bantam
+351,Playing for Keeps,R.L. Mathewson,0983212546,(Neighbor from Hell  #1),4.06,330,99429,5277,Paperback,April 29th 2011,Rerum Publishing House
+352,The Uncommon Reader,Alan Bennett,0374280967,,3.80,120,29021,5144,Hardcover,September 18th 2007,"Farrar, Straus and Giroux"
+353,"The Daily Show: An Oral History as Told by Jon Stewart, the Correspondents, Staff and Guests",Chris Smith,1478936568,,4.14,16,6729,887,Audiobook,November 22nd 2016,Grand Central Publishing
+354,Herding Cats,Sarah Andersen,1449489788,(Sarah's Scribbles #3),4.20,112,10881,1900,Paperback,March 27th 2018,Andrews McMeel Publishing
+355,Rich People Problems,Kevin Kwan,0385542232,(Crazy Rich Asians #3),3.95,398,77420,5967,Hardcover,May 23rd 2017,Doubleday
+356,"The Comedians: Drunks, Thieves, Scoundrels, and the History of American Comedy",Kliph Nesteroff,0802123988,,3.97,432,1525,252,Hardcover,November 3rd 2015,Grove Press
+357,The Sellout,Paul Beatty,0374260508,,3.77,289,44865,5429,Hardcover,2015,"Farrar, Straus and Giroux"
+358,Wedding Night,Sophie Kinsella,0812984277,,3.41,464,72430,5706,Paperback,May 13th 2014,Dial Press
+359,Dodger,Terry Pratchett,0062009494,(Dodger #1),3.92,360,21646,2707,Hardcover,September 13th 2012,HarperCollins Publishers
+360,F in Exams: The Best Test Paper Blunders,Richard Benson,1840247002,,3.79,127,6903,863,Paperback,September 1st 2008,Summersdale
+361,Pygmalion,George Bernard Shaw,0486282228,,3.90,82,82392,2097,Paperback,October 20th 1994,Dover Publications
+362,Motor Mouth,Janet Evanovich,0060584033,(Alex Barnaby #2),3.67,312,23370,784,Hardcover,October 3rd 2006,HarperCollins
+363,Backwards,Rob Grant,0140171509,(Red Dwarf #4),3.96,342,9096,89,Paperback,by Penguin Books,
+364,"Sex Criminals, Vol. 1: One Weird Trick",Matt Fraction,1607069466,(Sex Criminals (Collected Editions) #1),3.93,128,29601,2857,Paperback,April 29th 2014,Image Comics
+365,"Ouran High School Host Club, Vol. 3",Bisco Hatori,1421500620,(Ouran High School Host Club #3),4.44,192,14230,238,Paperback,November 1st 2005,VIZ Media
+366,Truckers: The First Book of the Nomes,Terry Pratchett,0552573337,(Bromeliad Trilogy #1),3.91,320,12915,475,Paperback,March 12th 2015,Corgi Childrens
+367,Nature Girl,Carl Hiaasen,0307262995,,3.62,306,20186,1702,Hardcover,November 14th 2006,Alfred A. Knopf
+368,The Adventures of Captain Underpants,Dav Pilkey,0439014573,(Captain Underpants #1),3.91,125,31581,2181,Paperback,2000,Scholastic Children's Books
+369,Don't Stand Too Close to a Naked Man,Tim Allen,0786889020,,3.55,254,3159,179,Paperback,December 3rd 2005,Hyperion Books
+370,Dead Famous,Ben Elton,0552999458,,3.64,382,9028,394,Paperback,2002,Black Swan
+371,Our Dumb Century: The Onion Presents 100 Years of Headlines from America's Finest News Source,Scott Dikkers,0609804618,,4.17,164,12112,128,Paperback,March 23rd 1999,Three Rivers Press
+372,Jeeves and the Tie That Binds,P.G. Wodehouse,0743203623,(Jeeves #14),4.23,205,4532,331,Paperback,November 1st 2000,Touchstone
+373,"Step Aside, Pops",Kate Beaton,1770462082,(Hark! A Vagrant #2),4.09,168,9370,802,Hardcover,September 15th 2015,Drawn and Quarterly
+374,Silver Screen Fiend: Learning About Life from an Addiction to Film,Patton Oswalt,145167323X,,3.62,240,5986,750,ebook,January 6th 2015,Scribner
+375,"People I Want to Punch in the Throat: Competitive Crafters, Drop-Off Despots, and Other Suburban Scourges",Jen Mann,034554983X,,3.62,208,9883,1417,Paperback,September 9th 2014,Ballantine Books
+376,Futures and Frosting,Tara Sivec,,(Chocolate Lovers #2),4.27,321,24077,1847,ebook,,
+377,The Help,Kathryn Stockett,,,4.46,465,1887849,82029,Hardcover,February 10th 2009,Amy Einhorn Books
+378,"Love All the People: Letters, Lyrics, Routines",Bill Hicks,1845291115,,4.06,384,2823,162,Paperback,May 26th 2005,Constable
+379,Stark,Ben Elton,0552154482,,3.68,496,6600,132,Paperback,January 2nd 2006,Black Swan
+380,The Days Are Just Packed,Bill Watterson,0836217357,(Calvin and Hobbes #8),4.69,176,21586,263,Paperback,September 1st 1993,Andrews McMeel Publishing
+381,The Life and Times of the Thunderbolt Kid,Bill Bryson,076791936X,,3.94,288,51514,4416,Hardcover,October 17th 2006,Broadway Books
+382,"Babi Ngesot: Datang Tak Diundang, Pulang Tak Berkutang",Raditya Dika,6028066109,,3.48,240,3198,139,Paperback,January 2008,Bukune
+383,Diggers,Terry Pratchett,0552525863,(Bromeliad Trilogy #2),3.87,173,10867,221,Paperback,October 1st 1991,Corgi
+384,Away Laughing on a Fast Camel,Louise Rennison,0060589353,(Confessions of Georgia Nicolson #5),4.06,288,18001,439,Library Binding,June 1st 2004,HarperTeen
+385,The Liar,Stephen Fry,,,3.67,404,10932,646,Kindle Edition,July 1st 2018,Soho Press
+386,Attack of the Deranged Mutant Killer Monster Snow Goons,Bill Watterson,1417642165,(Calvin and Hobbes #7),4.72,127,13342,270,Hardcover,January 7th 1992,Turtleback Books
+387,Texts from Jane Eyre: And Other Conversations with Your Favorite Literary Characters,Mallory Ortberg,1627791833,,3.65,226,8650,1704,Hardcover,November 4th 2014,Henry Holt and Co.
+388,Off to Be the Wizard,Scott  Meyer,1612184715,(Magic 2.0 #1),3.98,373,28937,2515,Paperback,March 18th 2014,47North
+389,"Ouran High School Host Club, Vol. 2",Bisco Hatori,1591169909,(Ouran High School Host Club #2),4.45,192,15969,295,Paperback,September 26th 2005,VIZ Media
+390,Measure for Measure,William Shakespeare,0743484908,,3.67,336,20007,825,Paperback,July 1st 2005,Simon
+391,The Book of Bunny Suicides,Andy Riley,0452285186,(Books of the Bunny Suicides #1),4.05,96,10068,488,Paperback,December 30th 2003,Plume
+392,A Long Way Down,Nick Hornby,1594481938,,3.42,368,73260,4845,Hardcover,May 2nd 2006,Riverhead Books
+393,Theft by Finding: Diaries 1977-2002,David Sedaris,0316154725,,3.93,514,20914,2588,Hardcover,May 30th 2017,"Little, Brown and Company"
+394,Attachments,Rainbow Rowell,0525951989,,3.92,323,149949,18540,Hardcover,April 14th 2011,Dutton Adult
+395,One of Our Thursdays Is Missing,Jasper Fforde,1456123688,(Thursday Next #6),3.95,362,16723,1745,Hardcover,March 8th 2011,Viking Adult
+396,"Ouran High School Host Club, Vol. 4",Bisco Hatori,1421501929,(Ouran High School Host Club #4),4.45,184,12646,181,Paperback,January 3rd 2006,VIZ Media
+397,Bet Me,Jennifer Crusie,0312987854,,3.93,391,81404,3554,Mass Market Paperback,August 31st 2004,St. Martin's Paperbacks
+398,"Bitter Is the New Black: Confessions of a Condescending, Egomaniacal, Self-Centered Smartass, Or, Why You Should Never Carry A Prada Bag to the Unemployment Office",Jen Lancaster,0451217608,,3.90,400,45392,4234,Paperback,March 7th 2006,NAL
+399,Jeeves and the Feudal Spirit,P.G. Wodehouse,1585672297,(Jeeves #11),4.32,231,5621,349,Hardcover,January 1st 2002,Harry N. Abrams
+400,If Life Is a Bowl of Cherries What Am I Doing in the Pits?,Erma Bombeck,0449208397,,4.07,224,11903,302,Paperback,March 12th 1985,Fawcett
+401,The Hitchhiker's Guide to the Galaxy,Douglas Adams,0345418913,(Hitchhiker's Guide to the Galaxy #1),4.22,193,1236171,25936,Paperback,June 23rd 2007,Del Rey
+402,Bossypants,Tina Fey,,,3.95,283,745099,37664,Kindle Edition,April 5th 2011,Reagan Arthur Books
+403,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,0060853980,,4.25,412,426370,20622,Mass Market Paperback,November 28th 2006,William Morrow
+404,Is Everyone Hanging Out Without Me? (And Other Concerns),Mindy Kaling,0307886263,,3.85,222,376529,21148,Hardcover,November 1st 2011,Crown Archetype
+405,Yes Please,Amy Poehler,0062268341,,3.82,329,368665,23674,Hardcover,October 28th 2014,Dey St.
+406,The Restaurant at the End of the Universe,Douglas Adams,,(Hitchhiker's Guide to the Galaxy #2),4.22,250,204729,4944,Paperback,April 26th 2005,Del Rey
+407,Me Talk Pretty One Day,David Sedaris,0349113912,,3.98,272,571857,16464,Paperback,2001,"Little, Brown and Company"
+408,The Color of Magic,Terry Pratchett,0060855924,(Discworld #1),3.99,228,274930,8286,Hardcover,September 13th 2005,Harper
+409,"Life, the Universe and Everything",Douglas Adams,0345418905,(Hitchhiker's Guide to the Galaxy #3),4.20,224,178071,2989,Paperback,April 26th 2005,Del Rey
+410,"So Long, and Thanks for All the Fish",Douglas Adams,,(Hitchhiker's Guide to the Galaxy #4),4.09,225,129355,2497,Kindle Edition,December 25th 2008,Del Rey
+411,Assuming Names: A Con Artist's Masquerade,Tanya Thompson,,,3.51,280,14064,225,ebook,March 2014,Thompson Books
+412,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore,0380813815,,4.26,444,140567,11340,Paperback,May 25th 2004,William Morrow / HarperCollins / Harper Perennial
+413,The Princess Bride,William Goldman,0345418263,,4.26,398,712641,18259,Paperback,July 15th 2003,Ballantine Books (Ballantine Reader's Circle)
+414,Mort,Terry Pratchett,0061020680,(Discworld #4),4.23,243,170687,4129,Mass Market Paperback,February 6th 2001,Harpertorch
+415,The Importance of Being Earnest,Oscar Wilde,158049580X,,4.17,76,276661,7964,Paperback,January 1st 2005,Prestwick House Inc.
+416,Mostly Harmless,Douglas Adams,0345379330,(Hitchhiker's Guide to the Galaxy #5),3.97,288,97014,2237,Paperback,October 19th 1993,Del Rey
+417,Red Russia,Tanya Thompson,,,4.13,196,1132,59,Kindle Edition,November 11th 2017,Thompson Books
+418,The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams,0345453743,(Hitchhiker's Guide to the Galaxy #1-5 & short story),4.38,815,260096,4883,Paperback,April 30th 2002,Del Rey Books
+419,The Light Fantastic,Terry Pratchett,0061020702,(Discworld #2),3.97,241,105688,3063,Mass Market Paperback,February 2nd 2000,HarperTorch
+420,America (The Book): A Citizen's Guide to Democracy Inaction,Jon Stewart,0713998946,,4.02,228,84911,1422,Hardcover,2004,Allen Lane
+421,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Allie Brosh,1451666179,,4.18,371,153553,11403,Paperback,October 29th 2013,Gallery Books
+422,Guards! Guards!,Terry Pratchett,0061020648,(Discworld #8),4.33,376,143195,3481,Mass Market Paperback,August 2001,HarperTorch
+423,Bridget Jones's Diary,Helen Fielding,014028009X,(Bridget Jones #1),3.76,288,833219,9049,Paperback,June 1st 1999,Penguin Books
+424,"Are You There, Vodka? It's Me, Chelsea",Chelsea Handler,0061173398,,3.85,264,144679,6873,Hardcover,May 1st 2007,HarperCollins Publishers
+425,Equal Rites,Terry Pratchett,0060855908,(Discworld #3),4.02,228,123460,3467,Paperback,September 13th 2005,Harper Perennial
+426,Dress Your Family in Corduroy and Denim,David Sedaris,0965904830,,4.10,257,226450,6204,Paperback,2004,"Little, Brown & Co."
+427,Catch-22,Joseph Heller,0684833395,(Catch-22 #1),3.98,453,663141,16247,Paperback,September 4th 2004,Simon & Schuster
+428,Dad Is Fat,Jim Gaffigan,0385349068,,3.77,288,57014,6865,ebook,May 7th 2013,Crown Archetype
+429,Dirk Gently's Holistic Detective Agency,Douglas Adams,,(Dirk Gently #1),3.98,306,108640,3094,Mass Market Paperback,January 1st 2002,Pocket Books
+430,Sh*t My Dad Says,Justin Halpern,0061992704,(Sh*t My Dad Says #1),3.99,159,131362,8005,Hardcover,May 4th 2010,It Books
+431,When You Are Engulfed in Flames,David Sedaris,0316143472,,4.05,323,171010,9461,Hardcover,June 3rd 2008,Little Brown and Company
+432,A Midsummer Night's Dream,William Shakespeare,0743477545,,3.94,240,407640,7040,Paperback,July 2016,Simon & Schuster Paperbacks
+433,A Dirty Job,Christopher Moore,0060590270,(Grim Reaper #1),4.07,387,95964,6308,Hardcover,March 21st 2006,William Morrow
+434,Naked,David Sedaris,0316777730,,4.09,304,221477,5494,Paperback,1998,Back Bay Books
+435,Modern Romance,Aziz Ansari,1594206279,,3.83,279,146846,12538,Hardcover,June 16th 2015,Penguin Press
+436,Why Not Me?,Mindy Kaling,0804138168,,3.90,240,149152,9650,Paperback,September 27th 2016,Three Rivers Press
+437,A Confederacy of Dunces,John Kennedy Toole,0802130208,,3.89,394,211410,13728,Paperback,January 1994,Grove Press
+438,Wyrd Sisters,Terry Pratchett,0061020664,(Discworld #6),4.13,265,81584,2649,Mass Market Paperback,February 6th 2001,Hartorch
+439,Born Standing Up: A Comic's Life,Steve Martin,1416553649,,3.87,207,75074,4802,Hardcover,February 29th 2008,Scribner Book Company
+440,Small Gods,Terry Pratchett,0552152978,(Discworld #13),4.29,400,92355,2522,Paperback,August 1st 2005,Corgi
+441,Sourcery,Terry Pratchett,0061020672,(Discworld #5),3.89,276,70653,1815,Mass Market Paperback,April 2008,Harper
+442,My Horizontal Life: A Collection of One-Night Stands,Chelsea Handler,1582346186,,3.79,213,95001,6176,Paperback,June 6th 2005,Bloomsbury USA
+443,One for the Money,Janet Evanovich,0312362080,(Stephanie Plum #1),4.04,320,450478,14033,Paperback,2006,Griffin
+444,Going Postal,Terry Pratchett,0060502932,(Discworld #33),4.38,394,93221,2755,Mass Market Paperback,September 27th 2005,HarperTorch
+445,The Rosie Project,Graeme Simsion,1476729085,(Don Tillman #1),4.02,297,384430,35868,Hardcover,October 1st 2013,Simon & Schuster
+446,Seriously... I'm Kidding,Ellen DeGeneres,0446585025,,3.72,241,92974,6983,Hardcover,October 4th 2011,Grand Central Publishing
+447,Reaper Man,Terry Pratchett,0552152951,(Discworld #11),4.29,352,73221,2272,Paperback,April 1st 2005,Corgi
+448,Let's Explore Diabetes with Owls,David Sedaris,0316154695,,3.81,275,108637,8873,Hardcover,April 23rd 2013,"Little, Brown and Company"
+449,The Long Dark Tea-Time of the Soul,Douglas Adams,0671742515,(Dirk Gently #2),4.06,307,72118,1742,Mass Market Paperback,February 15th 1991,Pocket Books
+450,Pyramids,Terry Pratchett,0061020656,(Discworld #7),3.91,341,61520,1647,Mass Market Paperback,2008,Harper
+451,Much Ado About Nothing,William Shakespeare,0743482751,,4.06,246,200330,3281,Paperback,2004,Simon
+452,The Girl with the Lower Back Tattoo,Amy Schumer,1501139886,,3.73,323,85791,7857,Hardcover,August 16th 2016,Gallery Books
+453,Chelsea Chelsea Bang Bang,Chelsea Handler,0446552445,,3.81,244,61937,2993,Hardcover,March 9th 2010,Grand Central Publishing
+454,Furiously Happy: A Funny Book About Horrible Things,Jenny  Lawson,1250077001,,3.93,329,101875,11643,Hardcover,September 22nd 2015,Flatiron Books
+455,Hogfather,Terry Pratchett,0552154288,(Discworld #20),4.24,432,67893,2051,Paperback,October 2nd 2006,Corgi
+456,Holidays on Ice,David Sedaris,0316191299,,3.93,176,101079,5280,Paperback,December 28th 1998,Little Brown & Co (P)
+457,Fool,Christopher Moore,0060590319,(Fool #1),3.97,311,47989,3397,Hardcover,February 10th 2009,HarperCollins William Morrow
+458,Eric,Terry Pratchett,0380821214,(Discworld #9),3.75,217,52319,1545,Mass Market Paperback,July 2008,Harper
+459,Moving Pictures,Terry Pratchett,0552152943,(Discworld #10),3.94,396,58901,1381,Paperback,April 1st 2005,Corgi
+460,Men at Arms,Terry Pratchett,0061092193,(Discworld #15),4.38,377,73638,1638,Mass Market Paperback,May 27th 2003,HarperPrism
+461,The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared,Jonas Jonasson,,(The Hundred-Year-Old Man #1),3.83,396,180872,20346,Kindle Edition,September 11th 2012,Hachette Books
+462,Soul Music,Terry Pratchett,057506689X,(Discworld #16),4.04,424,58808,1501,Hardcover,1999,Gollancz
+463,Witches Abroad,Terry Pratchett,0061020613,(Discworld #12),4.23,374,64783,1720,Mass Market Paperback,July 30th 2002,HarperTorch
+464,Freaks I've Met,Donald Jans,,,4.36,208,1638,289,Hardcover,August 15th 2015,Sheabeau Publishing
+465,Diary of a Wimpy Kid,Jeff Kinney,0810993139,(Diary of a Wimpy Kid #1),3.97,217,340349,15905,Hardcover,April 1st 2007,Amulet Books
+466,Bloodsucking Fiends,Christopher Moore,0060735414,(A Love Story #1),3.94,300,56418,2392,Paperback,June 1st 2004,HarperCollins
+467,You Suck,Christopher Moore,0060590297,(A Love Story #2),3.83,328,44261,2720,Hardcover,January 16th 2007,William Morrow
+468,Feet of Clay,Terry Pratchett,0552153257,(Discworld #19),4.29,411,61805,1385,Paperback,October 1st 2005,Corgi
+469,John Dies at the End,David  Wong,0978970764,(John Dies at the End #1),3.90,362,54846,5687,Paperback,August 1st 2007,Permuted Press
+470,Redshirts,John Scalzi,0765316994,,3.84,320,76702,9185,Hardcover,June 5th 2012,Tor Books
+471,Lords and Ladies,Terry Pratchett,055215315X,(Discworld #14),4.17,400,60149,1292,Paperback,August 1st 2005,Corgi
+472,The Fifth Elephant,Terry Pratchett,0552154229,(Discworld #24),4.27,464,54619,1251,Paperback,November 6th 2008,Corgi
+473,Jingo,Terry Pratchett,0552154164,(Discworld #21),4.14,461,49520,1211,Paperback,February 12th 2006,Corgi Books
+474,The Stupidest Angel: A Heartwarming Tale of Christmas Terror,Christopher Moore,0060842350,(Pine Cove #3),3.82,306,38477,2973,Hardcover,October 28th 2008,William Morrow
+475,Food: A Love Story,Jim Gaffigan,0804140413,,3.70,340,23651,3394,Hardcover,October 21st 2014,Crown Archetype
+476,Twelfth Night,William Shakespeare,0743482778,,3.98,320,145904,3201,Paperback,July 1st 2004,Folger
+477,Carpe Jugulum,Terry Pratchett,0061051586,(Discworld #23),4.15,296,47459,1140,Hardcover,September 8th 1999,Harper Voyager
+478,Making Money,Terry Pratchett,0061161640,(Discworld #36),4.25,394,52180,1741,Hardcover,September 18th 2007,Harper
+479,Monstrous Regiment,Terry Pratchett,,(Discworld #31),4.21,496,54665,1608,Paperback,September 25th 2003,
+480,Thief of Time,Terry Pratchett,0061031321,(Discworld #26),4.27,378,54503,1392,Paperback,2008,HarperTorch
+481,The Taming of the Shrew,William Shakespeare,074347757X,,3.80,291,145121,2907,Paperback,January 1st 2004,Simon
+482,"The Bedwetter: Stories of Courage, Redemption, and Pee",Sarah Silverman,,,3.52,240,33062,2100,Hardcover,April 20th 2010,Harper Collins
+483,Thud!,Terry Pratchett,0552152676,(Discworld #34),4.31,439,57252,1548,Paperback,October 2nd 2006,Corgi
+484,The Truth,Terry Pratchett,0413771164,(Discworld #25),4.28,336,49147,1253,Paperback,February 21st 2002,Bloomsbury Methuen Drama
+485,Two for the Dough,Janet Evanovich,0140255559,(Stephanie Plum #2),4.11,326,138775,4444,Paperback,June 1996,Penguin Books
+486,Maskerade,Terry Pratchett,0575058080,(Discworld #18),4.09,285,46193,1159,Hardcover,1995,Gollancz
+487,Earth (The Book): A Visitor's Guide to the Human Race,Jon Stewart,044657922X,,3.91,246,25214,1169,Hardcover,September 21st 2010,Grand Central Publishing
+488,The Wee Free Men,Terry Pratchett,0060012382,(Discworld #30),4.27,390,83714,3749,Mass Market Paperback,2004,HarperTrophy
+489,The Last Continent,Terry Pratchett,0552154180,(Discworld #22),4.00,416,43706,1010,Paperback,February 1st 2006,Corgi
+490,Born a Crime: Stories From a South African Childhood,Trevor Noah,0385689225,,4.46,304,215098,23337,Hardcover,November 15th 2016,Doubleday Canada
+491,Three Men in a Boat,Jerome K. Jerome,0140621334,(Three Men #1),3.89,185,48409,3925,Mass Market Paperback,October 1st 1994,Penguin Books
+492,Go the F**k to Sleep,Adam Mansbach,,,4.26,17,81045,3503,Kindle Edition,December 6th 2011,Akashic Books
+493,Unseen Academicals,Terry Pratchett,0061161705,(Discworld #37),3.99,417,41499,1822,Hardcover,October 6th 2009,HarperCollins
+494,Practical Demonkeeping,Christopher Moore,0060735422,(Pine Cove #1),3.82,256,39204,1569,Paperback,May 25th 2004,Perennial / William Morrow / HarperCollins
+495,Four to Score,Janet Evanovich,0312966970,(Stephanie Plum #4),4.17,313,120879,2784,Mass Market Paperback,June 15th 1999,St. Martin's Press
+496,Hot Six,Janet Evanovich,0312976275,(Stephanie Plum #6),4.19,336,111366,2301,Paperback,June 15th 2001,St. Martin's Paperbacks
+497,Squirrel Seeks Chipmunk: A Modest Bestiary,David Sedaris,0316038393,,3.35,159,54753,5312,Hardcover,September 28th 2010,"Little, Brown and Company"
+498,Confessions of a Shopaholic,Sophie Kinsella,0440241413,(Shopaholic #1),3.63,368,598545,11803,Paperback,November 4th 2003,Dell Publishing Company
+499,Brain Droppings,George Carlin,0786891122,,4.11,272,15036,470,Paperback,April 22nd 1998,Hachette Books
+500,I Hope They Serve Beer in Hell,Tucker Max,0806527285,(Tucker Max #1),3.51,288,52494,4410,Paperback,January 1st 2006,Citadel

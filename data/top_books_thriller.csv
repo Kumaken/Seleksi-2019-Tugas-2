@@ -1,0 +1,500 @@
+id,title,author,ISBN,series,avg_rating,pages,rating_count,review_count,book_format,published_year,publisher
+49,Jane Doe,Victoria Helen Stone,,(Jane Doe #1),4.05,267,11702,1575,Kindle Edition,August 1st 2018,Lake Union Publishing
+50,The Witch Elm,Tana French,0735224641,,3.56,528,36080,5759,Paperback,July 30th 2019,Penguin Books
+45,There's Someone Inside Your House,Stephanie Perkins,0525426019,,3.38,287,13386,3122,Hardcover,September 26th 2017,Dutton Books for Young Readers
+1,The Fireman,Joe Hill,006220064X,,3.90,768,42275,6225,Paperback,January 3rd 2017,William Morrow Paperbacks
+48,Alone,Lisa Gardner,0553584537,(Detective D.D. Warren #1),3.97,451,47235,2113,Paperback,December 27th 2005,Bantam
+51,Daemon,Daniel Suarez,0451228731,(Daemon #1),4.17,632,36009,2959,Mass Market Paperback,December 29th 2009,Signet
+43,Brilliance,Marcus Sakey,1611099692,(Brilliance Saga #1),3.96,444,27199,2289,Paperback,July 16th 2013,Thomas & Mercer
+46,Pretty Baby,Mary Kubica,0778317706,,3.74,380,40218,3935,Hardcover,July 28th 2015,MIRA
+42,Before She Knew Him,Peter  Swanson,0062838156,,3.85,309,14356,2234,Hardcover,March 5th 2019,William Morrow
+199,Friend Request,Laura  Marshall,,,3.80,385,28994,2365,Kindle Edition,September 5th 2017,Grand Central Publishing
+348,An Anonymous Girl,Greer Hendricks,1250133734,,3.87,375,45872,7621,Hardcover,January 8th 2019,St. Martin's Press
+47,Ice Hunt,James Rollins,0060521600,,4.05,509,15075,519,Mass Market Paperback,March 1st 2007,Harper
+349,Before the Fall,Noah Hawley,,,3.74,401,97232,11157,Kindle Edition,May 31st 2016,Grand Central Publishing
+198,Broken Monsters,Lauren Beukes,031621681X,,3.58,464,16841,2497,Paperback,June 16th 2015,Mulholland Books
+44,The Last Mile,David Baldacci,1455566020,(Amos Decker #2),4.21,644,54873,3739,Hardcover,April 26th 2016,Grand Central Publishing
+346,Pet Sematary,Stephen King,,,3.96,580,356407,10006,Kindle Edition,May 13th 2014,Scribner
+347,Career of Evil,Robert Galbraith,,(Cormoran Strike #3),4.22,498,137515,12911,Kindle Edition,June 2018,Mulholland Books
+401,The Client,John Grisham,0385339089,,3.99,483,360485,2247,Paperback,March 16th 2010,Delta
+497,"Tinker, Tailor, Soldier, Spy",John le Carré,0143119788,(The Karla Trilogy #1),4.05,381,60481,3624,Paperback,June 7th 2011,Penguin Books
+496,Bad Luck and Trouble,Lee Child,0385340559,(Jack Reacher #11),4.19,378,60818,2563,Hardcover,May 15th 2007,Bantam Dell Random House
+498,The Outsider,Stephen King,1501180983,,4.02,561,100573,11157,Hardcover,May 22nd 2018,Scribner
+400,The Da Vinci Code,Dan Brown,0307277674,(Robert Langdon #2),3.82,489,1727993,44793,Paperback,March 28th 2006,Anchor
+499,One of Us Is Lying,Karen M. McManus,,(One of Us is Lying #1),4.06,361,114696,17319,Kindle Edition,May 30th 2017,Delacorte Press
+495,American Psycho,Bret Easton Ellis,0679735771,,3.82,399,209510,8936,Paperback,March 1991,Vintage Contemporaries / Random House
+494,Under the Dome,Stephen King,1439148503,,3.90,1074,234670,14042,Hardcover,November 10th 2009,Scribner
+493,The Girl Before,J.P. Delaney,0425285049,,3.69,341,94023,8937,Hardcover,January 24th 2017,Ballantine Books
+399,The Doomsday Key,James Rollins,0061231401,(Sigma Force #6),4.16,448,24253,962,Hardcover,June 23rd 2009,William Morrow
+490,Casino Royale,Ian Fleming,014200202X,(James Bond (Original Series) #1),3.73,181,56163,3728,Paperback,August 27th 2002,Penguin
+492,I Let You Go,Clare Mackintosh,0751554154,,4.07,371,87045,10476,Paperback,November 9th 2014,Sphere
+491,The Martian,Andy Weir,0804139024,(The Martian #1),4.40,369,690295,68607,Hardcover,February 11th 2014,Crown
+488,The Snowman,Jo Nesbø,0307595862,(Harry Hole #7),4.01,383,92940,7637,Mass Market Paperback,May 10th 2011,Knopf
+489,Into the Darkest Corner,Elizabeth Haynes,0062197266,,4.10,450,54623,5433,Paperback,January 2nd 2013,Harper
+484,Odd Thomas,Dean Koontz,0553384287,(Odd Thomas #1),3.96,446,231779,7009,Paperback,August 29th 2006,Bantam
+482,The Spy Who Came In from the Cold,John le Carré,,(George Smiley),4.07,224,61665,3744,Paperback,November 27th 2001,Scribner
+486,Carrie,Stephen King,1416524304,,3.95,253,447624,11266,Mass Market Paperback,November 1st 2005,Pocket Books
+485,Finders Keepers,Stephen King,1501100076,(Bill Hodges Trilogy #2),4.04,434,91748,8626,Hardcover,June 2nd 2015,Scribner
+487,The Butterfly Garden,Dot Hutchison,,(The Collector #1),4.06,288,96266,9008,Kindle Edition,June 1st 2016,Thomas & Mercer
+483,One Shot,Lee Child,0440241022,(Jack Reacher #9),4.21,466,83859,3047,Paperback,March 28th 2006,Dell Publishing Company
+478,Darkly Dreaming Dexter,Jeff Lindsay,,(Dexter #1),3.90,288,172946,6142,Paperback,September 19th 2006,Vintage Books
+480,Behind Her Eyes,Sarah Pinborough,125011117X,,3.75,307,58739,10810,Hardcover,January 31st 2017,Flatiron Books
+476,Eye of the Needle,Ken Follett,006074815X,,4.18,339,114064,2487,Paperback,November 23rd 2004,HarperCollins Publishers
+479,The Lost World,Michael Crichton,0752224417,(Jurassic Park #2),3.77,448,108515,3186,Mass Market Paperback,1995,"Alfred A. Knopf, Inc."
+481,The Good Daughter,Karin Slaughter,0062430262,(The Good Daughter #1),4.13,656,79244,7489,ebook,August 8th 2017,William Morrow
+473,Congo,Michael Crichton,0060541830,,3.58,442,146627,1889,Paperback,October 28th 2003,Avon Books
+475,Timeline,Michael Crichton,0099244721,,3.84,489,175032,4217,Mass Market Paperback,June 2000,Arrow Books
+477,Kiss the Girls,James Patterson,0446677388,(Alex Cross #2),3.95,481,297836,3207,Paperback,July 1st 2000,Grand Central Publishing
+470,The Bone Collector,Jeffery Deaver,0451188454,(Lincoln Rhyme #1),4.19,528,139838,2181,Paperback,April 1st 1998,Signet Book
+474,The Girl in the Spider's Web,David Lagercrantz,0385354282,(Millennium #4),3.76,400,116339,12251,Hardcover,September 1st 2015,Knopf
+471,Prey,Michael Crichton,0061015725,,3.75,507,151322,3120,Mass Market Paperback,2006,Avon
+469,The Kind Worth Killing,Peter  Swanson,0062267523,,4.03,311,67655,8039,Hardcover,February 3rd 2015,William Morrow
+468,The Hunger Games,Suzanne Collins,0439023483,(The Hunger Games #1),4.33,374,5746391,163202,Hardcover,October 2008,Scholastic Press
+467,The Andromeda Strain,Michael Crichton,0060541814,(Andromeda #1),3.89,327,201506,3212,Paperback,October 28th 2003,Avon Books
+466,The Stand,Stephen King,0385199570,,4.34,1153,547433,16767,Hardcover,May 1st 1990,Doubleday Books
+472,Tripwire,Lee Child,0515128635,(Jack Reacher #3),4.09,432,83343,3272,Paperback,July 1st 2000,Jove
+465,The Surgeon,Tess Gerritsen,055381706X,(Rizzoli & Isles #1),4.10,416,117010,3818,Paperback,2005,Bantam Books
+460,I Am Pilgrim,Terry Hayes,1439177724,,4.25,612,99355,8907,Hardcover,May 27th 2014,Atria/Emily Bestler Books
+462,The Runaway Jury,John Grisham,0385339690,,3.97,358,245757,1927,Paperback,April 25th 2006,Delta
+464,Pines,Blake Crouch,1612183956,(Wayward Pines #1),3.90,305,77475,6554,Paperback,August 21st 2012,Thomas & Mercer
+461,Night Film,Marisha Pessl,0812979788,,3.78,640,66795,9532,Paperback,July 1st 2014,Random House Trade Paperbacks
+463,Tell No One,Harlan Coben,0440236703,,4.11,370,101800,4607,Mass Market Paperback,August 25th 2009,Dell Publishing Company
+459,Patriot Games,Tom Clancy,0425134350,(Jack Ryan #1),4.13,503,170948,1176,Paperback,May 1st 1992,Berkley
+458,11/22/63,Stephen King,1451627289,,4.31,849,368765,34670,Hardcover,November 8th 2011,Scribner
+457,Fight Club,Chuck Palahniuk,0393355942,,4.19,224,445462,12964,Paperback,May 1st 2018,W. W. Norton
+456,The Cuckoo's Calling,Robert Galbraith,0316206849,(Cormoran Strike #1),3.86,455,424592,31278,Hardcover,April 30th 2013,"Mulholland Books / Little, Brown and Company"
+453,The Good Girl,Mary Kubica,0778316556,,3.81,352,168055,13895,Hardcover,July 29th 2014,Harlequin MIRA
+452,Bird Box,Josh Malerman,,(Bird Box #1),4.02,262,101520,13973,Hardcover,May 13th 2014,Ecco
+455,Sometimes I Lie,Alice Feeney,0008225354,,3.84,387,57617,8384,Paperback,March 23rd 2017,HQ
+454,The Silent Patient,Alex Michaelides,1250301696,,4.05,323,85695,12138,Hardcover,February 5th 2019,Celadon Books
+451,Assuming Names: A Con Artist's Masquerade,Tanya Thompson,,,3.51,280,14064,225,ebook,March 2014,Thompson Books
+449,Relic,Douglas Preston,0765354942,(Pendergast #1),4.02,480,85182,3101,Paperback,August 1st 2005,Tor Books
+447,The Day of the Jackal,Frederick Forsyth,0553266306,,4.26,384,102341,1773,Paperback,October 4th 1982,Bantam
+448,The Wife Between Us,Greer Hendricks,1250130921,,3.84,346,134964,15702,Hardcover,January 9th 2018,St. Martin's Press
+446,Final Girls,Riley Sager,1101985364,,3.80,342,44289,6865,Hardcover,July 11th 2017,Dutton
+445,Along Came a Spider,James Patterson,0446692638,(Alex Cross #1),4.10,449,365321,4484,Paperback,August 1st 2003,Grand Central Publishing
+450,The Bourne Supremacy,Robert Ludlum,0752863886,(Jason Bourne #2),4.11,688,163400,1146,Mass Market Paperback,2004,Orion
+444,Hannibal,Thomas  Harris,0099297701,(Hannibal Lecter #3),3.75,564,75246,2550,Paperback,May 18th 2000,Arrow
+439,The Pelican Brief,John Grisham,0385339704,,3.98,400,333839,2315,Paperback,April 25th 2006,Delta
+441,The Zombie Room,R.D. Ronald,,,3.84,241,24605,148,Kindle Edition,April 10th 2016,Garden Heights Books
+440,The Elephant Tree,R.D. Ronald,1848764561,,3.79,252,22259,174,Paperback,2010,Matador
+443,Die Trying,Lee Child,0515142247,(Jack Reacher #2),4.02,552,90975,4089,Mass Market Paperback,October 28th 2008,Jove
+438,It,Stephen King,0450411435,,4.23,1116,667871,20282,Paperback,October 1st 1987,New English Library
+434,In the Woods,Tana French,0143113496,(Dublin Murder Squad #1),3.76,464,257510,18912,Paperback,May 27th 2008,Penguin Books
+437,The Couple Next Door,Shari Lapena,0735221081,,3.77,308,230392,19525,Hardcover,August 23rd 2016,Pamela Dorman Books
+436,The Firm,John Grisham,0582418275,,4.01,76,525681,3381,Paperback,February 15th 2000,Addison Wesley Publishing Company
+442,Pretty Girls,Karin Slaughter,0062430874,,3.99,688,134824,12866,Paperback,September 29th 2015,William Morrow
+435,"In a Dark, Dark Wood",Ruth Ware,1501112333,,3.68,308,162925,15026,Paperback,April 19th 2016,Gallery/Scout Press
+432,Misery,Stephen King,0450417395,,4.15,370,426641,9012,Paperback,November 1st 1988,New English Library
+430,Into the Water,Paula Hawkins,0735211205,,3.55,386,207726,19874,Hardcover,May 2nd 2017,Riverhead Books
+431,Origin,Dan Brown,0385514239,(Robert Langdon #5),3.85,461,197610,20560,Hardcover,October 3rd 2017,Doubleday Books
+433,A Time to Kill,John Grisham,,(Jake Brigance #1),4.06,515,659910,4861,Paperback,March 15th 2004,Dell
+428,Mr. Mercedes,Stephen King,1476754454,(Bill Hodges Trilogy #1),3.96,436,197251,15038,Hardcover,June 3rd 2014,Scribner
+429,Shutter Island,Dennis Lehane,038073186X,,4.09,369,142853,7736,Mass Market Paperback,April 27th 2004,HarperTorch
+427,The Hunt for Red October,Tom Clancy,0425172902,(Jack Ryan #3),4.05,432,310743,2672,Paperback,October 15th 1999,Berkley Trade
+426,And Then There Were None,Agatha Christie,0312330871,,4.25,264,644303,25437,Paperback,May 3rd 2004,St. Martin's Press
+423,The Woman in Cabin 10,Ruth Ware,1501132938,,3.68,340,266394,23933,Hardcover,July 19th 2016,Gallery/Scout Press
+425,Behind Closed Doors,B.A. Paris,1250121000,,3.95,293,220990,21592,Hardcover,August 9th 2016,St. Martin's Press
+424,You,Caroline Kepnes,1501195433,(You #1),3.88,422,96007,14762,Paperback,August 28th 2018,Atria/Emily Bestler Books
+420,Red Dragon,Thomas  Harris,0525945563,(Hannibal Lecter #1),4.03,348,240353,4232,Hardcover,May 22nd 2000,Dutton
+421,The Shining,Stephen King,0450040186,(The Shining #1),4.21,447,971918,19194,Paperback,July 1st 1980,New English Library (Hodder & Stoughton)
+418,Jurassic Park,Michael Crichton,,(Jurassic Park #1),4.01,466,734395,10577,Kindle Edition,May 14th 2012,Ballantine Books
+422,Dark Matter,Blake Crouch,1101904224,,4.10,342,176627,23913,Hardcover,July 26th 2016,Crown
+419,Killing Floor,Lee Child,0515141429,(Jack Reacher #1),4.05,424,217589,9554,Mass Market Paperback,April 25th 2006,Jove
+417,The Bourne Identity,Robert Ludlum,0752864327,(Jason Bourne #1),4.01,566,368486,4369,Paperback,March 24th 2005,Orion
+415,The Woman in the Window,A.J. Finn,,,3.94,449,256365,28377,Kindle Edition,January 2nd 2018,William Morrow
+411,Dark Places,Gillian Flynn,0307341569,,3.93,349,492698,32721,Hardcover,May 5th 2009,Shaye Areheart Books
+413,Deception Point,Dan Brown,0671027387,,3.70,556,545979,8767,Mass Market Paperback,December 2002,Pocket Books
+414,The Silence of the Lambs,Thomas  Harris,0099446782,(Hannibal Lecter #2),4.18,338,409895,4926,Paperback,2002,Arrow
+416,Before I Go to Sleep,S.J. Watson,0062060554,,3.89,359,254921,21082,Hardcover,June 14th 2011,Harper
+412,Digital Fortress,Dan Brown,,,3.64,510,514178,8631,Paperback,2004,Corgi books
+407,The Girl Who Kicked the Hornet's Nest,Stieg Larsson,030726999X,(Millennium #3),4.22,563,592959,28132,Hardcover,May 23rd 2010,Knopf
+410,Inferno,Dan Brown,0385537859,(Robert Langdon #4),3.84,463,418159,35893,Hardcover,May 14th 2013,Doubleday
+409,Sharp Objects,Gillian Flynn,,,3.95,254,530064,38605,Paperback,2006,Broadway Paperbacks
+406,The Girl Who Played with Fire,Stieg Larsson,0307269981,(Millennium #2),4.23,503,746840,33037,Hardcover,July 28th 2009,Alfred A. Knopf
+408,The Lost Symbol,Dan Brown,0385504225,(Robert Langdon #3),3.69,509,471106,25998,Hardcover,September 15th 2009,Doubleday
+405,Angels & Demons,Dan Brown,1416524797,(Robert Langdon #1),3.88,736,2392468,27354,Mass Market Paperback,April 1st 2006,Pocket Books
+404,The Girl with the Dragon Tattoo,Stieg Larsson,,(Millennium #1),4.13,465,2298902,65993,Hardcover,September 16th 2008,Knopf
+403,Gone Girl,Gillian Flynn,,,4.06,415,1987372,127930,Paperback,April 22nd 2014,Broadway Books
+394,The Third Option,Vince Flynn,0743499697,(Mitch Rapp #4),4.27,402,34692,1032,Mass Market Paperback,2004,
+402,The Girl on the Train,Paula Hawkins,,,3.91,323,1727321,104707,Hardcover,January 13th 2015,Riverhead Books
+398,Baby Teeth,Zoje Stage,1250170753,,3.64,304,22214,5177,Hardcover,July 17th 2018,St Martin's Press
+397,Extreme Measures,Vince Flynn,1416599398,(Mitch Rapp #11),4.32,448,43925,937,Hardcover,October 21st 2008,Atria Books
+396,The Maze Runner,James Dashner,0385737947,(The Maze Runner #1),4.02,384,894431,53376,Hardcover,October 6th 2009,Delacorte Press
+395,The Winter People,Jennifer  McMahon,0385538499,,3.77,317,40887,5890,Hardcover,February 11th 2014,Doubleday
+389,The Running Man,Richard Bachman,0451197968,,3.86,317,87873,2663,Paperback,August 1999,Signet
+392,Out,Natsuo Kirino,1400078377,,3.93,400,20150,2266,Paperback,January 4th 2005,Vintage
+393,Death du Jour,Kathy Reichs,0671011375,(Temperance Brennan #2),3.96,451,35021,1340,Paperback,May 2006,Pocket Star
+386,In Cold Blood,Truman Capote,0679745580,,4.07,343,467797,14515,Paperback,1994,Vintage
+390,The Midnight Line,Lee Child,0399593489,(Jack Reacher #22),4.10,368,46057,3804,Hardcover,November 7th 2017,Delacorte Press
+385,The Mephisto Club,Tess Gerritsen,0345476999,(Rizzoli & Isles #6),4.02,355,32291,1602,Hardcover,September 12th 2006,Ballantine Books
+388,Protect and Defend,Vince Flynn,074327041X,(Mitch Rapp #10),4.35,416,32114,856,Hardcover,October 30th 2007,Atria Books
+383,Rules of Prey,John Sandford,0425205819,(Lucas Davenport #1),4.12,479,65970,1947,Paperback,August 2nd 2005,G.P. Putnam's Sons
+384,I'm Thinking of Ending Things,Iain Reid,,,3.38,241,21942,4551,Kindle Edition,June 14th 2016,Gallery/Scout Press
+382,The 39 Steps,John Buchan,1419151126,(Richard Hannay #1),3.61,100,25489,2080,Paperback,June 17th 2004,William Blackwood & Sons
+380,The English Assassin,Daniel Silva,0451208188,(Gabriel Allon #2),4.14,437,25866,1139,Paperback,February 25th 2003,Berkley Books
+387,The Alexandria Link,Steve Berry,0345485750,(Cotton Malone #2),3.93,480,36077,1204,Hardcover,January 30th 2007,Ballantine Books
+379,The Stranger,Harlan Coben,0525953507,,3.87,386,52556,4343,Hardcover,March 24th 2015,Dutton
+381,The Ice Princess,Camilla Läckberg,1605980927,(Fjällbacka #1),3.72,393,50430,3785,Hardcover,June 15th 2010,Pegasus
+378,A Stranger in the House,Shari Lapena,073522112X,,3.61,305,46486,4942,Hardcover,August 15th 2017,Pamela Dorman Books
+375,The Broken Girls,Simone St. James,,,4.06,336,28917,4162,Kindle Edition,March 20th 2018,Berkley
+377,The Forgotten,David Baldacci,0446573051,(John Puller #2),4.10,422,46232,2887,Hardcover,November 20th 2012,Grand Central Publishing
+373,Night Fall,Nelson DeMille,,(John Corey #3),4.09,576,24347,1319,Kindle Edition,November 1st 2004,Grand Central Publishing
+376,Cemetery Dance,Douglas Preston,0446580295,(Pendergast #9),4.01,435,21106,1173,Hardcover,May 12th 2009,Grand Central Publishing
+391,Plum Island,Nelson DeMille,0446679089,(John Corey #1),4.04,592,40100,1953,Paperback,January 1st 2002,Grand Central Publishing
+370,The Chemistry of Death,Simon Beckett,0385340044,(David Hunter #1),4.10,320,15157,885,Hardcover,September 26th 2006,Delacorte Press
+374,Body of Evidence,Patricia Cornwell,0743493915,(Kay Scarpetta #2),4.02,403,59254,1098,Paperback,November 30th 2004,Pocket Books
+371,All That Remains,Patricia Cornwell,0684193957,(Kay Scarpetta #3),4.06,373,55765,927,Hardcover,August 17th 1992,Scribner
+366,Vanish,Tess Gerritsen,0345476980,(Rizzoli & Isles #5),4.12,401,52010,1562,Paperback,August 29th 2006,Ballantine Books
+372,"My Sister, the Serial Killer",Oyinkan Braithwaite,0385544235,,3.80,226,34559,5467,Hardcover,November 20th 2018,Doubleday Books
+367,The Good Guy,Dean Koontz,0553804812,,3.82,386,30750,1534,Hardcover,May 29th 2007,Bantam
+369,The Perfect Mother,Aimee Molloy,0062696793,,3.54,317,36150,4055,Hardcover,May 1st 2018,Harper
+365,Consent to Kill,Vince Flynn,1416505016,(Mitch Rapp #8),4.38,675,39222,1018,Paperback,September 1st 2006,Pocket Star
+368,Cat and Mouse,James Patterson,,(Alex Cross #4),3.98,416,55944,1272,Hardcover,November 5th 1997,"Little, Brown"
+363,The Sinner,Tess Gerritsen,0553815024,(Rizzoli & Isles #3),4.14,419,38929,1542,Paperback,January 17th 2005,Bantem Press
+364,Fatherland,Robert   Harris,0061006629,,3.98,380,29950,1828,Paperback,April 1st 1993,Hartorch
+362,2nd Chance,James Patterson,0446696633,(Women's Murder Club #2),4.03,400,84595,2465,Paperback,May 20th 2005,Grand Central Publishing
+360,Live and Let Die,Ian Fleming,0142003239,(James Bond (Original Series) #2),3.63,229,20953,1367,Paperback,May 27th 2003,Penguin Books
+359,Coma,Robin Cook,0316334464,,3.87,384,44655,716,Paperback,September 23rd 2014,Mulholland Books
+361,Body Double,Tess Gerritsen,034545894X,(Rizzoli & Isles #4),4.18,432,41484,1594,Paperback,July 26th 2005,Ballantine Books
+358,Black-Eyed Susans,Julia Heaberlin,0804177996,,3.77,354,24341,3018,Hardcover,August 11th 2015,Ballantine Books
+353,We Need to Talk About Kevin,Lionel Shriver,006112429X,,4.07,400,139987,12782,Paperback,July 3rd 2006,Harper Perennial
+354,The Last Templar,Raymond Khoury,0451219953,(Templar #1),3.60,523,39269,1635,Mass Market Paperback,December 2006,Signet
+352,Lexicon,Max Barry,1594205388,,3.90,390,28037,3861,Hardcover,June 18th 2013,Penguin Press
+357,Cell,Stephen King,1416524517,,3.65,449,175456,5503,Mass Market Paperback,December 2006,Pocket Star Books
+345,No Country for Old Men,Cormac McCarthy,0375706674,,4.13,309,127702,7245,Paperback,July 11th 2006,Vintage
+350,Needful Things,Stephen King,045057458X,,3.90,790,185068,3274,Paperback,1992,Hodder & Stoughton Ltd
+355,Naked in Death,J.D. Robb,0425148297,(In Death #1),4.12,306,149995,5302,Mass Market Paperback,July 1st 1995,Berkley Publishing Group
+351,The King of Torts,John Grisham,0385339658,,3.67,276,70782,1956,Paperback,December 27th 2005,Delta
+356,The Bear and the Dragon,Tom Clancy,0425180964,(John Clark #3),3.82,1137,22787,479,Paperback,August 1st 2001,Berkley Books
+344,The 7½ Deaths of Evelyn Hardcastle,Stuart Turton,1492657964,,3.95,432,49467,9930,Hardcover,September 18th 2018,Sourcebooks Landmark
+341,The Breakdown,B.A. Paris,1250122465,,3.90,328,60588,7929,Hardcover,July 18th 2017,St. Martin's Press
+343,The Sum of All Fears,Tom Clancy,0425184226,(Jack Ryan #6),4.01,928,51306,688,Paperback,May 7th 2002,Berkley
+339,Worth Dying For,Lee Child,0440339340,(Jack Reacher #15),4.22,400,68155,3081,ebook,October 19th 2010,Delacorte Press
+337,Heartsick,Chelsea Cain,0312368461,(Archie Sheridan & Gretchen Lowell #1),3.93,326,33683,2812,Hardcover,September 4th 2007,Minotaur Books
+342,American Assassin,Vince Flynn,141659518X,(Mitch Rapp #1),4.23,435,65103,3258,Hardcover,October 12th 2010,Atria Simon & Schuster
+338,The Enemy,Lee Child,0440241014,(Jack Reacher #8),4.17,464,83116,2492,Paperback,April 26th 2005,Dell Publishing Company
+340,Triptych,Karin Slaughter,0385339461,(Will Trent #1),4.14,393,45423,2428,Hardcover,August 15th 2006,Delacorte Press
+335,The Bourne Ultimatum,Robert Ludlum,0752858491,(Jason Bourne #3),4.05,725,54346,876,Mass Market Paperback,May 6th 2004,Orion
+336,Red Russia,Tanya Thompson,,,4.13,196,1132,59,Kindle Edition,November 11th 2017,Thompson Books
+334,Catching Fire,Suzanne Collins,0439023491,(The Hunger Games #2),4.29,391,2205113,92036,Hardcover,September 1st 2009,Scholastic Press
+333,Without Remorse,Tom Clancy,0425143325,(John Clark #1),4.18,750,56141,1167,Paperback,August 1st 1994,Berkley Books
+332,Rebecca,Daphne du Maurier,0316323705,,4.22,449,390630,19469,ebook,December 17th 2013,"Little, Brown and Company"
+328,State of Fear,Michael Crichton,0061015733,,3.70,672,75958,2978,Mass Market Paperback,November 1st 2005,Avon
+331,Airframe,Michael Crichton,0099556316,,3.70,431,71642,1774,Paperback,2006,Arrow Books
+329,The Silkworm,Robert Galbraith,0316206873,(Cormoran Strike #2),4.04,455,188788,15936,Hardcover,June 24th 2014,Mulholland Books
+326,The Alienist,Caleb Carr,0812976142,(Dr. Laszlo Kreizler #1),4.06,498,130373,6330,Paperback,October 24th 2006,Random House
+325,The Affair,Lee Child,0593065700,(Jack Reacher #16),4.13,427,68151,3765,Hardcover,September 29th 2011,Bantam Press
+322,The Camel Club,David Baldacci,,(Camel Club #1),4.04,606,72028,2608,Paperback,September 1st 2006,Warner Vision
+327,Then She Was Gone,Lisa Jewell,1501154648,,4.05,359,94527,9698,Hardcover,April 17th 2018,Atria Books
+324,Jaws,Peter Benchley,1400064562,(Jaws #1),3.97,320,123543,3028,Hardcover,May 31st 2005,Random House
+323,All the Missing Girls,Megan Miranda,,,3.78,384,96959,9067,Kindle Edition,June 28th 2016,Simon & Schuster
+330,The Lincoln Lawyer,Michael Connelly,,(Mickey Haller #1),4.16,528,176877,5315,Kindle Edition,October 1st 2005,"Little, Brown and Company"
+319,The Dead Zone,Stephen King,0451155750,,3.92,402,156942,3201,Mass Market Paperback,August 1980,Signet/New American Library
+316,Mystic River,Dennis Lehane,0060584750,,4.18,416,112629,3372,Paperback,February 1st 2001,William Morrow Paperbacks
+320,The Cabinet of Curiosities,Douglas Preston,0446611239,(Pendergast #3),4.26,629,37425,2011,Paperback,June 1st 2003,Warner Books
+317,Echo Burning,Lee Child,0515133310,(Jack Reacher #5),4.00,432,60640,2596,Paperback,April 30th 2002,Jove
+314,The Hard Way,Lee Child,0385336691,(Jack Reacher #10),4.16,371,55574,2415,Hardcover,May 16th 2006,Delacorte Press
+315,The Grownup,Gillian Flynn,0804188971,,3.55,64,78697,9634,Hardcover,November 3rd 2015,Crown
+321,The Death of Mrs. Westaway,Ruth Ware,1501156217,,3.82,368,62500,8266,Hardcover,May 29th 2018,Gallery/Scout Press
+313,Watchers,Dean Koontz,,,4.17,624,132422,3377,Paperback,January 28th 2003,Berkley
+312,Child 44,Tom Rob Smith,0446402397,(Leo Demidov #1),4.09,509,65546,5983,Mass Market Paperback,April 1st 2009,Grand Central Publishing
+318,Gone Tomorrow,Lee Child,0593057058,(Jack Reacher #13),4.18,441,78064,2817,Hardcover,April 2009,Transworld Publishers
+310,Without Fail,Lee Child,1590860624,(Jack Reacher #6),4.16,14,75433,2195,Audiobook,May 17th 2002,Brilliance Audio
+308,The Dry,Jane Harper,,(Aaron Falk #1),4.04,352,110733,11192,Kindle Edition,May 31st 2016,Macmillan Australia
+309,The Godfather,Mario Puzo,,(Mario Puzo's Mafia),4.37,448,298513,7350,Paperback,March 1st 2002,NAL
+306,Clear and Present Danger,Tom Clancy,0425144372,(Jack Ryan #5),4.10,688,121190,731,Mass Market Paperback,August 1st 1994,Berkley Pub Group
+311,Persuader,Lee Child,0440241006,(Jack Reacher #7),4.10,496,58390,2502,Mass Market Paperback,March 25th 2008,Dell
+307,Sphere,Michael Crichton,0345418972,,3.79,371,151597,2800,Paperback,June 23rd 1997,Ballantine Books
+305,Running Blind,Lee Child,0515130974,(Jack Reacher #4),4.09,512,69664,2981,Paperback,July 1st 2001,Jove
+302,The Chalk Man,C.J. Tudor,1524760986,,3.71,280,41150,6487,Hardcover,January 9th 2018,Crown Publishing Group (NY)
+301,61 Hours,Lee Child,0385340583,(Jack Reacher #14),4.10,383,63386,3748,Hardcover,May 18th 2010,Delacorte Press
+303,Perfume: The Story of a Murderer,Patrick Süskind,0140120831,,4.02,263,275821,12409,Paperback,1987,Penguin Books
+299,The Hound of the Baskervilles,Arthur Conan Doyle,0451528018,(Sherlock Holmes #5),4.10,256,214457,6869,Mass Market Paperback,July 1st 2001,Signet
+304,The Innocent,David Baldacci,0446572993,(Will Robie #1),4.12,422,75684,4365,Hardcover,April 17th 2012,Grand Central Publishing
+295,The Ice Limit,Douglas Preston,2841873900,(Ice Limit #1),3.99,491,17209,684,,,
+297,The Leopard,Jo Nesbø,,(Harry Hole #8),4.09,634,39058,2793,,January 1st 2009,
+298,The Devil Colony,James Rollins,0061784788,(Sigma Force #7),4.18,480,21285,1115,Hardcover,June 21st 2011,William Morrow
+296,The General's Daughter,Nelson DeMille,0446364800,(Paul Brenner #1),4.09,464,56993,683,Paperback,November 1st 1993,Grand Central Publishing
+293,Lightning,Dean Koontz,0425192032,,4.07,384,51563,1903,Mass Market Paperback,September 2nd 2003,Berkley
+300,Don't Look Back,Jennifer L. Armentrout,1423175123,,4.11,369,25042,3712,Hardcover,April 15th 2014,Disney-Hyperion
+292,The Coffin Dancer,Jeffery Deaver,0671024094,(Lincoln Rhyme #2),4.17,532,41074,987,Paperback,March 1st 1999,Pocket Books
+291,Revival,Stephen King,1476770387,,3.76,405,85910,9875,Hardcover,November 11th 2014,Scribner Book Company
+294,Act of Treason,Vince Flynn,0743270371,(Mitch Rapp #9),4.29,432,40933,925,Hardcover,October 10th 2006,Atria Books
+286,Sworn to Silence,Linda Castillo,0312374976,(Kate Burkholder #1),4.00,321,25904,2930,Hardcover,June 23rd 2009,Minotaur Books
+287,Six Days of the Condor,James Grady,0393086925,(The Condor #1),4.09,192,16941,286,Hardcover,May 1974,W. W. Norton & Company
+288,White Fire,Douglas Preston,1455525839,(Pendergast #13),4.08,368,19194,2010,Hardcover,November 12th 2013,Grand Central Publishing
+290,Hour Game,David Baldacci,0446616494,(Sean King & Michelle Maxwell #2),3.97,611,33462,1548,Paperback,September 1st 2005,Vision
+285,The Racketeer,John Grisham,0385535144,,3.81,340,77703,7450,Hardcover,October 23rd 2012,Doubleday
+283,The Last Town,Blake Crouch,,(Wayward Pines #3),4.10,308,38169,2843,Kindle Edition,July 15th 2014,Thomas & Mercer
+284,Deep Storm,Lincoln Child,0385515502,(Jeremy Logan #1),3.87,370,22755,960,Hardcover,March 15th 2007,Doubleday Books
+289,The Winner,David Baldacci,0446522597,,4.08,528,36327,1594,Hardcover,January 1st 1997,Grand Central Publishing
+282,The Target,David Baldacci,1455521205,(Will Robie #3),4.07,420,36931,2442,Hardcover,April 22nd 2014,Grand Central Publishing
+280,Patient Zero,Jonathan Maberry,0312382855,(Joe Ledger #1),3.99,421,24294,1966,Paperback,March 3rd 2009,St. Martin's Griffin
+279,"Good Me, Bad Me",Ali Land,0718182928,,3.91,338,23200,3318,Hardcover,January 12th 2017,Michael Joseph
+281,Pop Goes the Weasel,James Patterson,0446608815,(Alex Cross #5),4.00,461,54578,1107,Mass Market Paperback,October 1st 2000,TIme Warner Books
+275,The Last Oracle,James Rollins,0061230944,(Sigma Force #5),4.16,448,27583,856,Hardcover,June 24th 2008,William Morrow
+277,Fierce Kingdom,Gin Phillips,0735224277,,3.52,288,15267,2749,Hardcover,July 25th 2017,Viking
+278,Odd Hours,Dean Koontz,0553807056,(Odd Thomas #4),3.94,283,40058,2225,Hardcover,May 23rd 2008,Bantam
+274,Moonraker,Ian Fleming,0142002062,(James Bond (Original Series) #3),3.73,247,17604,1102,Paperback,December 31st 2002,Penguin Books
+276,The Passenger,Lisa Lutz,1451686633,,3.70,304,25326,3574,Hardcover,March 1st 2016,Simon
+273,Dexter in the Dark,Jeff Lindsay,0385518331,(Dexter #3),3.50,307,28015,1782,Hardcover,September 18th 2007,Doubleday Books
+271,Pieces of Her,Karin Slaughter,0062430297,,3.79,496,26147,3143,ebook,August 21st 2018,William Morrow
+270,Kisscut,Karin Slaughter,0060534044,(Grant County #2),4.11,420,29043,1381,Paperback,September 30th 2003,Harper
+269,Separation of Power,Vince Flynn,0671047345,(Mitch Rapp #5),4.32,448,38043,880,Paperback,August 27th 2002,Pocket Books
+266,Psycho,Robert Bloch,0747545251,(Psycho #1),4.10,208,47289,2015,Paperback,January 31st 1999,Bloomsbury Publishing PLC
+265,What She Knew,Gilly Macmillan,0062413864,(Jim Clemo #1),3.88,512,61759,5060,Paperback,December 1st 2015,William Morrow Paperbacks
+272,The Collector,John Fowles,0099470470,,3.99,283,46528,3042,Paperback,October 21st 1998,Vintage
+268,Whiteout,Ken Follett,0451215710,,3.57,469,26159,1427,Paperback,October 25th 2005,Signet
+261,We Were Liars,E. Lockhart,,,3.84,242,387418,43867,Kindle Edition,May 13th 2014,Delacorte Press
+262,The Summons,John Grisham,0385339593,,3.69,384,61952,1860,Paperback,September 27th 2005,Delta
+263,The Rule of Four,Ian Caldwell,0440241359,,3.22,450,30894,2164,Paperback,June 28th 2005,Dell Publishing Company
+258,Memorial Day,Vince Flynn,1416548009,(Mitch Rapp #7),4.31,574,39637,915,Paperback,April 24th 2007,Pocket Books
+260,Every Dead Thing,John Connolly,067102731X,(Charlie Parker #1),4.00,467,19833,1432,Paperback,July 1st 2000,Pocket Books
+257,Bag of Bones,Stephen King,067102423X,,3.89,736,157955,3698,Mass Market Paperback,June 1999,Pocket Books
+264,The Husband,Dean Koontz,0553804790,,3.80,400,41119,1802,Hardcover,May 30th 2006,Bantam
+259,Presumed Innocent,Scott Turow,0446350982,(Kindle County Legal Thriller #1),4.11,421,100592,1344,Mass Market Paperback,1988,Warner Books Inc
+252,Stone Cold,David Baldacci,0446577391,(Camel Club #3),4.13,388,35442,1582,Hardcover,November 6th 2007,Grand Central Publishing
+255,The Gunslinger,Stephen King,,(The Dark Tower #1),3.96,231,458776,17020,Paperback,July 2003,Plume
+253,The Amber Room,Steve Berry,034548343X,,3.85,416,20895,973,Paperback,2004,Ballantine Books
+256,First Family,David Baldacci,0446539759,(Sean King & Michelle Maxwell #4),4.02,449,31442,1902,Hardcover,April 21st 2009,Grand Central Publishing
+254,Sister,Rosamund Lupton,0749942010,,3.77,358,45291,4954,Paperback,September 2nd 2010,Piatkus Books
+249,Jack & Jill,James Patterson,0446692654,(Alex Cross #3),3.96,466,62760,1485,Paperback,August 1st 2003,Grand Central Publishing
+250,Brother Odd,Dean Koontz,0553804804,(Odd Thomas #3),3.98,364,57140,2374,Hardcover,November 28th 2006,Bantam
+248,Split Second,David Baldacci,0446614459,(Sean King & Michelle Maxwell #1),4.00,512,51943,2204,Paperback,September 1st 2004,Vision
+246,The Brethren,John Grisham,0385339674,,3.73,384,80085,1736,Paperback,December 27th 2005,Delta
+247,Cujo,Stephen King,0307348245,,3.70,432,199327,3860,Paperback,June 6th 2006,Plaza y Janés
+244,Dangerous Girls,Abigail Haas,1442486597,,4.11,388,16817,3175,Hardcover,July 16th 2013,Simon Pulse
+243,Dance of Death,Douglas Preston,0446617091,(Pendergast #6),4.17,560,25081,864,Mass Market Paperback,January 1st 2006,Warner Books
+242,Memory Man,David Baldacci,1455559822,(Amos Decker #1),4.07,416,86132,5542,Hardcover,April 21st 2015,Grand Central Publishing
+245,Six Years,Harlan Coben,0525953485,,3.82,351,59280,5371,Hardcover,March 19th 2013,Dutton
+251,Stillhouse Lake,Rachel Caine,,(Stillhouse Lake #1),4.12,301,80492,6393,Kindle Edition,July 1st 2017,Thomas & Mercer
+239,The Hit,David Baldacci,1455521213,(Will Robie #2),4.08,392,46362,2940,Hardcover,April 23rd 2013,Grand Central Publishing
+237,Dearly Devoted Dexter,Jeff Lindsay,1400095921,(Dexter #2),3.84,292,39450,2128,Paperback,September 19th 2006,Vintage Books
+241,The Testament,John Grisham,0440234743,,3.85,535,94897,2679,Paperback,December 28th 1999,Island
+238,Hidden Bodies,Caroline Kepnes,1476785635,(You #2),3.77,442,29673,4213,Paperback,November 1st 2016,Atria/Emily Bestler Books
+240,Black Order,James Rollins,0752876457,(Sigma Force #3),4.15,448,28548,1052,Paperback,December 27th 2006,Orion
+234,Reamde,Neal Stephenson,0061977969,,3.97,1044,45596,4696,Hardcover,September 20th 2011,William Morrow
+235,Battle Royale,Koushun Takami,156931778X,,4.24,617,47861,4502,Paperback,February 26th 2003,"VIZ, LLC"
+236,The Wheel of Darkness,Douglas Preston,0446580287,(Pendergast #8),3.93,388,23176,1142,Hardcover,August 28th 2007,Grand Central Publishing
+233,Velocity,Dean Koontz,0553588257,,3.86,460,54832,1787,Mass Market Paperback,April 25th 2006,Bantam
+230,The Book of the Dead,Douglas Preston,0446576980,(Pendergast #7),4.14,454,28687,1099,Hardcover,August 14th 2006,Warner Books (NY)
+232,The Broker,John Grisham,0385340540,,3.78,422,76749,2644,Paperback,September 26th 2006,Delta
+231,Undone,Karin Slaughter,0385341962,(Will Trent #3),4.24,436,29737,1619,Hardcover,July 14th 2009,Delacorte Press
+229,Gerald's Game,Stephen King,0831727527,,3.50,332,119990,3513,Hardcover,September 1st 1992,Smithmark Publishers
+226,From Russia With Love,Ian Fleming,0142002070,(James Bond (Original Series) #5),3.89,259,25797,1047,Paperback,2002,Penguin Books
+228,No Exit,Taylor  Adams,,,4.08,278,29052,4211,Kindle Edition,June 25th 2017,Joffe Books
+227,Fractured,Karin Slaughter,0385341954,(Will Trent #2),4.17,388,35839,1707,Hardcover,July 29th 2008,Delacorte Press
+224,Luckiest Girl Alive,Jessica Knoll,1476789630,,3.49,352,125573,11181,Hardcover,May 12th 2015,Simon
+225,The Chamber,John Grisham,0385339666,,3.78,632,115439,1532,Paperback,January 2006,Delta Trade Paperbacks
+223,The Apprentice,Tess Gerritsen,0345447867,(Rizzoli & Isles #2),4.14,376,44894,1960,Paperback,2008,Ballantine Books
+220,The Girl Who Loved Tom Gordon,Stephen King,1416524290,,3.58,264,116050,4195,Paperback,November 1st 2005,Pocket Books
+218,'Salem's Lot,Stephen King,0450031063,,4.01,483,291119,8267,Paperback,1991,New English Library
+222,Disclosure,Michael Crichton,0099303744,,3.78,455,65131,885,Paperback,1994,Arrow
+217,No Time for Goodbye,Linwood Barclay,055380555X,(No Time For Goodbye #1),4.01,338,26198,2273,Hardcover,September 25th 2007,Bantam
+219,The Partner,John Grisham,0385339100,,3.91,416,101619,2247,Paperback,April 26th 2005,Delta
+221,Caught,Harlan Coben,052595158X,,3.98,388,45808,3384,Hardcover,March 23rd 2010,Dutton
+215,The Body Farm,Patricia Cornwell,0425201449,(Kay Scarpetta #5),4.05,351,59421,1147,Paperback,December 28th 2004,Berkley
+216,The Kill Artist,Daniel Silva,0451209338,(Gabriel Allon #1),4.00,501,46691,1905,Paperback,April 6th 2004,Signet
+214,The President Is Missing,Bill Clinton,,,3.85,513,64000,7883,Kindle Edition,June 4th 2018,"Little, Brown and Company and Knopf"
+213,Something in the Water,Catherine Steadman,1524797189,,3.62,342,59403,6972,Hardcover,June 5th 2018,Ballantine
+210,Joyland,Stephen King,1781162646,,3.91,283,98388,10756,Paperback,June 4th 2013,Hard Case Crime
+211,Red Sparrow,Jason  Matthews,1476706123,(Red Sparrow Trilogy #1),3.96,431,38079,3752,Hardcover,June 4th 2013,Scribner
+212,The Lovely Bones,Alice Sebold,0316166685,,3.79,372,1841505,39025,Mass Market Paperback,September 1st 2006,"Little, Brown and Company"
+209,Transfer of Power,Vince Flynn,1416516352,(Mitch Rapp #3),4.31,549,40814,1886,Paperback,October 1st 2005,Pocket Books
+206,Verity,Colleen Hoover,,,4.41,333,45291,9473,Kindle Edition,December 7th 2018,"Hoover Ink, Inc."
+205,The Lying Game,Ruth Ware,1501156004,,3.52,370,70586,7055,Hardcover,July 25th 2017,Gallery/Scout Press
+207,Flaggermusmannen,Jo Nesbø,8203180728,(Harry Hole #1),3.54,339,69726,5352,Paperback,July 2nd 2005,Aschehoug
+208,The Hypnotist,Lars Kepler,0374173958,(Joona Linna #1),3.67,503,38857,3542,Hardcover,June 21st 2011,Sarah Crichton Books
+201,The Firm,John Grisham,044021145X,,4.01,501,26650,1169,Mass Market Paperback,November 11th 1999,Dell
+204,Make Me,Lee Child,0593073894,(Jack Reacher #20),3.98,432,50190,4019,Paperback,September 8th 2015,BANTAM PRESS
+202,Zero Day,David Baldacci,0446573019,(John Puller #1),4.00,434,58037,3319,Hardcover,October 31st 2011,Grand Central Publishing
+203,Still Life With Crows,Douglas Preston,0446612766,(Pendergast #4),4.19,564,28579,1418,Mass Market Paperback,July 1st 2004,Grand Central Publishing
+197,The Dark Half,Stephen King,045052468X,,3.76,469,112612,1810,Paperback,October 7th 1990,New English Library
+196,3rd Degree,James Patterson,0446614831,(Women's Murder Club #3),4.02,339,67970,2008,Paperback,January 1st 2005,Grand Central Publishing
+200,The Black Echo,Michael Connelly,0446612731,(Harry Bosch #1),4.10,482,135017,3885,Paperback,December 1st 2002,Grand Central Publishing
+195,The Escape,David Baldacci,1455521191,(John Puller #3),4.16,470,38333,2705,Hardcover,November 18th 2014,Grand Central Publishing
+193,Need to Know,Karen Cleveland,,,3.84,306,18085,3178,Kindle Edition,January 23rd 2018,Ballantine Books
+194,The Female of the Species,Mindy McGinnis,,,4.23,341,21370,4897,Paperback,September 20th 2016,Katherine Tegen Books
+192,Rosemary's Baby,Ira Levin,0451194004,(Rosemary's Baby #1),3.99,308,98201,3015,Hardcover,September 1st 1997,Signet
+191,The Charlemagne Pursuit,Steve Berry,0345485793,(Cotton Malone #4),3.90,528,16595,897,Hardcover,November 18th 2008,Ballantine Books
+190,Hell's Corner,David Baldacci,0230706150,(Camel Club #5),4.12,448,28225,1743,Hardcover,November 9th 2010,MacMillan
+186,The Empty Chair,Jeffery Deaver,0684855631,(Lincoln Rhyme #3),4.07,416,21576,774,Hardcover,May 9th 2000,Simon & Schuster
+187,The Matarese Circle,Robert Ludlum,0752858556,(Matarese Dynasty #1),4.05,544,36160,324,Paperback,August 19th 2004,Orion Publishing Group
+189,Bloodline,James Rollins,0061784796,(Sigma Force #8),4.24,464,17931,1189,Hardcover,June 26th 2012,William Morrow
+188,The Absent One,Jussi Adler-Olsen,0525952896,(Afdeling Q #2),3.86,406,25788,2034,Hardcover,August 21st 2012,Dutton Books
+185,Divergent,Veronica Roth,0062024035,(Divergent #1),4.21,487,2609699,105282,Paperback,February 28th 2012,Katherine Tegen Books
+179,Subterranean,James Rollins,0380792648,,4.02,410,21065,717,Mass Market Paperback,March 1st 2007,HarperCollins
+183,The Fourth Monkey,J.D. Barker,0544968840,(4MK Thriller #1),4.17,404,10169,1932,Hardcover,June 27th 2017,Houghton Mifflin Harcourt
+182,The Maltese Falcon,Dashiell Hammett,0752865331,,3.91,213,77667,4322,Paperback,March 1st 2005,Orion
+184,The Dinner,Herman Koch,,,3.21,306,117323,15859,Kindle Edition,February 12th 2013,Hogarth
+267,La Vérité sur l'affaire Harry Quebert,Joël Dicker,2877068161,(Marcus Goldman #1),4.02,672,65494,7737,Paperback,November 2012,De Fallois / L'Âge d'Homme
+181,Zoo,James Patterson,1846058295,(Zoo #1),3.46,395,36331,4877,Hardcover,September 3rd 2012,Century
+180,The Romanov Prophecy,Steve Berry,0345460065,,3.91,387,19875,1041,Paperback,December 26th 2006,Ballantine Books
+178,Rose Madder,Stephen King,0340640146,,3.69,608,86966,2150,Paperback,1995,Hodder and Stoughton
+176,Seven Deadly Wonders,Matthew Reilly,1416505067,(Jack West Jr #1),4.09,544,21493,1003,Mass Market Paperback,December 26th 2006,Pocket Books
+173,Die Therapie,Sebastian Fitzek,3426633094,,4.18,336,10348,1077,Paperback,January 1st 2006,Droemer/Knaur
+177,A Clean Kill in Tokyo,Barry Eisler,,(John Rain #1),3.96,363,13505,816,Kindle Edition,July 1st 2002,Barry Eisler
+175,Headhunters,Jo Nesbø,0307948684,,3.79,265,26465,2033,Paperback,September 6th 2011,Vintage Crime/Black Lizard
+169,The Naturals,Jennifer Lynn Barnes,1423168232,(The Naturals #1),4.18,308,22914,3204,Hardcover,November 5th 2013,Disney-Hyperion
+168,Missing You,Harlan Coben,0525953493,,3.97,399,39716,3644,Hardcover,March 18th 2014,Dutton
+174,My Sister's Grave,Robert Dugoni,1477825576,(Tracy Crosswhite #1),4.04,416,89965,5290,Paperback,November 1st 2014,Thomas & Mercer
+172,Cruel & Unusual,Patricia Cornwell,0380718340,(Kay Scarpetta #4),4.12,407,94070,844,Mass Market Paperback,May 1994,Avon Books
+171,Two Graves,Douglas Preston,0446554995,(Pendergast #12),4.04,484,18392,1628,Hardcover,December 11th 2012,Grand Central Publishing
+166,A Faint Cold Fear,Karin Slaughter,0060534052,(Grant County #3),4.10,422,28197,1116,Paperback,July 27th 2004,Harper
+170,The Venetian Betrayal,Steve Berry,0345485777,(Cotton Malone #3),3.95,608,22176,899,Hardcover,December 11th 2007,Ballantine Books
+167,Never Let You Go,Chevy Stevens,1250034566,,3.97,406,18488,2428,Hardcover,March 14th 2017,St. Martin's Press
+162,Simple Genius,David Baldacci,0446580341,(Sean King & Michelle Maxwell #3),3.92,420,30862,1615,Hardcover,April 24th 2007,Warner Books
+163,Hold Tight,Harlan Coben,0525950608,,3.94,416,37906,2519,Hardcover,April 15th 2008,Dutton
+158,Thinner,Richard Bachman,0451190750,,3.70,320,156801,2139,Mass Market Paperback,September 1st 1996,Signet
+165,Birdman,Mo Hayder,0440236169,(Jack Caffery #1),3.88,448,14383,1425,Paperback,October 10th 2000,Dell Publishing Company
+159,The Expats,Chris Pavone,0307956350,(Kate Moore #1),3.44,326,27729,3845,Hardcover,March 6th 2012,Crown
+164,The Eight,Katherine Neville,0345366239,(The Eight #1),3.92,598,30953,2477,Paperback,January 14th 1990,Ballantine Books
+155,The Devil's Star,Jo Nesbø,0099478536,(Harry Hole #5),4.04,528,49449,2307,Paperback,July 6th 2006,Vintage
+161,Ice Cold,Tess Gerritsen,034551548X,(Rizzoli & Isles #8),4.16,322,34855,2079,Hardcover,June 29th 2010,Ballantine Books
+160,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,0451528956,,3.80,144,322630,10590,Paperback,September 2nd 2003,Signet Classics
+153,False Memory,Dean Koontz,0553580221,,3.87,751,40599,1152,Paperback,November 28th 2000,Bantam Books
+157,World War Z: An Oral History of the Zombie War,Max Brooks,0307346609,(Zомби),4.01,342,390505,24051,Hardcover,September 12th 2006,Crown
+156,Lethal White,Robert Galbraith,0751572853,(Cormoran Strike #4),4.26,650,72374,7803,Hardcover,September 18th 2018,Sphere
+154,Killman Creek,Rachel Caine,,(Stillhouse Lake #2),4.28,333,27476,2365,Kindle Edition,December 12th 2017,Thomas & Mercer
+152,Divine Justice,David Baldacci,0446195502,(Camel Club #4),4.19,326,44770,1479,Hardcover,November 4th 2008,Grand Central Publishing
+150,The Keeper of Lost Causes,Jussi Adler-Olsen,0525952489,(Afdeling Q #1),3.99,400,55718,4644,Hardcover,August 23rd 2011,Dutton Adult
+148,Firestarter,Stephen King,0451167805,,3.87,416,169454,2534,Paperback,August 1st 1981,Berkley Books
+149,NOS4A2,Joe Hill,0062200577,,4.07,692,80532,9912,Hardcover,April 30th 2013,William Morrow
+146,Big Little Lies,Liane Moriarty,0399587195,,4.26,460,599228,40596,Paperback,February 9th 2017,Berkley Books
+151,Executive Power,Vince Flynn,0743453964,(Mitch Rapp #6),4.33,512,36462,820,Paperback,April 27th 2004,Pocket Star Books
+147,Next,Michael Crichton,0060872985,,3.49,431,61329,2948,Hardcover,November 28th 2006,Harper
+140,Rising Sun,Michael Crichton,0606298231,,3.63,399,44735,887,Hardcover,August 30th 2004,Turtleback Books
+143,Brimstone,Douglas Preston,0446612758,(Pendergast #5),4.14,740,31292,1157,Mass Market Paperback,May 2005,Grand Central Publishing
+145,The Templar Legacy,Steve Berry,0345476166,(Cotton Malone #1),3.82,511,44479,2037,Mass Market Paperback,February 21st 2006,Ballantine Books
+142,Executive Orders,Tom Clancy,0006479758,(Jack Ryan #8),4.07,1273,41890,585,Paperback,January 1st 1998,HarperCollins
+144,Personal,Lee Child,0804178747,(Jack Reacher #19),3.94,353,50639,3614,Hardcover,September 2nd 2014,Delacorte Press
+139,Intensity,Dean Koontz,0553582917,,4.04,436,67330,2738,Paperback,October 31st 2000,Bantam
+141,Debt of Honor,Tom Clancy,0425147584,(Jack Ryan #7),4.05,990,40205,535,Paperback,August 1st 1995,Berkley Books
+138,The Secret History,Donna Tartt,1400031702,,4.09,559,244856,17623,Paperback,April 13th 2004,Vintage
+135,Absolute Power,David Baldacci,0330419641,,4.16,550,85682,1689,Paperback,2003,Pan Publishing
+136,The Likeness,Tana French,0143115626,(Dublin Murder Squad #2),4.06,466,102152,8571,Paperback,May 1st 2009,Penguin Books
+137,The Girl With All the Gifts,M.R. Carey,0356500152,(The Girl With All the Gifts #1),3.94,461,166279,18453,Paperback,June 19th 2014,Orbit
+133,The Talented Mr. Ripley,Patricia Highsmith,0393332144,(Ripley #1),3.94,320,47302,2768,Paperback,June 17th 2008,W. W. Norton
+134,Murder on the Orient Express,Agatha Christie,0007119313,(Hercule Poirot #10),4.16,347,299382,19384,Paperback,June 4th 2007,HarperCollins Publishers
+132,The Passage,Justin Cronin,0345504968,(The Passage #1),4.04,766,169484,18569,Hardcover,June 8th 2010,Ballantine Books
+126,Rainbow Six,Tom Clancy,0425170349,(John Clark #2),4.09,912,43436,1047,Mass Market Paperback,September 1st 1999,Berkley Books
+128,Map of Bones,James Rollins,0060765240,(Sigma Force #2),4.07,523,52643,1529,Mass Market Paperback,April 25th 2006,Avon
+130,The Last Juror,John Grisham,0385339682,,3.86,278,74234,2091,Paperback,April 25th 2006,Delta
+129,Still Missing,Chevy Stevens,0312595670,,3.98,352,58676,6657,Hardcover,July 6th 2010,St. Martin's Press
+125,The Shining Girls,Lauren Beukes,0316216852,,3.50,368,36004,4888,Hardcover,June 4th 2013,Mulholland Books
+127,The Green Mile,Stephen King,0451933028,(The Green Mile #1-6),4.44,592,222157,6294,Paperback,September 1st 1996,Penguin Signet
+131,Orphan X,Gregg Hurwitz,,(Orphan X #1),4.09,367,25015,2925,Kindle Edition,January 19th 2016,Minotaur Books
+123,Déjà Dead,Kathy Reichs,0671011367,(Temperance Brennan #1),3.87,532,120425,3479,Paperback,June 1998,Pocket Books
+124,A Wanted Man,Lee Child,0307749606,(Jack Reacher #17),4.02,15,54376,3732,Audio CD,September 25th 2012,Random House Audio
+119,Postmortem,Patricia Cornwell,0743477154,(Kay Scarpetta #1),4.02,342,194069,2598,Paperback,December 30th 2003,Pocket Books
+121,I See You,Clare Mackintosh,,,3.88,386,47431,5254,Kindle Edition,April 4th 2017,Sphere
+118,The Chemist,Stephenie Meyer,0316387843,,3.71,521,57019,7540,Paperback,July 11th 2017,Back Bay Books
+122,I Hunt Killers,Barry Lyga,0316125849,(I Hunt Killers #1),4.02,359,31059,3785,Hardcover,April 3rd 2012,"Little, Brown and Company"
+117,Doctor Sleep,Stephen King,1476727651,(The Shining #2),4.10,531,143682,15389,Hardcover,September 24th 2013,Scribner
+120,Hannibal Rising,Thomas  Harris,0385339410,(Hannibal Lecter #4),3.48,432,30661,1553,Hardcover,December 5th 2006,Delacorte Press
+111,The Woods,Harlan Coben,0525950125,,4.05,404,60343,3646,Hardcover,April 17th 2007,Dutton Adult
+116,Never Go Back,Lee Child,0385344341,(Jack Reacher #18),4.04,400,52558,3970,Hardcover,September 3rd 2013,Delacorte Press
+115,Sandstorm,James Rollins,0060580674,(Sigma Force #1),3.95,608,39532,1741,Mass Market Paperback,May 1st 2005,HarperCollins Publishers
+113,The Rainmaker,John Grisham,0385339607,,3.93,419,153990,1790,Paperback,September 27th 2005,Delta
+112,The Silent Wife,A.S.A. Harrison,0143123238,,3.30,326,88316,9089,Paperback,June 25th 2013,Penguin Books
+109,Blindsighted,Karin Slaughter,0380820889,(Grant County #1),4.10,418,58824,2663,Paperback,October 1st 2002,Harper
+110,Mockingjay,Suzanne Collins,0439023513,(The Hunger Games #3),4.03,390,2075962,99367,Hardcover,August 24th 2010,Scholastic Press
+114,The Widow,Fiona Barton,1101990260,(Kate Waters #1),3.49,324,73545,7787,Hardcover,February 16th 2016,NAL
+106,The Cardinal of the Kremlin,Tom Clancy,0425116840,(Jack Ryan #4),4.03,547,44405,621,Mass Market Paperback,August 14th 1989,Berkley Publishing Group
+108,Defending Jacob,William Landay,0385344228,,3.98,421,233058,19001,Hardcover,January 31st 2012,Delacorte Press
+107,Nothing to Lose,Lee Child,0385340567,(Jack Reacher #12),3.92,416,46629,2316,Hardcover,June 3rd 2008,Delacorte Press
+105,Red Storm Rising,Tom Clancy,0394298667,,4.16,,65184,1013,Audio Cassette,September 13th 1988,Random House Audio
+103,End of Watch,Stephen King,1501129740,(Bill Hodges Trilogy #3),4.09,432,70822,7120,Hardcover,June 7th 2016,Scribner
+101,Roses are Red,James Patterson,0446605484,(Alex Cross #6),4.04,416,52428,1268,Mass Market Paperback,October 1st 2001,Warner Vision
+104,Reliquary,Douglas Preston,0765354950,(Pendergast #2),4.02,464,35374,1305,Mass Market Paperback,August 1st 2005,Tor Books
+102,1st to Die,James Patterson,0446696617,(Women's Murder Club #1),4.07,424,272254,5823,Paperback,May 20th 2005,Grand Central Publishing
+98,The Wasp Factory,Iain Banks,0684853159,,3.84,192,64787,3818,Paperback,1998,Simon & Schuster (NYC)
+97,Force of Nature,Jane Harper,1250105633,(Aaron Falk #2),3.85,326,47083,5435,Hardcover,February 6th 2018,Flatiron Books
+100,The Last Time I Lied,Riley Sager,,,4.07,384,32490,4872,Kindle Edition,July 3rd 2018,Dutton
+99,The Associate,John Grisham,0385517831,,3.65,373,56485,3811,Hardcover,January 27th 2009,Doubleday Books
+95,Ice Station,Matthew Reilly,0312971230,(Shane Schofield #1),4.12,513,25709,1124,Paperback,September 15th 2000,St. Martin's Press
+96,Gone for Good,Harlan Coben,0440236738,,4.11,432,39331,2085,Paperback,March 4th 2003,Dell Publishing Company
+94,Eeny Meeny,M.J. Arlidge,0451475496,(Helen Grace #1),3.90,395,23544,2993,Paperback,June 2nd 2015,NAL
+91,The Historian,Elizabeth Kostova,,,3.78,704,227729,15381,Kindle Edition,June 1st 2005,
+90,The Girl Who Takes an Eye for an Eye,David Lagercrantz,,(Millennium #5),3.75,347,46443,4344,Kindle Edition,September 7th 2017,MacLehose Press
+89,Thunderhead,Douglas Preston,0446608378,,4.10,531,23724,729,Paperback,June 1st 2000,Grand Central Publishing
+92,The Last Mrs. Parrish,Liv Constantine,0062688162,,3.88,560,64850,6855,Paperback,October 17th 2017,HarperLuxe
+93,The Collectors,David Baldacci,044653109X,(Camel Club #2),4.02,438,37574,1647,Hardcover,October 18th 2006,Warner Books
+88,The Poet,Michael Connelly,0446690457,(Jack McEvoy #1),4.20,510,69253,2402,Paperback,July 1st 2002,Grand Central Publishing
+85,The Girl in 6E,A.R. Torre,,(Deanna Madden #1),3.81,352,15763,2899,Kindle Edition,January 21st 2014,Redhook
+86,Wayward,Blake Crouch,1477808701,(Wayward Pines #2),4.13,298,42474,2522,Paperback,September 17th 2013,Thomas & Mercer
+87,Horns,Joe Hill,0061147958,,3.92,370,90250,8039,Hardcover,March 1st 2010,William Morrow
+84,Room,Emma Donoghue,,,4.05,321,644156,45418,Kindle Edition,September 13th 2010,"Little, Brown and Company"
+81,Amazonia,James Rollins,0060002492,,4.13,510,25839,1008,Mass Market Paperback,March 1st 2002,Avon Books
+83,Forever Odd,Dean Koontz,0553588265,(Odd Thomas #2),3.97,364,65501,2630,Paperback,October 31st 2006,Bantam Books
+82,Different Seasons,Stephen King,0751514624,,4.35,560,157488,3884,Mass Market Paperback,February 16th 1995,Warner Books
+78,Fever Dream,Douglas Preston,0446554960,(Pendergast #10),4.10,405,27499,1497,Hardcover,May 11th 2010,Grand Central Publishing
+79,The Perfect Nanny,Leïla Slimani,,,3.40,228,49298,6109,Paperback,January 9th 2018,Penguin Books
+80,Cold Vengeance,Douglas Preston,,(Pendergast #11),4.10,457,19482,1374,Kindle Edition,August 2nd 2011,Grand Central Publishing
+75,Red Rabbit,Tom Clancy,0399148701,(Jack Ryan #2),3.67,640,23886,616,Hardcover,August 26th 2002,G.P. Putnam's Sons
+73,The Odessa File,Frederick Forsyth,0553271989,,4.12,334,49355,660,Paperback,March 1st 1983,Bantam
+72,The Long Walk,Richard Bachman,0451196716,,4.11,370,98544,5582,Paperback,April 1st 1999,Signet
+77,Heart-Shaped Box,Joe Hill,0061147931,,3.83,376,91890,7719,Hardcover,February 13th 2007,William Morrow
+74,Gorky Park,Martin Cruz Smith,0345298349,(Arkady Renko #1),4.04,433,53731,1024,Paperback,February 12th 1982,Ballantine Books
+76,A Clockwork Orange,Anthony Burgess,0393341763,,3.99,240,535561,12009,Paperback,May 21st 2019,W. W. Norton
+70,The Judas Strain,James Rollins,0060763892,(Sigma Force #4),4.16,464,26430,1165,Hardcover,July 2nd 2007,William Morrow
+71,Reconstructing Amelia,Kimberly McCreight,006222543X,,3.83,382,113395,11112,Hardcover,April 2nd 2013,HarperCollins
+67,The Shadow of the Wind,Carlos Ruiz Zafón,0143034901,(El cementerio de los libros olvidados #1),4.26,487,389787,30447,Paperback,January 25th 2005,Penguin Books
+69,Dolores Claiborne,Stephen King,1101138173,,3.85,384,113657,2427,ebook,December 1st 1993,Signet Book
+68,A Simple Plan,Scott B. Smith,0307279952,,3.91,432,23599,1153,Paperback,October 24th 2006,Vintage
+61,The Lions of Lucerne,Brad Thor,1416543686,(Scot Harvath #1),4.05,512,27577,1373,Paperback,February 27th 2007,Pocket Star Books
+65,Night School,Lee Child,0804192979,(Jack Reacher #21),3.97,14,44749,3392,Audio CD,November 7th 2016,Books on Tape
+64,Dracula,Bram Stoker,0393970124,,3.99,488,817136,21302,Paperback,May 12th 1986,Norton
+66,I Am Not a Serial Killer,Dan Wells,,(John Cleaver #1),3.77,272,27334,3787,Kindle Edition,March 30th 2010,Tor Books
+63,Christine,Stephen King,2253147699,,3.76,411,178456,2835,Paperback,June 13th 2001,LGF
+60,The Ice Twins,S.K. Tremayne,0007563035,,3.66,373,28658,3582,Hardcover,January 29th 2015,Harper Collins
+62,Sadie,Courtney Summers,1250105714,,4.21,308,29302,8034,Hardcover,September 4th 2018,Wednesday Books
+59,You Will Know Me,Megan Abbott,031623107X,,3.43,352,33444,3787,Hardcover,July 26th 2016,Little Brown
+58,The Boys from Brazil,Ira Levin,0394402677,,4.06,312,31442,730,Hardcover,February 12th 1976,Random House
+55,The Girl in the Ice,Robert Bryndza,,(Detective Erika Foster #1),3.95,417,54581,4343,Kindle Edition,February 12th 2016,Bookouture
+53,Fool Me Once,Harlan Coben,0525955097,,3.93,387,66528,5103,Hardcover,March 22nd 2016,Dutton
+56,My Lovely Wife,Samantha  Downing,0451491726,,3.96,374,18647,3266,Hardcover,March 26th 2019,Berkley Books
+57,The Redbreast,Jo Nesbø,184343217X,(Harry Hole #3),3.92,519,75900,3839,Paperback,November 2nd 2009,Harvill Secker
+39,Riptide,Douglas Preston,3426619148,,3.94,528,15372,644,Hardcover,,
+40,Now You See Me,Sharon J. Bolton,0312600526,(Lacey Flint #1),4.04,400,14687,1637,Hardcover,June 7th 2011,Minotaur Books
+38,Doctor No,Ian Fleming,0142002038,(James Bond (Original Series) #6),3.77,309,15837,845,Paperback,August 27th 2002,Penguin Books
+37,Disclaimer,Renée Knight,0857522817,,3.58,304,20980,2757,Hardcover,April 9th 2015,Doubleday
+41,Recursion,Blake Crouch,1524759783,,4.30,336,8282,2034,Hardcover,June 11th 2019,Crown Publishing Group (NY)
+52,Bring Me Back,B.A. Paris,1250151333,,3.48,291,42131,6635,Hardcover,June 19th 2018,St. Martin's Press
+33,Pursuit of Honor,Vince Flynn,1416595163,(Mitch Rapp #12),4.36,431,34516,976,Hardcover,October 13th 2009,Atria Books
+34,Unwind,Neal Shusterman,1416912045,(Unwind Dystology #1),4.18,335,175373,17577,Hardcover,November 6th 2007,Simon & Schuster Books for Young Readers
+32,Sleeping Beauties,Stephen King,150116340X,,3.74,702,46857,5936,Hardcover,September 26th 2017,Scribner
+35,The Marsh King's Daughter,Karen Dionne,0735213003,,3.87,320,14430,2274,Hardcover,June 13th 2017,G.P. Putnam's Sons
+30,The Silent Corner,Dean Koontz,0345545990,(Jane Hawk #1),3.96,434,20015,2373,Hardcover,June 20th 2017,Bantam
+29,The Third Twin,Ken Follett,033034837X,,3.68,640,21742,943,Paperback,October 1st 1997,MacMillan General Books
+54,The Street Lawyer,John Grisham,0385339097,,3.83,384,94809,2237,Paperback,April 26th 2005,Bantam
+27,The Husband's Secret,Liane Moriarty,0399159347,,3.94,396,458724,32893,Hardcover,July 30th 2013,Berkley
+26,Last Man Standing,David Baldacci,0446611778,,4.05,640,43052,829,Paperback,September 1st 2002,Warners Visions Books
+36,Ready Player One,Ernest Cline,030788743X,(Ready Player One #1),4.28,374,723206,80777,Hardcover,August 16th 2011,Crown Publishers
+31,Total Control,David Baldacci,0446604844,,4.08,720,31359,844,Mass Market Paperback,December 1st 1997,Vision
+25,Her Every Fear,Peter  Swanson,0062427040,,3.76,384,16024,2254,ebook,January 10th 2017,William Morrow
+28,Diamonds Are Forever,Ian Fleming,0142002054,(James Bond (Original Series) #4),3.60,230,14666,790,Paperback,2003,Penguin Books
+24,Give Me Your Hand,Megan Abbott,,,3.33,352,12366,1643,Kindle Edition,July 17th 2018,"Little, Brown and Company"
+23,The Son,Jo Nesbø,0385351372,,4.07,407,32153,2652,Hardcover,May 13th 2014,Knopf
+22,If We Were Villains,M.L. Rio,125009528X,,4.08,368,10642,2547,Hardcover,April 11th 2017,Flatiron Books
+19,Don't You Cry,Mary Kubica,0778319059,,3.57,313,34351,3660,Hardcover,May 17th 2016,MIRA
+20,Faithful Place,Tana French,0670021873,(Dublin Murder Squad #3),3.98,400,77794,6845,Hardcover,July 13th 2010,Viking
+15,Nemesis,Jo Nesbø,0061655503,(Harry Hole #4),3.98,480,53207,2511,Paperback,January 1st 2009,Harper
+17,The Big Bad Wolf,James Patterson,0446610224,(Alex Cross #9),3.99,400,44691,1067,Paperback,October 1st 2004,Grand Central Publishing
+13,Tell Me Your Dreams,Sidney Sheldon,0446607207,,3.95,384,41507,1608,Paperback,August 1999,Vision
+21,The Confessor,Daniel Silva,014101587X,(Gabriel Allon #3),4.16,416,20869,952,Paperback,April 1st 2004,Penguin
+18,An Unwanted Guest,Shari Lapena,0525557628,,3.74,290,23716,3383,Hardcover,August 7th 2018,Pamela Dorman Books
+16,Goldfinger,Ian Fleming,0142002046,(James Bond (Original Series) #7),3.81,264,17631,873,Paperback,August 27th 2002,Penguin Books
+10,"Full Dark, No Stars",Stephen King,1439192561,,4.05,368,82144,5936,Hardcover,November 2010,Scribner
+14,Broken,Karin Slaughter,0385341970,(Will Trent #4),4.19,398,32543,1503,Hardcover,June 22nd 2010,Delacorte Press
+12,A Head Full of Ghosts,Paul Tremblay,0062363239,,3.81,286,31798,4824,Hardcover,June 2nd 2015,William Morrow
+6,The Eagle Has Landed,Jack Higgins,0140273344,(Liam Devlin #1),4.16,352,47957,550,Paperback,July 2nd 1998,Penguin
+9,Violets Are Blue,James Patterson,0446611212,(Alex Cross #7),3.96,391,48866,1109,Paperback,October 1st 2002,Grand Central Publishing
+8,Fallen,Karin Slaughter,0345528204,(Will Trent #5),4.23,387,30547,1632,Hardcover,June 21st 2011,Delacorte Press
+7,Bonfire,Krysten Ritter,,,3.52,256,15756,2628,Kindle Edition,November 7th 2017,Three Rivers Press
+11,Past Tense,Lee Child,0399593519,(Jack Reacher #23),4.08,382,32048,3267,Hardcover,November 5th 2018,Delacorte Press
+3,House of Leaves,Mark Z. Danielewski,038560310X,,4.11,705,107665,9636,Paperback,March 7th 2000,Random House
+4,The Sixth Man,David Baldacci,0446573108,(Sean King & Michelle Maxwell #5),4.14,416,38815,1797,Hardcover,April 19th 2011,Grand Central Publishing
+2,The Keepsake,Tess Gerritsen,0345497627,(Rizzoli & Isles #7),4.10,349,30465,1601,Hardcover,August 1st 2008,Ballantine Books
+5,Gideon's Sword,Douglas Preston,044656432X,(Gideon Crew #1),3.60,342,14939,1315,Hardcover,February 22nd 2011,Grand Central Publishing

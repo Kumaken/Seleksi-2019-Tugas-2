@@ -1,0 +1,500 @@
+id,title,author,ISBN,series,avg_rating,pages,rating_count,review_count,book_format,published_year,publisher
+1,Suddenly You,Lisa Kleypas,0061259357,,3.98,384,18780,1094,Mass Market Paperback,November 28th 2006,Avon
+2,Dare You To,Katie McGarry,0373210639,(Pushing the Limits #2),4.17,456,37962,3669,Hardcover,May 28th 2013,Harlequin Teen
+3,From Dead to Worse,Charlaine Harris,0441015891,(Sookie Stackhouse #8),4.01,359,168562,3641,Hardcover,May 6th 2008,Ace
+4,In Bed with a Highlander,Maya Banks,0345519477,(McCabe Trilogy #1),4.03,351,25957,1908,Mass Market Paperback,August 30th 2011,Ballantine Books
+5,"Whitney, My Love",Judith McNaught,1416530711,(Westmoreland Saga #2),4.18,708,28125,1840,Paperback,April 25th 2006,Pocket Books
+6,Reached,Ally Condie,0525423664,(Matched #3),3.56,512,129823,10838,Hardcover,November 13th 2012,Penguin
+7,One Day in December,Josie Silver,0525574689,,4.03,409,72403,8405,Paperback,October 16th 2018,Broadway Books
+8,At Grave's End,Jeaniene Frost,0061583073,(Night Huntress #3),4.31,342,76671,2640,Mass Market Paperback,January 1st 2009,Avon
+9,The Rogue Not Taken,Sarah MacLean,0062379410,(Scandal & Scoundrel #1),3.94,419,13120,1569,Mass Market Paperback,December 29th 2015,Avon
+10,Motorcycle Man,Kristen Ashley,1476248958,(Dream Man #4),4.42,335,49940,3480,ebook,May 22nd 2012,Smashwords
+11,Moon Called,Patricia Briggs,0441013813,(Mercy Thompson #1),4.17,288,156635,7580,Mass Market Paperback,January 31st 2006,Ace Books
+12,Visions of Heat,Nalini Singh,042521575X,(Psy-Changeling #2),4.12,332,29478,1720,Mass Market Paperback,March 6th 2007,Berkley Sensation
+13,Prodigy,Marie Lu,0399256768,(Legend #2),4.28,371,183697,14213,Hardcover,January 29th 2013,Putnam Juvenile
+14,Finding Cinderella,Colleen Hoover,,(Hopeless #2.5),4.27,176,54902,5841,Kindle Edition,October 14th 2013,Atria Books
+15,The Warlord Wants Forever,Kresley Cole,,(Immortals After Dark #1),4.08,163,50573,1936,ebook,November 22nd 2011,Simon & Schuster
+16,The Search,Nora Roberts,0399156577,,4.13,488,44165,2504,Hardcover,July 6th 2010,Putnam Adult
+17,What If It's Us,Becky Albertalli,0062795252,,3.99,437,33799,7241,Hardcover,October 9th 2018,HarperTeen
+18,Wicked Intentions,Elizabeth Hoyt,,(Maiden Lane #1),3.84,401,14100,1463,Kindle Edition,August 1st 2010,Grand Central Publishing
+19,At First Sight,Nicholas Sparks,0446698466,(Jeremy Marsh & Lexie Darnell #2),3.82,204,72211,3457,Paperback,September 5th 2006,Grand Central Publishing
+20,Dream a Little Dream,Susan Elizabeth Phillips,0380794470,(Chicago Stars #4),4.18,400,28602,1109,Paperback,February 1st 1998,Avon
+21,Kings Rising,C.S. Pacat,174348495X,(Captive Prince #3),4.47,385,27667,4097,ebook,February 2nd 2016,Penguin Group Australia
+22,Chain Reaction,Simone Elkeles,0802720870,(Perfect Chemistry #3),4.10,319,57837,2761,Hardcover,August 16th 2011,Bloomsbury USA Childrens
+23,In Flight,R.K. Lilley,,(Up in the Air #1),4.09,330,70013,3307,Kindle Edition,October 20th 2012,R.K. Lilley
+24,Pleasure Unbound,Larissa Ione,044640103X,(Demonica #1),4.06,389,46703,2448,Mass Market Paperback,July 1st 2008,Forever
+25,Northern Lights,Nora Roberts,0515139742,,4.00,637,37237,1146,Mass Market Paperback,September 27th 2005,Jove
+26,The Proposal,Jasmine Guillory,0399587683,(The Wedding Date #2),3.43,325,28404,3841,Paperback,October 30th 2018,Berkley Books
+27,A Wallflower Christmas,Lisa Kleypas,0312533780,(Wallflowers #4.5),3.87,213,16804,1267,Hardcover,October 14th 2008,St. Martin's Press
+28,Redeeming Love,Francine Rivers,1590525132,,4.49,464,186886,10545,Paperback,May 9th 2005,Multnomah
+29,Sweet Dreams,Kristen Ashley,,(Colorado Mountain #2),4.41,562,41687,2762,Kindle Edition,April 23rd 2011,Amazon Digital Services
+30,Stuck-Up Suit,Vi Keeland,,,4.13,245,43339,4268,ebook,April 11th 2016,C. Scott Publishing Corp.
+31,Night Embrace,Sherrilyn Kenyon,,(Dark-Hunter #2),4.25,408,52140,1652,Mass Market Paperback,July 13th 2006,St. Martin's Press
+32,Angels Fall,Nora Roberts,0399153721,,3.99,391,39999,1310,Hardcover,July 11th 2006,Putnam
+33,Lead,Kylie Scott,1250052386,(Stage Dive #3),4.31,305,38907,3451,Paperback,November 25th 2014,St. Martin's Griffin
+34,Nick & Norah's Infinite Playlist,Rachel Cohn,0375835318,,3.72,183,75972,4692,Hardcover,May 23rd 2006,Alfred A. Knopf Books for Young Readers
+35,Come Away with Me,Kristen Proby,,(With Me in Seattle #1),3.92,324,57007,3349,Kindle Edition,November 7th 2012,Kristen Proby Publishing
+36,Eleven Scandals to Start to Win a Duke's Heart,Sarah MacLean,0061852074,(Love By Numbers #3),4.04,370,19512,1343,Mass Market Paperback,April 26th 2011,Avon
+37,It's Not Summer Without You,Jenny Han,1416995552,(Summer #2),4.11,288,98860,4825,Hardcover,April 27th 2010,Simon
+38,Dreamfever,Karen Marie Moning,0385341652,(Fever #4),4.42,386,84634,4617,Hardcover,August 18th 2009,Delacorte Press
+39,The Countess Conspiracy,Courtney Milan,1937248208,(Brothers Sinister #3),3.93,309,8006,1029,ebook,December 16th 2013,Courtney Milan
+40,"I'd Tell You I Love You, But Then I'd Have to Kill You",Ally Carter,1423100034,(Gallagher Girls #1),3.83,284,166843,7169,Hardcover,May 1st 2006,Hyperion Books for Children
+41,The Phantom of the Opera,Gaston Leroux,0060809248,,3.97,360,181880,5663,Paperback,December 30th 1987,Harper Perennial
+42,No Good Duke Goes Unpunished,Sarah MacLean,0062068547,(The Rules of Scoundrels #3),3.89,384,13751,1410,Mass Market Paperback,November 26th 2013,Avon
+43,The Highlander's Touch,Karen Marie Moning,044024417X,(Highlander #3),4.14,356,28598,1144,Paperback,May 29th 2007,Dell Publishing Company
+44,Dance with the Devil,Sherrilyn Kenyon,0312984839,(Dark-Hunter #3),4.39,343,57574,1873,Mass Market Paperback,November 28th 2003,St. Martin's Press
+45,The Wedding,Julie Garwood,0743467213,(Lairds' Fiancées #2),4.18,384,26071,924,Paperback,January 1st 2003,Pocket Books
+46,About That Night,Julie James,0425246957,(FBI/US Attorney #3),4.06,284,21342,1337,Mass Market Paperback,April 3rd 2012,Berkley Sensation
+47,Kiss of Midnight,Lara Adrian,0553589377,(Midnight Breed #1),3.93,402,56832,2788,Mass Market Paperback,May 1st 2007,Dell
+48,Never Judge a Lady by Her Cover,Sarah MacLean,0062068512,(The Rules of Scoundrels #4),3.95,376,12534,1335,Mass Market Paperback,November 25th 2014,Avon
+49,The Immortal Highlander,Karen Marie Moning,0440237564,(Highlander #6),4.34,348,30983,1185,Mass Market Paperback,July 26th 2005,Dell
+50,The Wrath and the Dawn,Renée Ahdieh,0399171614,(The Wrath and the Dawn #1),4.16,404,91999,14958,Hardcover,May 12th 2015,G.P. Putnam's Sons Books for Young Readers
+51,Confess,Colleen Hoover,1501176838,,4.23,320,109482,13329,Paperback,March 28th 2017,Atria Books
+52,Can You Keep a Secret?,Sophie Kinsella,0440241901,,3.84,374,339707,10944,Paperback,December 27th 2005,Dell Publishing Company
+53,Scarlet,Marissa Meyer,0312642962,(The Lunar Chronicles #2),4.29,454,266256,27477,Hardcover,February 5th 2013,Feiwel & Friends
+54,Walking Disaster,Jamie McGuire,1476712980,(Beautiful #2),4.22,448,155905,11627,Paperback,April 2nd 2013,Atria Books
+55,Mine Till Midnight,Lisa Kleypas,0312949804,(The Hathaways #1),4.08,376,53354,2201,Mass Market Paperback,October 2nd 2007,St. Martin's Paperbacks
+56,City of Fallen Angels,Cassandra Clare,1442403543,(The Mortal Instruments #4),4.15,424,428129,21029,Hardcover,April 5th 2011,"Simon & Schuster Children's, Margaret K. McElderry Books"
+57,Playing for Keeps,R.L. Mathewson,0983212546,(Neighbor from Hell  #1),4.06,330,99429,5277,Paperback,April 29th 2011,Rerum Publishing House
+58,P.S. I Love You,Cecelia Ahern,0786890754,,4.01,501,314430,7721,Paperback,January 5th 2005,Hachette Books
+59,Memoirs of a Geisha,Arthur Golden,1400096898,,4.10,503,1575236,28094,Mass Market Paperback,November 22nd 2005,Vintage Books USA
+60,One Day,David Nicholls,0340896965,,3.78,435,267315,16653,Hardcover,January 1st 2009,Hodder and Stoughton
+61,The Viscount Who Loved Me,Julia Quinn,0380815575,(Bridgertons #2),4.19,354,44987,1989,Mass Market Paperback,June 27th 2006,Avon
+62,Entwined with You,Sylvia Day,0425263924,(Crossfire #3),4.19,356,168388,9919,Paperback,June 4th 2013,Berkley
+63,Mansfield Park,Jane Austen,0141439807,,3.85,507,259687,8450,Paperback,2003,Penguin Books
+64,Fallen Too Far,Abbi Glines,,(Rosemary Beach #1),4.19,300,152599,8358,Kindle Edition,December 14th 2012,Abbi Glines
+65,The Edge of Never,J.A. Redmerski,1480095532,(The Edge of Never #1),4.24,426,137154,11068,Paperback,November 15th 2012,Createspace
+66,Clockwork Prince,Cassandra Clare,1416975888,(The Infernal Devices #2),4.45,502,395945,20375,Hardcover,December 6th 2011,"Simon & Schuster, Margaret K. McElderry"
+67,Clockwork Princess,Cassandra Clare,1406321346,(The Infernal Devices #3),4.59,567,290841,26390,Paperback,September 5th 2013,Walker Books Ltd
+68,Lover Revealed,J.R. Ward,0451412354,(Black Dagger Brotherhood #4),4.31,455,114862,4281,Mass Market Paperback,March 6th 2007,Onyx
+69,Pushing the Limits,Katie McGarry,0373210493,(Pushing the Limits #1),4.07,392,108514,7710,Hardcover,July 31st 2012,Harlequin Teen
+70,Gabriel's Inferno,Sylvain Reynard,1936305623,(Gabriel's Inferno  #1),4.01,506,134986,7522,Paperback,April 4th 2011,Omnific Publishing
+71,Isla and the Happily Ever After,Stephanie Perkins,0525425632,(Anna and the French Kiss #3),4.06,339,94671,11326,Hardcover,August 14th 2014,Dutton
+72,Allegiant,Veronica Roth,0007524277,(Divergent #3),3.63,526,744197,64362,Hardcover,October 22nd 2013,HarperCollins Children's Book's
+73,Drums of Autumn,Diana Gabaldon,0525618732,(Outlander #4),4.35,928,179813,7357,Paperback,October 16th 2018,Bantam
+74,The Sun Is Also a Star,Nicola Yoon,0553496689,,4.10,384,122500,18500,Hardcover,November 1st 2016,Delacorte Press
+75,A Court of Wings and Ruin,Sarah J. Maas,1408857901,(A Court of Thorns and Roses #3),4.50,699,166385,20655,Paperback,May 2nd 2017,Bloomsbury Childrens Books
+76,Cress,Marissa Meyer,0312642970,(The Lunar Chronicles #3),4.45,552,234040,23847,Hardcover,February 4th 2014,Feiwel & Friends
+77,The Statistical Probability of Love at First Sight,Jennifer E. Smith,0316122386,,3.78,236,103309,10100,Hardcover,January 2nd 2012,Poppy/Little Brown
+78,Crown of Midnight,Sarah J. Maas,1619630621,(Throne of Glass #2),4.46,418,264950,24834,Hardcover,August 27th 2013,Bloomsbury USA Childrens
+79,Soulless,Gail Carriger,0316056634,(Parasol Protectorate #1),3.91,357,88033,9584,Mass Market Paperback,October 1st 2009,Orbit
+80,Message in a Bottle,Nicholas Sparks,0446676071,,3.96,342,206277,4115,Paperback,December 1st 1999,Warner Books
+81,Romancing Mister Bridgerton,Julia Quinn,0380820846,(Bridgertons #4),4.19,370,40571,1992,Paperback,July 2nd 2002,Avon
+82,Nine Rules to Break When Romancing a Rake,Sarah MacLean,0061852058,(Love By Numbers #1),4.08,397,35045,2739,Mass Market Paperback,March 30th 2010,Avon
+83,Lover Unbound,J.R. Ward,0451222350,(Black Dagger Brotherhood #5),4.33,502,113377,4628,Mass Market Paperback,October 1st 2007,Signet
+84,My Life Next Door,Huntley Fitzpatrick,0803736991,,4.00,394,123132,9084,Hardcover,June 14th 2012,Dial Books For Young Readers
+85,City of Lost Souls,Cassandra Clare,1442416866,(The Mortal Instruments #5),4.29,534,376746,18517,Hardcover,May 8th 2012,Margaret K. McElderry Books
+86,It Happened One Autumn,Lisa Kleypas,0060562498,(Wallflowers #2),4.15,382,39734,1968,Mass Market Paperback,September 27th 2005,Avon
+87,Halfway to the Grave,Jeaniene Frost,0061245089,(Night Huntress #1),4.17,358,126054,6936,Mass Market Paperback,October 30th 2007,Avon
+88,Romancing the Duke,Tessa Dare,0062240196,(Castles Ever After #1),3.91,370,23777,2733,Mass Market Paperback,January 28th 2014,Avon
+89,The Heir,Kiera Cass,,(The Selection #4),3.82,342,169138,16152,Kindle Edition,May 5th 2015,HarperTeen
+90,The Wedding Date,Jasmine Guillory,,(The Wedding Date #1),3.52,320,37060,5698,Kindle Edition,January 30th 2018,Berkley
+91,The Marriage Bargain,Jennifer Probst,1937044963,(Marriage to a Billionaire #1),3.81,160,102200,4147,ebook,February 14th 2012,Entangled Publishing (Indulgence)
+92,Thoughtless,S.C. Stephens,146109111X,(Thoughtless #1),4.11,530,129481,9235,Paperback,June 11th 2011,CreateSpace
+93,Paper Towns,John Green,014241493X,,3.84,305,783215,46378,Paperback,September 22nd 2009,Speak
+94,The Truth About Forever,Sarah Dessen,0142406252,,4.13,374,199054,7973,Paperback,May 11th 2004,Penguin Group Inc.
+95,Bed of Roses,Nora Roberts,0425230074,(Bride Quartet #2),4.12,335,53207,2210,Paperback,November 1st 2009,Berkley Books
+96,I've Got Your Number,Sophie Kinsella,0385342063,,3.94,433,175244,11817,Hardcover,February 14th 2012,The Dial Press
+97,An Offer From a Gentleman,Julia Quinn,,(Bridgertons #3),4.07,390,34195,1902,Mass Market Paperback,October 13th 2009,Avon
+98,Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire Sáenz,1442408928,(Aristotle and Dante Discover the Secrets of the Universe #1),4.34,359,191024,27355,Hardcover,February 21st 2012,Simon & Schuster Books for Young Readers
+99,The Duchess War,Courtney Milan,1937248097,(Brothers Sinister #1),3.83,270,19485,2071,ebook,December 8th 2012,Courtney Milan
+100,Lover Avenged,J.R. Ward,0451225856,(Black Dagger Brotherhood #7),4.38,527,99222,3803,Hardcover,April 28th 2009,NAL
+101,Frostbite,Richelle Mead,,(Vampire Academy #2),4.29,327,289178,10779,Paperback,April 10th 2008,Razorbill
+102,The Raven Boys,Maggie Stiefvater,0545424925,(The Raven Cycle #1),4.06,409,216516,26200,Hardcover,September 18th 2012,Scholastic Press
+103,Dead as a Doornail,Charlaine Harris,0441013333,(Sookie Stackhouse #5),4.01,297,189301,3925,Mass Market Paperback,April 25th 2006,Ace Books
+104,Angelfall,Susan Ee,,(Penryn & the End of Days #1),4.16,288,148191,14998,Kindle Edition,August 28th 2012,Skyscape
+105,Say Yes to the Marquess,Tessa Dare,006224020X,(Castles Ever After #2),3.84,384,11544,1466,Mass Market Paperback,December 30th 2014,Avon
+106,Onyx,Jennifer L. Armentrout,,(Lux #2),4.31,366,133723,9709,Paperback,August 14th 2012,Entangled Teen
+107,Nights in Rodanthe,Nicholas Sparks,0446612707,,3.83,222,145973,4337,Paperback,August 2004,Warner Books
+108,Born in Fire,Nora Roberts,0515114693,(Born In Trilogy #1),4.22,416,64360,1147,Paperback,January 2019,Berkley
+109,Fantasy Lover,Sherrilyn Kenyon,0312979975,(Hunter Legends Series #1),4.17,337,79904,3453,Mass Market Paperback,February 18th 2002,St. Martin's Press
+110,The Mistake,Elle Kennedy,151166066X,(Off-Campus #2),4.13,296,55848,4889,Paperback,May 6th 2015,Createspace Independent Publishing Platform
+111,The Gentleman's Guide to Vice and Virtue,Mackenzi Lee,0062382802,(Montague Siblings #1),4.15,513,59363,12247,Hardcover,June 27th 2017,Katherine Tegen Books
+112,Living Dead in Dallas,Charlaine Harris,1841493007,(Sookie Stackhouse #2),3.98,291,220538,6735,Mass Market Paperback,April 1st 2004,Orbit
+113,On the Island,Tracey Garvis Graves,1405910216,(On the Island #1),4.13,346,70365,8575,Paperback,August 16th 2012,Penguin
+114,The Fiery Cross,Diana Gabaldon,0440221668,(Outlander #5),4.27,1443,145387,6213,Mass Market Paperback,August 30th 2005,Dell
+115,"Always and Forever, Lara Jean",Jenny Han,1481430483,(To All the Boys I've Loved Before #3),4.16,325,94974,12851,Hardcover,May 2nd 2017,Simon
+116,Naked in Death,J.D. Robb,0425148297,(In Death #1),4.12,306,149995,5302,Mass Market Paperback,July 1st 1995,Berkley Publishing Group
+117,The Coincidence of Callie & Kayden,Jessica Sorensen,,(The Coincidence #1),4.19,283,106330,6343,Kindle Edition,December 13th 2012,
+118,The Duchess Deal,Tessa Dare,,(Girl Meets Duke #1),4.05,389,17581,2681,Kindle Edition,August 22nd 2017,Avon
+119,Jewels of the Sun,Nora Roberts,0515126772,(Gallaghers of Ardmore #1),4.22,347,57158,1216,Mass Market Paperback,November 1st 1999,Jove
+120,The Choice,Nicholas Sparks,,,3.99,325,143472,7340,Kindle Edition,September 24th 2007,Grand Central Publishing
+121,Spirit Bound,Richelle Mead,1595142509,(Vampire Academy #5),4.36,489,248151,8565,Hardcover,May 18th 2010,Penguin Razorbill
+122,Anna Karenina,Leo Tolstoy,,,4.04,964,574662,21110,Paperback,October 16th 2012,Vintage
+123,The Unbecoming of Mara Dyer,Michelle Hodkin,,(Mara Dyer #1),4.07,456,143002,15437,Kindle Edition,September 27th 2011,Simon & Schuster Books for Young Readers
+124,Angels' Blood,Nalini Singh,0425226921,(Guild Hunter #1),4.11,339,68040,4234,Mass Market Paperback,March 3rd 2009,Berkley Sensation
+125,Just Like Heaven,Julia Quinn,006149190X,(Smythe-Smith Quartet #1),3.94,374,31078,1992,Mass Market Paperback,May 31st 2011,Avon Harper Collins
+126,This Lullaby,Sarah Dessen,0142501557,,4.03,345,165142,4948,Paperback,March 8th 2004,Speak
+127,Seduce Me at Sunrise,Lisa Kleypas,0312949812,(The Hathaways #2),4.10,360,28049,1580,Mass Market Paperback,September 30th 2008,St. Martin's Paperbacks
+128,Lover Mine,J.R. Ward,0451229851,(Black Dagger Brotherhood #8),4.41,528,97609,4105,Hardcover,April 27th 2010,NAL
+129,Linger,Maggie Stiefvater,0545123283,(The Wolves of Mercy Falls  #2),3.91,362,142383,9274,Hardcover,July 13th 2010,Scholastic Press
+130,Last Sacrifice,Richelle Mead,1595143068,(Vampire Academy #6),4.40,594,243703,10842,Hardcover,December 7th 2010,Razorbill
+131,City of Heavenly Fire,Cassandra Clare,1481426303,(The Mortal Instruments #6),4.47,725,248425,21758,Hardcover,May 27th 2014,Margaret K. McElderry Books
+132,The Iron King,Julie Kagawa,0373210086,(The Iron Fey #1),3.91,363,176291,11283,Paperback,January 19th 2010,Harlequin Teen
+133,The Bride Test,Helen Hoang,0451490827,(The Kiss Quotient #2),4.05,296,18861,3664,Paperback,May 7th 2019,Berkley
+134,The Rescue,Nicholas Sparks,0446696129,,4.10,352,160027,3607,Paperback,April 1st 2005,Grand Central Publishing
+135,Just One Day,Gayle Forman,0142422959,(Just One Day #1),4.01,369,73308,7864,Paperback,August 20th 2013,Speak
+136,Never Too Far,Abbi Glines,1301627445,(Rosemary Beach #2),4.20,193,108648,6087,ebook,February 25th 2013,Smashwords
+137,The Guardian,Nicholas Sparks,0446696110,,4.15,400,153460,4751,Paperback,April 1st 2005,Grand Central Publishing
+138,The Madness of Lord Ian Mackenzie,Jennifer Ashley,0843960434,(Mackenzies & McBrides #1),4.06,320,25887,2282,Mass Market Paperback,May 1st 2009,Leisure Books
+139,The Sea of Tranquility,Katja Millay,,,4.32,426,74793,9369,Kindle Edition,November 13th 2012,Atria Books
+140,Tempt Me at Twilight,Lisa Kleypas,0312949820,(The Hathaways #3),4.18,373,29794,1583,Mass Market Paperback,September 22nd 2009,St. Martin's Paperbacks
+141,The Best of Me,Nicholas Sparks,0446547654,,3.92,292,133167,10080,Hardcover,October 11th 2011,Grand Central Publishing
+142,Crossed,Ally Condie,0142421715,(Matched #2),3.52,367,196005,14759,Paperback,March 12th 2013,Speak
+143,Lord of Scoundrels,Loretta Chase,0380776162,(Scoundrels #3),4.11,375,25370,1997,Mass Market Paperback,January 1995,Avon Books
+144,Confessions of a Shopaholic,Sophie Kinsella,0440241413,(Shopaholic #1),3.63,368,598544,11803,Paperback,November 4th 2003,Dell Publishing Company
+145,Crescendo,Becca Fitzpatrick,1416989439,"(Hush, Hush #2)",4.06,432,255113,10654,Hardcover,October 19th 2010,Simon & Schuster Books for Young Readers
+146,Love in the Afternoon,Lisa Kleypas,0312605390,(The Hathaways #5),4.21,332,32197,1782,Mass Market Paperback,June 29th 2010,St. Martin's
+147,It's in His Kiss,Julia Quinn,006053124X,(Bridgertons #7),4.03,384,25918,1149,Mass Market Paperback,June 28th 2005,Avon Books
+148,Blue Dahlia,Nora Roberts,0749935332,(In the Garden #1),4.12,372,64217,1375,Mass Market Paperback,December 2nd 2004,Piatkus
+149,When a Scot Ties the Knot,Tessa Dare,0062349031,(Castles Ever After #3),3.97,384,15649,2208,ebook,August 25th 2015,Avon
+150,"Love, Rosie",Cecelia Ahern,0786891084,,3.94,512,92513,9003,Paperback,December 1st 2006,Hachette Books
+151,Sea Swept,Nora Roberts,0515121843,(Chesapeake Bay Saga #1),4.24,330,53728,1146,Mass Market Paperback,January 1st 1998,Berkley Books
+152,The Distance Between Us,Kasie West,0062235656,,3.94,320,57069,6691,Paperback,July 2nd 2013,HarperTeen
+153,The Song of Achilles,Madeline Miller,1408816032,,4.32,352,130662,17313,Hardcover,September 20th 2011,Bloomsbury Publishing
+154,Just the Sexiest Man Alive,Julie James,0425224201,,3.93,296,40749,2104,Mass Market Paperback,October 1st 2008,Berkley Sensation
+155,Every Day,David Levithan,0307931889,(Every Day #1),3.96,322,177559,19596,Hardcover,August 28th 2012,Knopf Books for Young Readers
+156,The Winner's Curse,Marie Rutkoski,0374384681,(The Winner's Trilogy #1),4.01,355,81873,11462,ebook,March 4th 2014,Farrar Straus Giroux
+157,Carry On,Rainbow Rowell,1250135028,(Simon Snow #1),4.23,522,142679,21112,Paperback,May 9th 2017,Wednesday Books
+158,Rebecca,Daphne du Maurier,0316323705,,4.22,449,390630,19469,ebook,December 17th 2013,"Little, Brown and Company"
+159,Something About You,Julie James,0425233383,(FBI/US Attorney #1),3.94,307,53979,2356,Mass Market Paperback,March 2nd 2010,Berkley Sensation
+160,A Rogue by Any Other Name,Sarah MacLean,0062068520,(The Rules of Scoundrels #1),3.94,386,29037,2351,Mass Market Paperback,February 28th 2012,Avon
+161,Shadow and Bone,Leigh Bardugo,,(The Shadow and Bone Trilogy #1),4.04,358,222019,25596,Hardcover,June 5th 2012,Henry Holt and Company
+162,It Had to Be You,Susan Elizabeth Phillips,0380776839,(Chicago Stars #1),4.03,376,55103,2092,Mass Market Paperback,March 5th 2002,Avon
+163,Beyond the Highland Mist,Karen Marie Moning,0440244161,(Highlander #1),3.98,375,61160,2880,Mass Market Paperback,May 29th 2007,Dell
+164,Archer's Voice,Mia Sheridan,1538727374,,4.42,345,72353,8795,ebook,November 1st 2016,Forever
+165,Savor the Moment,Nora Roberts,1423368886,(Bride Quartet #3),4.14,325,48199,1984,Audiobook,April 27th 2010,Brilliance Audio
+166,Landline,Rainbow Rowell,1250049377,,3.55,310,142552,17684,Hardcover,July 8th 2014,St. Martin's Press
+167,Lover Enshrined,J.R. Ward,0451222725,(Black Dagger Brotherhood #6),4.13,534,100143,4038,Mass Market Paperback,June 3rd 2008,Signet
+168,Point of Retreat,Colleen Hoover,,(Slammed #2),4.28,320,134769,8590,Kindle Edition,August 10th 2012,Simon & Schuster UK
+169,Red Queen,Victoria Aveyard,0062310631,(Red Queen #1),4.06,383,447410,39206,Hardcover,February 10th 2015,HarperTeen
+170,Legend,Marie Lu,,(Legend #1),4.18,305,371854,26573,Hardcover,November 29th 2011,Putnam Juvenile
+171,Shadow Kiss,Richelle Mead,1595141979,(Vampire Academy #3),4.37,443,308539,10783,Paperback,November 13th 2008,Razorbill
+172,Winter,Marissa Meyer,0312642989,(The Lunar Chronicles #4),4.48,827,156544,21811,Hardcover,November 10th 2015,Feiwel & Friends
+173,Just Listen,Sarah Dessen,0670061050,,4.06,371,221951,7852,Hardcover,April 6th 2006,Viking Books for Young Readers
+174,The Next Always,Nora Roberts,1455806854,(Inn BoonsBoro Trilogy #1),4.11,352,69857,3681,Audio CD,November 1st 2011,Brilliance Audio
+175,Cruel Beauty,Rosamund Hodge,0062224735,(Myth Crossover),3.72,352,62066,9140,Hardcover,January 28th 2014,Balzer + Bray
+176,Happy Ever After,Nora Roberts,1423368991,(Bride Quartet #4),4.17,333,50038,2200,Audio CD,November 2nd 2010,Brilliance Audio
+177,Darkfever,Karen Marie Moning,0385339151,(Fever #1),4.11,309,140802,9764,Hardcover,October 31st 2006,Delacorte Press
+178,Slave to Sensation,Nalini Singh,,(Psy-Changeling #1),4.12,334,55051,3445,Mass Market Paperback,September 5th 2006,Berkley Sensation
+179,Lick,Kylie Scott,1743342373,(Stage Dive #1),4.13,286,71795,5864,ebook,July 1st 2013,Momentum
+180,All the Bright Places,Jennifer Niven,0385755880,,4.18,378,222414,27468,Hardcover,January 6th 2015,Knopf
+181,The DUFF: Designated Ugly Fat Friend,Kody Keplinger,0316084239,,3.84,280,167825,11851,Hardcover,September 7th 2010,Little Brown/Poppy
+182,Scandal in Spring,Lisa Kleypas,0060562536,(Wallflowers #4),4.03,374,32748,1604,Mass Market Paperback,July 25th 2006,Avon
+183,Something Borrowed,Emily Giffin,031232118X,(Darcy & Rachel #1),3.84,322,474675,12141,Hardcover,June 1st 2004,St. Martin's Press
+184,When Dimple Met Rishi,Sandhya Menon,1481478680,(Dimple and Rishi #1),3.73,380,34313,8064,Hardcover,May 30th 2017,Simon Pulse
+185,After You,Jojo Moyes,0143108867,(Me Before You #2),3.72,352,247280,21005,Paperback,July 19th 2016,Penguin Books
+186,The Summer I Turned Pretty,Jenny Han,1416968237,(Summer #1),3.94,276,131240,9926,Hardcover,May 5th 2009,Simon
+187,Beastly,Alex Flinn,0060874163,(Kendra Chronicles #1),3.84,304,164766,8932,Hardcover,October 2nd 2007,HarperTeen
+188,The Wedding,Nicholas Sparks,0446615862,(The Notebook #2),3.98,276,132845,5872,Paperback,August 1st 2005,Vision
+189,Blood Promise,Richelle Mead,1595141987,(Vampire Academy #4),4.34,503,260805,9375,Hardcover,August 25th 2009,Penguin Razorbill
+190,An Abundance of Katherines,John Green,0525476881,,3.60,229,404309,22873,Hardcover,September 21st 2006,Dutton Books for Young Readers
+191,The Bride,Julie Garwood,0743452925,(Lairds' Fiancées #1),4.26,352,50705,2076,Hardcover,May 21st 2002,Atria Books
+192,Crazy Rich Asians,Kevin Kwan,0385536976,(Crazy Rich Asians #1),3.84,403,242859,24146,Hardcover,June 11th 2013,Doubleday
+193,Along for the Ride,Sarah Dessen,0670011940,,4.07,383,178094,6700,Hardcover,June 16th 2009,Viking Books for Young Readers
+194,Paper Princess,Erin Watt,,(The Royals #1),4.03,370,67760,7932,Kindle Edition,April 4th 2016,Timeout LLC
+195,The Wall of Winnipeg and Me,Mariana Zapata,,,4.34,673,49571,5300,Kindle Edition,February 28th 2016,
+196,Bully,Penelope Douglas,,(Fall Away #1),4.12,333,85540,6315,ebook,February 18th 2014,Intermix (Penguin Group (USA) LLC)
+197,"To Sir Phillip, With Love",Julia Quinn,0380820854,(Bridgertons #5),3.89,372,28212,1300,Paperback,August 25th 2009,Avon
+198,When He Was Wicked,Julia Quinn,0060531231,(Bridgertons #6),4.03,368,29661,1385,Mass Market Paperback,June 29th 2004,Avon
+199,November 9,Colleen Hoover,1501110349,,4.36,310,82501,12973,Paperback,November 10th 2015,Atria Books
+200,Austenland,Shannon Hale,1596912855,(Austenland #1),3.54,197,77029,10862,Hardcover,May 29th 2007,Bloomsbury Publishing PLC
+201,Neanderthal Seeks Human,Penny Reid,,(Knitting in the City #1),3.94,404,42351,4315,Kindle Edition,July 1st 2019,Cipher-Naught
+202,Dance Upon the Air,Nora Roberts,0749932775,(Three Sisters Island #1),4.20,400,59977,1691,Paperback,August 2nd 2001,Piatkus
+203,Poison Study,Maria V. Snyder,0778324338,(Poison Study #1),4.15,409,126018,10873,Paperback,March 1st 2007,Mira
+204,The Darkest Night,Gena Showalter,0373772467,(Lords of the Underworld #1),4.08,379,71705,3218,Mass Market Paperback,May 3rd 2008,Harlequin
+205,Under the Never Sky,Veronica Rossi,1907411054,(Under the Never Sky #1),4.00,374,103232,8777,Paperback,February 7th 2012,Atom
+206,A Bend in the Road,Nicholas Sparks,0446696137,,4.03,341,131841,3742,Paperback,April 1st 2005,Grand Central Publishing
+207,Rule,Jay Crownover,,(Marked Men #1),4.15,369,89168,5654,Kindle Edition,December 30th 2012,Jay Crownover Books
+208,Kiss an Angel,Susan Elizabeth Phillips,0380782332,,4.21,384,40950,2742,Paperback,February 1st 1996,Avon
+209,These Broken Stars,Amie Kaufman,1423171020,(Starbound #1),3.92,384,55543,7981,Hardcover,December 10th 2013,Disney Hyperion
+210,Night Pleasures,Sherrilyn Kenyon,0312593554,(Dark-Hunter #1),4.22,309,67235,2666,Hardcover,September 15th 2009,St. Martin's Press
+211,The Secret Diaries of Miss Miranda Cheever,Julia Quinn,0061230839,(Bevelstoke #1),3.92,373,29429,1359,Paperback,June 26th 2007,Avon
+212,Dead to the World,Charlaine Harris,0441012183,(Sookie Stackhouse #4),4.14,291,230152,5556,Mass Market Paperback,April 1st 2005,Ace Books
+213,Evermore,Alyson Noel,031253275X,(The Immortals #1),3.59,301,249313,9565,Paperback,February 3rd 2009,Griffin
+214,Atonement,Ian McEwan,038572179X,,3.89,351,404822,16151,Paperback,March 2003,Anchor Books
+215,Stardust,Neil Gaiman,0061142026,,4.08,248,314822,16353,Paperback,August 29th 2006,Harper Perennial
+216,Mystery Man,Kristen Ashley,,(Dream Man #1),4.24,494,62724,4250,Kindle Edition,July 11th 2011,
+217,Club Dead,Charlaine Harris,1841493015,(Sookie Stackhouse #3),4.03,274,206647,5326,Mass Market Paperback,May 6th 2006,Orbit
+218,One Good Earl Deserves a Lover,Sarah MacLean,0062068539,(The Rules of Scoundrels #2),4.05,373,20068,1895,Mass Market Paperback,January 29th 2013,Avon
+219,Rules of Attraction,Simone Elkeles,0802720854,(Perfect Chemistry #2),4.21,336,77228,3810,Paperback,April 13th 2010,Walker Books
+220,A Hunger Like No Other,Kresley Cole,1416509879,(Immortals After Dark #2),4.20,356,59679,3011,Mass Market Paperback,April 1st 2006,Pocket Star
+221,"Red, White & Royal Blue",Casey McQuiston,1250316774,,4.48,423,16267,5219,Paperback,May 14th 2019,St. Martin's Griffin
+222,When Beauty Tamed the Beast,Eloisa James,0062021273,(Fairy Tales #2),4.06,372,20919,1853,Mass Market Paperback,January 25th 2011,Avon
+223,Grave Mercy,Robin LaFevers,054762834X,(His Fair Assassin #1),3.91,549,86956,8482,Hardcover,April 3rd 2012,Houghton Mifflin Harcourt
+224,Amy & Roger's Epic Detour,Morgan Matson,1416990658,,4.01,344,81730,8231,Hardcover,May 4th 2010,Simon
+225,I'll Give You the Sun,Jandy Nelson,0803734964,,4.13,371,217383,21198,Hardcover,September 16th 2014,Dial Books
+226,Ten Tiny Breaths,K.A. Tucker,0991686004,(Ten Tiny Breaths #1),4.14,262,65982,5395,Paperback,December 11th 2012,Papoti Books
+227,Josh and Hazel's Guide to Not Dating,Christina Lauren,1501165852,,4.12,309,23422,4330,Paperback,September 4th 2018,Gallery Books
+228,A Kingdom of Dreams,Judith McNaught,0743474155,(Westmoreland Saga #1),4.24,438,40591,1751,Mass Market Paperback,July 1st 2003,Pocket Books
+229,Nobody's Baby But Mine,Susan Elizabeth Phillips,0380782340,(Chicago Stars #3),4.06,374,32848,1662,Mass Market Paperback,February 1st 1997,Avon Books
+230,The Crown,Kiera Cass,0062392174,(The Selection #5),3.79,278,111388,11831,Hardcover,May 3rd 2016,HarperTeen
+231,Sugar Daddy,Lisa Kleypas,0312351623,(Travises #1),4.01,371,36620,1981,Hardcover,March 6th 2007,St. Martin's Press
+232,Unravel Me,Tahereh Mafi,0062085530,(Shatter Me #2),4.26,461,146907,14051,Hardcover,February 5th 2013,HarperCollins
+233,The Bronze Horseman,Paullina Simons,,(The Bronze Horseman #1),4.32,912,58235,7006,Kindle Edition,March 17th 2009,HarperCollins e-books
+234,The Score,Elle Kennedy,,(Off-Campus #3),4.26,361,47420,4659,Kindle Edition,January 11th 2016,Elle Kennedy
+235,Lover Unleashed,J.R. Ward,0451233166,(Black Dagger Brotherhood #9),4.29,512,79570,3979,Hardcover,March 29th 2011,NAL
+236,A Week to Be Wicked,Tessa Dare,0062049879,(Spindle Cove #2),4.12,356,20425,1806,Mass Market Paperback,March 27th 2012,Avon
+237,Queen of Shadows,Sarah J. Maas,1619636042,(Throne of Glass #4),4.58,648,181370,18708,Hardcover,September 1st 2015,Bloomsbury USA Childrens
+238,Real,Katy Evans,1301347949,(Real #1),4.20,293,95627,7242,ebook,April 8th 2013,Smashwords
+239,Dreaming of You,Lisa Kleypas,038077352X,(The Gamblers of Craven's #2),4.20,373,30476,1454,Mass Market Paperback,June 30th 2015,Avon
+240,Days of Blood & Starlight,Laini Taylor,0316133973,(Daughter of Smoke & Bone #2),4.19,517,123487,12550,Hardcover,November 6th 2012,"Little, Brown Books for Young Readers"
+241,A Breath of Snow and Ashes,Diana Gabaldon,0385340397,(Outlander #6),4.44,980,123056,4830,Paperback,August 29th 2006,Delta
+242,The Undomestic Goddess,Sophie Kinsella,0385338694,,3.83,404,238480,7645,Paperback,April 25th 2006,Dial Press Trade Paperback
+243,Little Women,Louisa May Alcott,0451529308,(Little Women #1),4.06,449,1468044,19849,Paperback,April 6th 2004,Signet Classics
+244,The Gamble,Kristen Ashley,,(Colorado Mountain #1),4.28,629,51313,3628,Kindle Edition,April 18th 2011,"Amazon Digital Services, Inc."
+245,Match Me If You Can,Susan Elizabeth Phillips,0060734566,(Chicago Stars #6),4.13,388,39585,1656,Mass Market Paperback,August 2006,AVON Books
+246,An Ember in the Ashes,Sabaa Tahir,,(An Ember in the Ashes #1),4.31,446,144221,19686,Paperback,February 9th 2016,Razorbill
+247,The Last Boyfriend,Nora Roberts,1455806935,(Inn BoonsBoro Trilogy #2),4.07,11,39172,2276,Audio CD,May 1st 2012,Brilliance Audio
+248,On the Way to the Wedding,Julia Quinn,0060531258,(Bridgertons #8),3.84,371,21077,1079,Mass Market Paperback,June 27th 2006,Avon
+249,Opal,Jennifer L. Armentrout,1620610094,(Lux #3),4.32,394,112174,8844,Paperback,December 11th 2012,Entangled Teen
+250,The Secret,Julie Garwood,0671744216,(Highlands' Lairds #1),4.26,379,39453,1463,Mass Market Paperback,May 1st 1992,Pocket Books
+251,Key of Light,Nora Roberts,051513628X,(Key Trilogy #1),4.17,334,53436,992,Mass Market Paperback,October 28th 2003,Jove
+252,99 Percent Mine,Sally  Thorne,0062439626,,3.50,368,19188,3700,ebook,January 29th 2019,William Morrow Paperbacks
+253,Remember Me?,Sophie Kinsella,0593053893,,3.77,352,205307,7458,Hardcover,2008,Bantam
+254,Dark Witch,Nora Roberts,0425259854,(The Cousins O'Dwyer Trilogy #1),3.93,342,49874,4054,Paperback,October 29th 2013,Berkley
+255,Lock and Key,Sarah Dessen,067001088X,,4.01,432,134887,5327,Hardcover,April 22nd 2008,Viking's Children's Books
+256,Dragon Bound,Thea Harrison,0425241505,(Elder Races #1),4.11,312,38132,2840,Mass Market Paperback,May 3rd 2011,Berkley Sensation
+257,Rising Tides,Nora Roberts,051512317X,(Chesapeake Bay Saga #2),4.17,330,27911,661,Mass Market Paperback,August 1st 1998,Jove
+258,The Witness,Nora Roberts,0399159371,,4.20,757,58918,4557,Paperback,April 17th 2012,G.P. Putnam's Sons
+259,Red Lily,Nora Roberts,0515139408,(In the Garden #3),4.08,351,33434,856,Mass Market Paperback,December 1st 2005,Berkley Books
+260,Call Me By Your Name,André Aciman,1786495252,(Call Me By Your Name  #1),4.28,248,116073,13807,Paperback,September 21st 2017,Atlantic Books
+261,A Kiss at Midnight,Eloisa James,0061626848,(Fairy Tales #1),3.81,370,15035,1415,Mass Market Paperback,July 27th 2010,Avon
+262,Morrigan's Cross,Nora Roberts,0515141658,(Circle Trilogy #1),4.14,321,47888,1376,Mass Market Paperback,August 29th 2006,Jove
+263,Inner Harbor,Nora Roberts,0515124214,(Chesapeake Bay Saga #3),4.17,324,28168,626,Mass Market Paperback,January 1st 1999,Berkley Books
+264,Caraval,Stephanie Garber,1250095255,(Caraval #1),3.95,407,100017,17835,Hardcover,January 31st 2017,Flatiron Books
+265,Once Burned,Jeaniene Frost,006178320X,(Night Prince #1),4.23,346,53846,3820,Mass Market Paperback,June 26th 2012,Avon
+266,Heart of the Sea,Nora Roberts,0515128554,(Gallaghers of Ardmore #3),4.15,369,26354,611,Mass Market Paperback,December 5th 2000,Berkley Books
+267,Captivated by You,Sylvia Day,0425273865,(Crossfire #4),4.09,356,81760,5480,Paperback,November 18th 2014,Berkley
+268,True Believer,Nicholas Sparks,044669651X,(Jeremy Marsh & Lexie Darnell #1),3.80,465,72986,2831,Paperback,April 11th 2006,Grand Central Publishing
+269,Kulti,Mariana Zapata,,,4.35,570,32218,3538,Kindle Edition,March 20th 2015,
+270,Shadow of Night,Deborah Harkness,0670023485,(All Souls Trilogy #2),4.07,584,143681,13963,Hardcover,July 10th 2012,Viking Adult
+271,Kiss of the Highlander,Karen Marie Moning,044023655X,(Highlander #4),4.31,396,37524,1593,Mass Market Paperback,September 4th 2001,Dell
+272,Born in Shame,Nora Roberts,051511779X,(Born In Trilogy #3),4.09,384,28781,678,Mass Market Paperback,January 1st 1996,Jove
+273,The Thorn Birds,Colleen McCullough,,,4.23,692,293503,5336,Mass Market Paperback,2002,Avon Books
+274,What Happens in London,Julia Quinn,0061491888,(Bevelstoke #2),3.99,372,16976,1218,Paperback,June 30th 2009,Avon
+275,Again the Magic,Lisa Kleypas,0380811081,(Wallflowers 0.5),4.05,391,29344,1434,Mass Market Paperback,May 26th 2015,Avon
+276,Forever,Maggie Stiefvater,0545259088,(The Wolves of Mercy Falls  #3),3.91,390,99897,7882,Hardcover,July 12th 2011,Scholastic Press
+277,Key of Knowledge,Nora Roberts,0739439065,(Key Trilogy #2),4.11,338,31574,723,Hardcover,November 25th 2003,Penguin USA
+278,Fire,Kristin Cashore,0803734611,(Graceling Realm #2),4.12,480,148597,9821,Hardcover,October 5th 2009,Dial Books
+279,The Upside of Unrequited,Becky Albertalli,0062348701,,4.00,336,47129,8319,Hardcover,April 11th 2017,Balzer + Bray
+280,The Fill-In Boyfriend,Kasie West,006233638X,,3.92,343,44098,5576,Paperback,May 5th 2015,HarperTeen
+281,Before I Fall,Lauren Oliver,0061726818,,3.91,470,273535,19713,Paperback,October 25th 2010,HarperCollins
+282,Definitely Dead,Charlaine Harris,0441014917,(Sookie Stackhouse #6),4.02,342,180342,3875,Mass Market Paperback,March 27th 2007,Ace Books
+283,Devil in Spring,Lisa Kleypas,,(The Ravenels #3),4.08,288,18524,2346,Kindle Edition,February 21st 2017,Avon
+284,Beautiful Oblivion,Jamie McGuire,,(The Maddox Brothers  #1),4.12,337,64189,6289,Kindle Edition,July 1st 2014,Atria Books
+285,Love Unscripted,Tina Reber,1451533969,(Love #1),4.03,668,66170,3464,Paperback,March 6th 2010,CreateSpace Independent Publishing Platform
+286,Losing Hope,Colleen Hoover,,(Hopeless #2),4.35,321,90878,6927,Kindle Edition,July 8th 2013,Atria Books
+287,Shadowfever,Karen Marie Moning,0385341679,(Fever #5),4.41,608,92204,6477,Hardcover,January 18th 2011,Delacorte Press
+288,Uprooted,Naomi Novik,0804179034,,4.10,435,127178,18715,Hardcover,May 19th 2015,Del Rey
+289,First Grave on the Right,Darynda Jones,0312662750,(Charley Davidson #1),4.06,310,67317,7275,Hardcover,February 1st 2011,St. Martin's Press
+290,The Heiress Effect,Courtney Milan,1937248151,(Brothers Sinister #2),3.92,280,10146,1137,ebook,July 15th 2013,Courtney Milan
+291,Wicked Lovely,Melissa Marr,0061214655,(Wicked Lovely #1),3.69,328,142695,6884,Hardcover,June 12th 2007,HarperTeen
+292,Welcome to Temptation,Jennifer Crusie,0312932804,(Dempseys #1),3.95,416,30349,1116,Paperback,July 11th 2004,St. Martin's Paperbacks
+293,Forbidden,Tabitha Suzuma,1862308160,,4.05,418,48972,8732,Paperback,May 27th 2010,Definitions
+294,"Heaven, Texas",Susan Elizabeth Phillips,0380776847,(Chicago Stars #2),4.07,384,28337,1225,Mass Market Paperback,April 1st 1995,Avon
+295,Dreams of Gods & Monsters,Laini Taylor,0316134074,(Daughter of Smoke & Bone #3),4.21,613,73646,10018,Hardcover,April 8th 2014,"Little, Brown & Company"
+296,Cry Wolf,Patricia Briggs,0441016154,(Alpha & Omega #1),4.12,294,79776,3493,Mass Market Paperback,July 29th 2008,Ace Books
+297,The Rose & the Dagger,Renée Ahdieh,0399171622,(The Wrath and the Dawn #2),4.15,416,46154,7112,Hardcover,April 26th 2016,G.P. Putnam's Sons Books for Young Readers
+298,Play,Kylie Scott,,(Stage Dive #2),4.31,294,46542,4232,Kindle Edition,March 25th 2014,St. Martin's Griffin
+299,Effortless,S.C. Stephens,1476717486,(Thoughtless #2),4.36,487,110760,4440,Paperback,January 8th 2013,Gallery Books
+300,Backstage Pass,Olivia Cunning,1402244428,(Sinners on Tour #1),4.04,344,55017,3432,Paperback,October 1st 2010,Sourcebooks Casablanca
+301,An Echo in the Bone,Diana Gabaldon,0752898477,(Outlander #7),4.44,1149,103430,5702,Hardcover,January 21st 2010,Orion
+302,Heir of Fire,Sarah J. Maas,1619630656,(Throne of Glass #3),4.51,565,214196,21054,Hardcover,September 2nd 2014,Bloomsbury USA Childrens
+303,The Governess Affair,Courtney Milan,,(Brothers Sinister 0.5),3.85,101,13069,1444,ebook,April 21st 2012,Courtney Milan
+304,Like Water for Chocolate,Laura Esquivel,0552995878,(Como agua para chocolate #1),3.94,224,307395,8039,Paperback,September 16th 1993,Black Swan
+305,Truth or Beard,Penny Reid,1942874111,(Winston Brothers #1),3.96,390,28016,3245,ebook,July 21st 2015,Caped Publishing
+306,The Longest Ride,Nicholas Sparks,1455520659,,4.14,398,102723,9402,Hardcover,September 17th 2013,Grand Central Publishing
+307,Ella Enchanted,Gail Carson Levine,0590920685,(Ella Enchanted #1),3.98,232,366514,9577,Paperback,September 1st 1998,Scholastic Books
+308,One Foot in the Grave,Jeaniene Frost,0061245097,(Night Huntress #2),4.31,357,88031,3561,Mass Market Paperback,April 29th 2008,Avon
+309,Tears of the Moon,Nora Roberts,0515128546,(Gallaghers of Ardmore #2),4.19,346,28626,693,Mass Market Paperback,July 1st 2000,Berkley Books
+310,Empire of Storms,Sarah J. Maas,1619636077,(Throne of Glass #5),4.57,704,139335,16788,Hardcover,September 6th 2016,Bloomsbury Children's Books
+311,The Grand Sophy,Georgette Heyer,0099465639,,4.17,328,22527,2767,Paperback,June 3rd 2004,Arrow
+312,The Kiss of Deception,Mary E. Pearson,,(The Remnant Chronicles #1),4.03,492,70519,9794,Kindle Edition,July 8th 2014,Henry Holt
+313,Midnight Sun,Stephenie Meyer,,(Twilight  #1.5),4.02,264,141778,9345,ebook,August 28th 2008,
+314,Perfection,R.L. Mathewson,,(Neighbor from Hell  #2),4.15,247,58789,2648,ebook,August 27th 2011,
+315,Heaven and Earth,Nora Roberts,0749932821,(Three Sisters Island #2),4.14,416,34800,927,Paperback,February 1st 2002,Judy Piatkus
+316,Beautiful Stranger,Christina Lauren,1476731535,(Beautiful Bastard #2),4.22,345,66543,3620,Paperback,April 16th 2013,Gallery Books
+317,A Knight in Shining Armor,Jude Deveraux,0743457269,(Montgomery/Taggert (Publication order)  #13),4.22,464,31380,2115,Paperback,December 1st 2002,Pocket Books
+318,Breathe,Abbi Glines,,(Sea Breeze #1),3.87,164,76587,3921,Kindle Edition,May 16th 2011,Wild Child Publishing
+319,Dash & Lily's Book of Dares,Rachel Cohn,0375866590,(Dash & Lily #1),3.80,260,67945,7275,Hardcover,October 26th 2010,Knopf Books for Young Readers
+320,North and South,Elizabeth Gaskell,0140620192,,4.13,521,128754,6506,Paperback,January 13th 1994,Penguin Books
+321,Smooth Talking Stranger,Lisa Kleypas,0312351666,(Travises #3),4.16,340,33832,1710,Mass Market Paperback,March 31st 2009,St. Martin's Press
+322,Cold-Hearted Rake,Lisa Kleypas,,(The Ravenels #1),3.82,419,20187,2237,Kindle Edition,October 27th 2015,Avon
+323,Grey,E.L. James,1101946342,(Fifty Shades as Told by Christian #1),3.78,576,127298,10996,Paperback,June 18th 2015,Vintage
+324,Born in Ice,Nora Roberts,0515116750,(Born In Trilogy #2),4.14,371,30957,713,Mass Market Paperback,August 1st 1995,Berkley Books
+325,Natural Born Charmer,Susan Elizabeth Phillips,0060734574,(Chicago Stars #7),4.15,400,30260,1534,Hardcover,February 6th 2007,William Morrow
+326,The Unhoneymooners,Christina Lauren,1501128035,,4.05,400,18625,3768,Paperback,May 14th 2019,Gallery Books
+327,Let it Snow,John Green,,,3.80,365,93102,9124,Kindle Edition,December 2016,Speak
+328,The Perfect Hope,Nora Roberts,1455807044,(Inn BoonsBoro Trilogy #3),4.16,,35729,2274,MP3 CD,November 6th 2012,Brilliance Audio
+329,Because of Miss Bridgerton,Julia Quinn,0062388142,(Rokesbys #1),3.88,375,17612,1878,Mass Market Paperback,March 29th 2016,Avon
+330,Ignite Me,Tahereh Mafi,,(Shatter Me #3),4.43,421,115947,14326,Kindle Edition,February 4th 2014,HarperCollins
+331,Roomies,Christina Lauren,1501165836,,3.89,368,22470,3266,Paperback,December 5th 2017,Gallery Books
+332,Captive Prince,C.S. Pacat,,(Captive Prince #1),3.92,240,42103,5474,ebook,May 22nd 2012,
+333,Practice Makes Perfect,Julie James,0425226743,,3.98,291,27544,1582,Mass Market Paperback,March 3rd 2009,Berkley Sensation
+334,Across the Universe,Beth Revis,1595143971,(Across the Universe #1),3.77,399,107535,10137,Hardcover,January 11th 2011,Razorbill
+335,Unearthly,Cynthia Hand,0061996165,(Unearthly #1),4.03,435,115737,7691,Hardcover,January 4th 2011,HarperTeen
+336,Simply Irresistible,Jill Shalvis,044657161X,(Lucky Harbor #1),3.92,311,30829,1888,Mass Market Paperback,October 1st 2010,Forever
+337,Silence,Becca Fitzpatrick,1442426640,"(Hush, Hush #3)",4.14,448,228694,7745,Hardcover,October 4th 2011,Simon & Schuster Books for Young Readers
+338,The Perks of Being a Wallflower,Stephen Chbosky,,,4.20,213,1109371,52652,Paperback,February 1999,MTV Books/Pocket Books
+339,Royally Screwed,Emma Chase,,(Royally #1),4.07,276,30487,3500,Kindle Edition,October 18th 2016,"Emma Chase, LLC"
+340,The Sky Is Everywhere,Jandy Nelson,0803734956,,4.02,275,82812,8849,Hardcover,March 9th 2010,Dial Books
+341,Making Faces,Amy Harmon,,,4.34,405,51521,7285,ebook,October 12th 2013,
+342,Face the Fire,Nora Roberts,0749932988,(Three Sisters Island #3),4.15,358,33786,844,Paperback,May 1st 2002,Judy Piatkus
+343,We Were Liars,E. Lockhart,,,3.84,242,387418,43867,Kindle Edition,May 13th 2014,Delacorte Press
+344,Torment,Lauren Kate,0385739141,(Fallen #2),3.88,452,196313,7652,Hardcover,September 28th 2010,Delacorte Press
+345,Black Rose,Nora Roberts,0739453823,(In the Garden #2),4.05,303,34312,860,Paperback,May 31st 2005,Penguin USA
+346,A Princess in Theory,Alyssa Cole,0062685546,(Reluctant Royals #1),3.82,360,6279,1499,Mass Market Paperback,February 27th 2018,Avon
+347,Radiance,Grace Draven,,(Wraith Kings #1),4.12,297,24518,2495,Kindle Edition,January 13th 2015,Grace Draven
+348,Lover Reborn,J.R. Ward,0451235843,(Black Dagger Brotherhood #10),4.35,572,69771,4617,Hardcover,March 27th 2012,NAL
+349,Rock Chick,Kristen Ashley,1849231842,(Rock Chick #1),4.18,412,50069,3770,Paperback,December 1st 2008,Youwriteon
+350,Gabriel's Rapture,Sylvain Reynard,1936305550,(Gabriel's Inferno  #2),4.22,386,103685,3562,ebook,May 22nd 2012,Penguin Berkley
+351,Key of Valor,Nora Roberts,0515136530,(Key Trilogy #3),4.11,352,31253,743,Mass Market Paperback,December 30th 2003,Berkley Books
+352,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,1984801813,,4.15,291,532749,49566,Paperback,July 10th 2018,Dial Press
+353,Marked,P.C. Cast,0312360266,(House of Night #1),3.80,306,402504,13637,Paperback,May 1st 2007,St. Martin's Press
+354,Heartless,Marissa Meyer,1250044650,,4.06,453,67532,13758,Hardcover,November 8th 2016,Feiwel & Friends
+355,Marrying Winterborne,Lisa Kleypas,0062371843,(The Ravenels #2),4.08,380,18479,2055,ebook,May 31st 2016,Avon
+356,Seduction and Snacks,Tara Sivec,,(Chocolate Lovers #1),4.12,260,47411,5613,Paperback,June 22nd 2012,CreateSpace Independent Publishing Platform
+357,The Iron Duke,Meljean Brook,0425236676,(The Iron Seas #1),3.86,384,14861,1907,Paperback,October 5th 2010,Berkley Books
+358,Rush,Maya Banks,0425267040,(Breathless #1),3.97,396,65081,3938,Paperback,February 5th 2013,Berkley
+359,Any Duchess Will Do,Tessa Dare,0062240129,(Spindle Cove #4),4.06,375,15204,1531,Mass Market Paperback,May 28th 2013,Avon
+360,A Night Like This,Julia Quinn,0062072900,(Smythe-Smith Quartet #2),3.86,373,15534,1247,Mass Market Paperback,May 29th 2012,Avon
+361,The Vincent Boys,Abbi Glines,,(The Vincent Boys #1),3.97,260,69259,3787,Kindle Edition,October 12th 2011,
+362,Chesapeake Blue,Nora Roberts,0515136263,(Chesapeake Bay Saga #4),4.18,357,28369,781,Mass Market Paperback,January 27th 2004,Berkley Books
+363,All Together Dead,Charlaine Harris,0441014941,(Sookie Stackhouse #7),4.06,323,180610,3512,Hardcover,May 1st 2007,Ace
+364,This Heart of Mine,Susan Elizabeth Phillips,0380808080,(Chicago Stars #5),4.11,432,26470,1110,Mass Market Paperback,February 5th 2002,Avon
+365,Geekerella,Ashley Poston,1594749477,(Once Upon a Con #1),4.03,320,31297,7354,Hardcover,April 4th 2017,Quirk Books
+366,One Plus One,Jojo Moyes,0143127500,,3.95,368,131593,11230,Paperback,March 31st 2015,Penguin Books
+367,Down London Road,Samantha Young,0451419715,(On Dublin Street #2),4.23,369,45087,3085,Paperback,May 7th 2013,NAL
+368,The Raven Prince,Elizabeth Hoyt,0446618470,(Princes #1),3.98,392,17797,1203,Mass Market Paperback,November 1st 2006,Warner Forever
+369,P.S. I Like You,Kasie West,0545850975,,4.08,330,32147,5784,Hardcover,July 26th 2016,Point
+370,Then Came You,Lisa Kleypas,038077013X,(The Gamblers of Craven's #1),3.99,371,21264,1087,Mass Market Paperback,September 30th 2003,Avon
+371,The Secret of Ella and Micha,Jessica Sorensen,1939045010,(The Secret #1),4.00,313,68080,3335,Paperback,October 4th 2012,
+372,Siege and Storm,Leigh Bardugo,,(The Shadow and Bone Trilogy #2),4.05,432,137709,15170,Hardcover,June 4th 2013,Henry Holt and Company
+373,Blood Brothers,Nora Roberts,0515143804,(Sign of Seven #1),4.16,314,46888,1674,Mass Market Paperback,November 27th 2007,Jove Books
+374,Requiem,Lauren Oliver,0062014536,(Delirium #3),3.75,391,119665,12804,Hardcover,March 5th 2013,HarperCollins Children's Books
+375,Never Never,Colleen Hoover,,(Never Never #1),4.09,159,64564,9039,Kindle Edition,January 7th 2015,Hoover Ink
+376,Ten Ways to Be Adored When Landing a Lord,Sarah MacLean,0061852066,(Love By Numbers #2),3.91,357,17261,1244,Mass Market Paperback,October 26th 2010,Avon
+377,Love in the Time of Cholera,Gabriel García Márquez,140003468X,,3.91,348,363917,17538,Paperback,October 5th 2003,Vintage International
+378,The Princess Diaries,Meg Cabot,0613371658,(The Princess Diaries #1),3.78,283,220279,4962,Library Binding,July 1st 2001,Turtleback
+379,Montana Sky,Nora Roberts,0425205754,,4.08,438,41169,968,Paperback,June 27th 2006,Berkley
+380,Beautiful Player,Christina Lauren,,(Beautiful Bastard #3),4.35,432,50121,3405,Kindle Edition,October 29th 2013,Gallery Books
+381,Edenbrooke,Julianne Donaldson,1609089464,(Edenbrooke #1),4.34,264,35307,7645,Paperback,March 27th 2012,Shadow Mountain
+382,Norwegian Wood,Haruki Murakami,0375704027,,4.03,296,280712,16669,Paperback,September 12th 2000,Vintage Books
+383,Lover at Last,J.R. Ward,0451239350,(Black Dagger Brotherhood #11),4.31,608,57593,5923,Hardcover,March 26th 2013,NAL
+384,This Girl,Colleen Hoover,,(Slammed #3),4.15,304,67304,6065,Kindle Edition,April 30th 2013,Atria Books
+385,This Is What Happy Looks Like,Jennifer E. Smith,0316212822,(This Is What Happy Looks Like #1),3.68,404,46287,4953,Hardcover,April 2nd 2013,Headline
+386,Bloodfever,Karen Marie Moning,038533916X,(Fever #2),4.29,303,87753,4891,Hardcover,October 16th 2007,Delacorte Press
+387,Ten Things I Love About You,Julia Quinn,0061491896,(Bevelstoke #3),3.98,377,16847,1061,Mass Market Paperback,May 25th 2010,Avon
+388,A Court of Frost and Starlight,Sarah J. Maas,168119631X,(A Court of Thorns and Roses #3.1),3.91,229,83208,11160,Hardcover,May 1st 2018,Bloomsbury YA
+389,Rubinrot,Kerstin Gier,3401063340,(Edelstein-Trilogie #1),4.12,343,96574,9316,Hardcover,January 6th 2009,Arena Verlag
+390,The Dark Highlander,Karen Marie Moning,0440237556,(Highlander #5),4.31,370,31936,1201,Mass Market Paperback,October 1st 2002,Dell
+391,"Will Grayson, Will Grayson",John Green,0525421580,"(Will Grayson, Will Grayson #1)",3.80,310,302325,17396,Hardcover,April 6th 2010,Dutton Books
+392,Dead and Gone,Charlaine Harris,0441017150,(Sookie Stackhouse #9),4.01,312,166126,4433,Hardcover,May 5th 2009,Ace Books
+393,Beauty: A Retelling of the Story of Beauty and the Beast,Robin McKinley,0064404773,(Folktales),4.05,256,67843,4909,Paperback,June 30th 1993,HarperCollins
+394,Flat-Out Love,Jessica Park,,(Flat-Out Love #1),4.00,355,55021,5327,Kindle Edition,September 11th 2012,Skyscape
+395,The Hook Up,Kristen Callihan,,(Game On #1),4.02,352,38633,3143,ebook,September 7th 2014,Kristen Callihan
+396,Origin,Jennifer L. Armentrout,1622660757,(Lux #4),4.42,374,78173,7171,Paperback,August 27th 2013,Entangled Publishing
+397,Sweet Filthy Boy,Christina Lauren,1476751803,(Wild Seasons #1),4.13,385,32719,3221,Paperback,May 13th 2014,Gallery Books
+398,Broken Prince,Erin Watt,1682305031,(The Royals #2),4.08,370,45948,5067,Paperback,July 25th 2016,Everafter Romance
+399,To Tame a Highland Warrior,Karen Marie Moning,0440242177,(Highlander #2),4.14,366,29635,1211,Mass Market Paperback,December 1st 1999,Dell
+400,Cinder,Marissa Meyer,,(The Lunar Chronicles #1),4.15,400,584870,48925,Hardcover,2012,Feiwel & Friends
+401,Pride and Prejudice,Jane Austen,,,4.25,279,2591154,57580,Paperback,October 10th 2000,Modern Library
+402,Gone with the Wind,Margaret Mitchell,0446675539,,4.29,1037,997704,18220,Paperback,April 1st 1999,Warner Books
+403,Daughter of Smoke & Bone,Laini Taylor,0316134023,(Daughter of Smoke & Bone #1),4.03,422,276337,27333,Hardcover,September 27th 2011,"Little, Brown Books for Young Readers"
+404,On Dublin Street,Samantha Young,,(On Dublin Street #1),4.22,372,158150,8742,Kindle Edition,August 31st 2012,
+405,A Court of Mist and Fury,Sarah J. Maas,,(A Court of Thorns and Roses #2),4.68,626,230989,32093,Kindle Edition,May 3rd 2016,Bloomsbury USA Childrens
+406,The Last Song,Nicholas Sparks,0446547565,,4.15,390,479486,11640,Hardcover,September 8th 2009,Grand Central Publishing
+407,Slammed,Colleen Hoover,,(Slammed #1),4.27,354,193959,15487,Kindle Edition,June 2016,Atria Books
+408,"Hush, Hush",Becca Fitzpatrick,1416989412,"(Hush, Hush #1)",3.98,391,519605,23599,Hardcover,October 13th 2009,Simon & Schuster BFYR
+409,Attachments,Rainbow Rowell,0525951989,,3.92,323,149949,18540,Hardcover,April 14th 2011,Dutton Adult
+410,The Duke and I,Julia Quinn,0380800829,(Bridgertons #1),4.09,384,73717,3342,Mass Market Paperback,June 27th 2006,Avon Books
+411,"Everything, Everything",Nicola Yoon,0553496646,,4.08,306,287538,34630,Hardcover,September 1st 2015,Delacorte Books for Young Readers
+412,City of Ashes,Cassandra Clare,1416914293,(The Mortal Instruments #2),4.19,453,661324,26507,Hardcover,March 25th 2008,Margaret K. McElderry Books
+413,Simon vs. the Homo Sapiens Agenda,Becky Albertalli,0062348671,(Creekwood #1),4.33,303,213425,28991,Hardcover,April 7th 2015,Balzer + Bray
+414,Water for Elephants,Sara Gruen,1565125606,,4.08,335,1251402,57705,Paperback,May 1st 2007,Algonquin Books
+415,Mockingjay,Suzanne Collins,0439023513,(The Hunger Games #3),4.03,390,2075949,99366,Hardcover,August 24th 2010,Scholastic Press
+416,Lola and the Boy Next Door,Stephanie Perkins,,(Anna and the French Kiss #2),3.98,384,138142,14066,Hardcover,September 29th 2011,Dutton Books
+417,Throne of Glass,Sarah J. Maas,,(Throne of Glass #1),4.22,406,476514,37786,Hardcover,August 7th 2012,Bloomsbury USA Children's
+418,City of Glass,Cassandra Clare,1416914307,(The Mortal Instruments #3),4.33,541,721174,25420,Hardcover,March 24th 2009,Margaret K. McElderry Books
+419,Reflected in You,Sylvia Day,0425263916,(Crossfire #2),4.32,338,294965,10101,Paperback,October 23rd 2012,Berkley
+420,Ugly Love,Colleen Hoover,,,4.27,337,144915,17285,Kindle Edition,August 5th 2014,Atria Books
+421,The Deal,Elle Kennedy,,(Off-Campus #1),4.28,342,107867,9272,Kindle Edition,February 24th 2015,Elle Kennedy Inc.
+422,The Lucky One,Nicholas Sparks,0446579939,,4.11,326,309995,9882,Hardcover,August 11th 2009,Grand Central Publishing
+423,Safe Haven,Nicholas Sparks,,,4.20,353,310373,13419,Kindle Edition,September 14th 2010,Grand Central Publishing
+424,Insurgent,Veronica Roth,0007442912,(Divergent #2),4.05,525,1047608,57626,Hardcover,May 1st 2012,HarperCollins Children's Books
+425,Maybe Someday,Colleen Hoover,,(Maybe #1),4.30,385,147827,16025,Kindle Edition,March 18th 2014,Atria Books
+426,Lover Eternal,J.R. Ward,0451218043,(Black Dagger Brotherhood #2),4.35,441,164183,6160,Mass Market Paperback,March 7th 2006,Signet
+427,Vampire Academy,Richelle Mead,159514174X,(Vampire Academy #1),4.13,332,505656,21116,Paperback,August 16th 2007,Razorbill
+428,Devil in Winter,Lisa Kleypas,006056251X,(Wallflowers #3),4.25,368,50796,3215,Mass Market Paperback,February 28th 2006,Avon
+429,Vision in White,Nora Roberts,0425227510,(Bride Quartet #1),4.11,325,119398,3914,Paperback,April 28th 2009,Berkley Books
+430,It Ends with Us,Colleen Hoover,,,4.40,385,154082,21960,Kindle Edition,August 2nd 2016,Atria Books
+431,P.S. I Still Love You,Jenny Han,144242673X,(To All the Boys I've Loved Before #2),4.13,337,155096,18676,Hardcover,May 26th 2015,Simon & Schuster Books for Young Readers
+432,Bridget Jones's Diary,Helen Fielding,014028009X,(Bridget Jones #1),3.76,288,833211,9049,Paperback,June 1st 1999,Penguin Books
+433,Clockwork Angel,Cassandra Clare,1416975861,(The Infernal Devices #1),4.33,481,591256,27924,Hardcover,August 31st 2010,"Simon & Schuster, Margaret K. McElderry"
+434,Northanger Abbey,Jane Austen,1593082649,,3.81,251,270080,10725,Paperback,March 3rd 2005,Barnes & Noble Classics
+435,The Great Gatsby,F. Scott Fitzgerald,,,3.91,180,3302835,60117,Paperback,September 2004,Scribner
+436,Dead Until Dark,Charlaine Harris,0441008534,(Sookie Stackhouse #1),3.96,292,474203,17718,Mass Market Paperback,May 1st 2001,Ace Books
+437,A Discovery of Witches,Deborah Harkness,0670022411,(All Souls Trilogy #1),4.00,579,311396,31060,Hardcover,February 2011,Viking Penguin
+438,Voyager,Diana Gabaldon,0385335997,(Outlander #3),4.39,870,226797,10054,Paperback,August 7th 2001,Delta
+439,Looking for Alaska,John Green,0142402516,,4.05,221,985950,52410,Paperback,December 28th 2006,Speak
+440,Graceling,Kristin Cashore,015206396X,(Graceling Realm #1),4.09,471,347662,20986,Hardcover,October 1st 2008,Harcourt
+441,Fallen,Lauren Kate,0385738935,(Fallen #1),3.73,452,449939,18958,Hardcover,December 8th 2009,Delacorte Press
+442,Shatter Me,Tahereh Mafi,0062085484,(Shatter Me #1),3.98,338,247589,25769,Hardcover,November 15th 2011,Harper
+443,Where She Went,Gayle Forman,0525422943,(If I Stay #2),4.03,297,241762,19598,Hardcover,April 5th 2011,Dutton Juvenile
+444,Tangled,Emma Chase,,(Tangled #1),4.10,254,100105,9163,Kindle Edition,August 2nd 2013,Gallery Books
+445,Obsidian,Jennifer L. Armentrout,,(Lux #1),4.21,335,202055,16680,Paperback,May 8th 2012,Entangled Teen
+446,Beautiful Bastard,Christina Lauren,1476730105,(Beautiful Bastard #1),4.03,320,135860,8181,ebook,February 12th 2013,Gallery Books
+447,Wait for You,J. Lynn,,(Wait for You #1),4.18,332,126225,8003,Nook,February 26th 2013,J. Lynn
+448,Beautiful Creatures,Kami Garcia,0316042676,(Beautiful Creatures #1),3.76,563,504046,21634,Hardcover,December 1st 2009,"Little, Brown and Company"
+449,Bet Me,Jennifer Crusie,0312987854,,3.93,391,81404,3554,Mass Market Paperback,August 31st 2004,St. Martin's Paperbacks
+450,Secrets of a Summer Night,Lisa Kleypas,0061259349,(Wallflowers #1),4.05,384,46161,2476,Paperback,November 28th 2006,Avon
+451,Twilight,Stephenie Meyer,0316015849,(Twilight  #1),3.59,498,4445033,99242,Paperback,September 6th 2006,"Little, Brown and Company"
+452,The Fault in Our Stars,John Green,,,4.23,313,3052688,149713,Hardcover,January 10th 2012,Dutton Books
+453,Fifty Shades of Grey,E.L. James,1612130291,(Fifty Shades #1),3.67,356,1679363,77225,Paperback,May 25th 2011,Vintage
+454,New Moon,Stephenie Meyer,0316160199,(Twilight  #2),3.53,563,1305349,45524,Hardcover,September 6th 2006,"Little, Brown and Company"
+455,Eclipse,Stephenie Meyer,0316160202,(Twilight  #3),3.69,629,1278324,36345,Hardcover,August 7th 2007,"Little, Brown and Company"
+456,Breaking Dawn,Stephenie Meyer,031606792X,(Twilight  #4),3.70,756,1189511,45638,Hardcover,August 2nd 2008,"Little, Brown and Company"
+457,Outlander,Diana Gabaldon,0440242940,(Outlander #1),4.22,850,715647,42094,Mass Market Paperback,July 26th 2005,Dell Publishing Company
+458,The Notebook,Nicholas Sparks,,(The Notebook #1),4.08,227,1187282,18850,Kindle Edition,January 5th 2000,Grand Central
+459,Eleanor & Park,Rainbow Rowell,1250012570,,4.08,328,741279,61209,Hardcover,February 26th 2013,St. Martin's Press
+460,Me Before You,Jojo Moyes,0143124544,(Me Before You #1),4.26,369,950677,78225,Paperback,July 30th 2013,Penguin Books
+461,Jane Eyre,Charlotte Brontë,0142437204,,4.11,532,1448035,36728,Paperback,February 4th 2003,Penguin
+462,Fifty Shades Darker,E.L. James,1612130585,(Fifty Shades #2),3.85,532,678585,28703,Paperback,September 16th 2011,The Writer's Coffee Shop Publishing House
+463,The Time Traveler's Wife,Audrey Niffenegger,,,3.96,500,1449166,45902,ebook,September 23rd 2013,Zola Books
+464,Fifty Shades Freed,E.L. James,0345803507,(Fifty Shades #3),3.86,579,655735,26022,Paperback,April 17th 2012,Vintage Books
+465,The Selection,Kiera Cass,0062059939,(The Selection #1),4.14,336,729677,42607,Hardcover,April 24th 2012,HarperTeen
+466,Beautiful Disaster,Jamie McGuire,,(Beautiful #1),4.12,319,498588,26849,Kindle Edition,May 26th 2011,Jamie McGuire
+467,Anna and the French Kiss,Stephanie Perkins,0525423273,(Anna and the French Kiss #1),4.03,372,335728,28302,Hardcover,December 2nd 2010,Dutton Juvenile
+468,Romeo and Juliet,William Shakespeare,0743477111,,3.74,283,1872059,17451,Paperback,2002,Washington Square Press
+469,Fangirl,Rainbow Rowell,,,4.09,483,486602,46221,Kindle Edition,September 10th 2013,St. Martin's Press
+470,A Walk to Remember,Nicholas Sparks,,,4.16,215,606536,12289,Kindle Edition,May 24th 2000,Grand Central Publishing
+471,Wuthering Heights,Emily Brontë,0393978893,,3.84,464,1176386,31184,Paperback,2002,Norton
+472,Sense and Sensibility,Jane Austen,,,4.07,409,868861,14011,Paperback,April 29th 2003,Penguin Books
+473,To All the Boys I've Loved Before,Jenny Han,,(To All the Boys I've Loved Before #1),4.16,355,333948,32619,Hardcover,April 15th 2014,Simon & Schuster Books for Young Readers
+474,Divergent,Veronica Roth,0062024035,(Divergent #1),4.21,487,2609699,105282,Paperback,February 28th 2012,Katherine Tegen Books
+475,A Court of Thorns and Roses,Sarah J. Maas,1619634449,(A Court of Thorns and Roses #1),4.26,419,329508,36468,Hardcover,May 5th 2015,Bloomsbury USA Childrens
+476,The Kiss Quotient,Helen Hoang,,(The Kiss Quotient #1),3.92,333,70956,12029,Kindle Edition,June 5th 2018,Berkley
+477,Bared to You,Sylvia Day,0425276767,(Crossfire #1),4.19,334,423873,17516,Paperback,February 4th 2014,Berkley
+478,The Elite,Kiera Cass,0062059963,(The Selection #2),4.02,336,341142,25292,Hardcover,April 23rd 2013,HarperTeen
+479,City of Bones,Cassandra Clare,1416914285,(The Mortal Instruments #1),4.11,485,1448600,57176,Hardcover,March 27th 2007,Margaret K. McElderry Books
+480,Emma,Jane Austen,0141439580,,3.99,474,569701,14347,Paperback,May 6th 2003,Penguin Books
+481,The Hunger Games,Suzanne Collins,0439023483,(The Hunger Games #1),4.33,374,5746381,163201,Hardcover,October 2008,Scholastic Press
+482,Persuasion,Jane Austen,0192802631,,4.13,249,471058,15688,Paperback,March 18th 2004,Oxford University Press
+483,Dark Lover,J.R. Ward,0451216954,(Black Dagger Brotherhood #1),4.20,393,266641,11911,Mass Market Paperback,September 6th 2005,Penguin Group (USA)
+484,The Hating Game,Sally  Thorne,,,4.20,387,82142,13201,ebook,August 9th 2016,William Morrow
+485,The One,Kiera Cass,0062059998,(The Selection #3),4.20,323,304586,24961,Hardcover,May 6th 2014,HarperTeen
+486,Easy,Tammara Webber,0425266745,(Contours of the Heart #1),4.10,336,205236,11535,Paperback,November 6th 2012,Penguin Berkley
+487,The Night Circus,Erin Morgenstern,0385534639,,4.04,391,576558,63611,Hardcover,September 13th 2011,Doubleday
+488,If I Stay,Gayle Forman,0525421033,(If I Stay #1),3.95,201,654391,37307,Hardcover,April 2nd 2009,Dutton Books for Young Readers
+489,Dear John,Nicholas Sparks,0446528056,,4.03,276,503490,11172,Hardcover,October 30th 2006,Warner Books (NY)
+490,Matched,Ally Condie,0525423648,(Matched #1),3.67,369,599091,32038,Hardcover,November 30th 2010,Dutton Books for Young Readers
+491,Dragonfly in Amber,Diana Gabaldon,0385335970,(Outlander #2),4.32,743,253787,13807,Paperback,August 7th 2001,Bantam
+492,Hopeless,Colleen Hoover,1301949825,(Hopeless #1),4.31,410,239314,20278,ebook,December 19th 2012,
+493,Catching Fire,Suzanne Collins,0439023491,(The Hunger Games #2),4.29,391,2205107,92036,Hardcover,September 1st 2009,Scholastic Press
+494,The Rosie Project,Graeme Simsion,1476729085,(Don Tillman #1),4.02,297,384430,35868,Hardcover,October 1st 2013,Simon & Schuster
+495,Perfect Chemistry,Simone Elkeles,0802798233,(Perfect Chemistry #1),4.07,368,226250,10408,Hardcover,December 23rd 2008,Walker Childrens
+496,Delirium,Lauren Oliver,0061726834,(Delirium #1),3.98,441,392941,25640,Paperback,February 7th 2012,HarperCollins
+497,Shiver,Maggie Stiefvater,0545123267,(The Wolves of Mercy Falls  #1),3.77,392,403706,22053,Hardcover,August 1st 2009,Scholastic Press
+498,The Host,Stephenie Meyer,0316068047,(The Host #1),3.84,620,830170,40764,Hardcover,May 6th 2008,"Little, Brown and Company"
+499,The Princess Bride,William Goldman,0345418263,,4.26,398,712641,18259,Paperback,July 15th 2003,Ballantine Books (Ballantine Reader's Circle)
