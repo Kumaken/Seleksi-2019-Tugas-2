@@ -53,15 +53,25 @@ Hal ini juga berlaku untuk tabel genre, publisher, dan series.
 ### 3. Screenshots:
 bukti penyimpanan:
 ![aaa](screenshots/book_table.png)
+Book_table
 ![aaa](screenshots/author_table.png)
+author_table
 ![aaa](screenshots/publisher_table.png)
+publisher_table
 ![aaa](screenshots/genre_table.png)
+genre_table
 ![aaa](screenshots/series_table.png)
+series_table
 ![aaa](screenshots/book_author_table.png)
+book_author_table
 ![aaa](screenshots/book_publisher_table.png)
+book_publisher_table
 ![aaa](screenshots/book_genre_table.png)
+book_genre_table
 ![aaa](screenshots/book_series_table.png)
+book_series_table
 ![aaa](screenshots/master_table.png)
+master_table
 
 ### 4. Kendala:
 Scraping data dari goodreads kadang-kadang feels like hell. Data yang ditampilkan sangat inconsistent. Contoh:
@@ -76,7 +86,7 @@ Scraping data dari goodreads kadang-kadang feels like hell. Data yang ditampilka
 
 4.5. Ada buku yang tidak disisipkan format bukunya...
   
- 
+# Thank you! 
 <p align="center">
   <br>
   Abel Stanley - 2019
