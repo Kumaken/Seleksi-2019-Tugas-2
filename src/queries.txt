@@ -1,0 +1,28 @@
+1. Inserting value if not exists:
+INSERT author_table (author_name)
+SELECT DISTINCT author
+FROM comedy_table
+WHERE
+   NOT EXISTS (SELECT * FROM author_table 
+              WHERE comedy_table.author = author_table.author_name)
+
+2. reset auto-increment:
+ALTER TABLE publisher_table AUTO_INCREMENT=0;
+
+3. create table like another:
+CREATE TABLE master_table LIKE master_comedy_table
+
+4. Creating relation tables:
+INSERT book_author_table (book_id, author_id)
+SELECT DISTINCT book_table.book_id, author_table.author_id
+FROM author_table, book_table, master_table
+WHERE
+	book_table.title = master_table.title
+	AND author_table.author_name = master_table.author
+
+thriller_table
+mystery_table
+romance_table
+fantasy_table
+horror_table
+comedy_table
