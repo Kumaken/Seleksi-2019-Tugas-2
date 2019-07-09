@@ -87,8 +87,10 @@ Scraping data dari goodreads kadang-kadang feels like hell. Data yang ditampilka
 4.5. Ada buku yang tidak disisipkan format bukunya...
 
 ### 5. Reference:
-5.1. ![Heidi SQL](https://www.heidisql.com/)
-5.2. ![Python date-util-parser](https://dateutil.readthedocs.io/en/stable/parser.html)
+
+5.1. [Heidi SQL](https://www.heidisql.com/)
+
+5.2. [Python date-util-parser](https://dateutil.readthedocs.io/en/stable/parser.html)
 
 # Thank you! 
 <p align="center">
